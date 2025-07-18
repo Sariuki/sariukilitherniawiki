@@ -1,0 +1,34 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/01-dioses/lerian/","tags":["deidad","panteón élfico","conocimiento","memoria","Eldrador","Amanecer Divino","historia","magia"]}
+---
+
+# Lerian
+
+## Biografía
+
+Nacida en la luz prístina del Amanecer Divino, Lerian es la hija de [[Lithernia/09_Personajes/01_Dioses/Thirogrim\|Thirogrim]], el dios patrón de la magia. Mientras su padre encarna el poder arcano en su forma más pura y desatada, Lerian representa su propósito y su legado: el conocimiento acumulado, la sabiduría que se destila de la experiencia y la memoria inmutable que da forma a la identidad de los pueblos. Es la guardiana silenciosa de cada historia contada, cada conjuro escrito y cada secreto susurrado a través de las eras.
+
+Su existencia está definida por una paradoja fundamental: su matrimonio con [[Lithernia/09_Personajes/01_Dioses/Morgal\|Morgal]], el dios de las mentiras y las sombras. Esta unión, incomprensible para muchos mortales, representa un equilibrio cósmico esencial en la psique élfica. Lerian custodia la verdad y la historia registrada, mientras [[Lithernia/09_Personajes/01_Dioses/Morgal\|Morgal]] teje engaños y verdades a medias, poniendo a prueba constantemente la validez de todo conocimiento. Su relación es un eterno duelo intelectual; ella trabaja para desentrañar sus ilusiones y preservar la verdad, mientras él se esfuerza por corromperla, ocultarla o reescribirla. De esta tensión nace la dualidad élfica: la profunda sabiduría y la astucia sibilina, la luz de la erudición y las sombras de la intriga.
+
+Durante la Era del Primer Rey, Lerian observó con interés académico el ascenso de un imperio unificado por un mortal. Sin embargo, el Cataclismo del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] fue una herida profunda para ella. Más que la caída de un rey o la arrogancia de los dioses, lamentó la destrucción incuantificable de conocimiento. Bibliotecas enteras, epopeyas, anales históricos y tradiciones orales de una civilización entera fueron reducidos a cenizas y olvido. Desde entonces, una de sus principales motivaciones es la recuperación de estos "Ecos del Pasado", inspirando a sus seguidores a buscar en las ruinas pre-[[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] cualquier fragmento de la historia perdida.
+
+En el reino de [[Lithernia/02_Reinos/Eldrador\|Eldrador]], Lerian es venerada por eruditos, historiadores, bardos y magos que se dedican al estudio. Dentro del rígido sistema de castas de "La Mano de Hierro", son sus seguidores quienes mantienen viva la memoria ancestral de los elfos, un pilar fundamental para una raza de tan extraordinaria longevidad. Creen que solo comprendiendo los milenios de triunfos y tragedias pueden evitar repetir los errores del pasado. Ante la Profecía del Retorno del Rey, la postura de Lerian es de neutralidad y observación. No busca cumplirla ni impedirla, sino comprenderla. Para ella, la profecía no es una promesa de salvación o una amenaza de caos, sino el enigma más fascinante de la era actual, y pacientemente espera registrar su desenlace.
+
+## Descripción Física y Manifestaciones
+
+Lerian se manifiesta como una figura élfica de una belleza serena y atemporal. Su avatar irradia una antigüedad que trasciende la edad, con largos cabellos de plata líquida que parecen tejidos con luz estelar, un guiño a su tía [[Lithernia/09_Personajes/01_Dioses/Arzia\|Arzia]]. Sus ojos, de un profundo color zafiro, no reflejan la luz, sino que la absorben, conteniendo en su interior constelaciones danzantes y [[Lithernia/06_Magia/Runas\|Runas]] antiguas que se mueven lentamente.
+
+Viste túnicas sencillas pero elegantes, confeccionadas con hilos que parecen cambiar de color según el conocimiento que se esté revelando cerca de ella, del blanco marfil al azul profundo o al gris crepuscular. No porta armas, pero a menudo se la representa con un tomo colosal encuadernado en corteza de árbol ancestral, cuyas páginas se escriben y reescriben a sí mismas con la historia del universo. Otras veces, está rodeada por un torbellino silencioso de pergaminos y fragmentos de luz que susurran los secretos de los caídos y los olvidados. Su presencia inspira calma, concentración y una abrumadora sensación de perspectiva histórica.
+
+## Culto y Adoradores
+
+El culto a Lerian es contemplativo y académico. No se le rinde pleitesía en grandes templos de piedra, sino en los salones silenciosos de las bibliotecas, en los observatorios de los astrónomos y en los archivos donde se preserva la historia. Sus seguidores no son proselitistas; creen que el conocimiento debe ser buscado, no impuesto.
+
+*   **Clérigos y Paladines:** Sus sacerdotes son a menudo bibliotecarios, escribas, sabios y bardos. Su deber sagrado es proteger el conocimiento de la censura, la destrucción y la manipulación. Una orden de paladines conocida como los "Guardianes del Pergamino" jura defender con su vida los grandes archivos y enfrentarse a quienes queman libros o reescriben la historia para servir a tiranos.
+*   **Rituales y Ofrendas:** Los rituales en su honor incluyen la transcripción cuidadosa de textos antiguos, largos períodos de meditación silenciosa, o la recitación de las grandes epopeyas durante noches señaladas. Las ofrendas más preciadas para Lerian no son el oro ni las gemas, sino un libro raro, un fragmento de una historia perdida, un mapa de ruinas olvidadas o una canción recuperada del olvido.
+
+## Legado e Impacto en Lithernia
+
+Lerian es la memoria silenciosa de Lithernia. Mientras otros dioses luchan por el dominio y la gloria en el plano mortal, ella teje el tapiz de la realidad con los hilos del pasado, el presente y el futuro. Su influencia es menos visible que la de los dioses de la guerra o la naturaleza, pero es infinitamente más duradera. Cada cuento contado junto a una hoguera, cada lección impartida por un maestro y cada decisión tomada a la luz de la experiencia histórica es una manifestación de su poder.
+
+En la Era Actual, su dominio es más crucial que nunca. Los secretos para entender la Profecía del Retorno del Rey, la verdadera naturaleza del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], la ubicación de las Lanzas Celestiales y las debilidades de los dioses se encuentran en las profundidades de su Archivo Eterno. Los aventureros que busquen cambiar el destino de Lithernia inevitablemente tendrán que buscar su favor o adentrarse en sus dominios. Sin embargo, Lerian no entrega su saber a la ligera. Exige respeto, diligencia y, sobre todo, la comprensión de que cada verdad revelada conlleva un peso y una responsabilidad. Ella es la guardiana de las llaves del pasado, y por tanto, la arquitecta silenciosa de todo lo que está por venir.

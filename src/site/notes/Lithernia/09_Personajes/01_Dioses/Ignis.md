@@ -1,0 +1,40 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/01-dioses/ignis/","tags":["dios","dragón","primordial","fuego","forja","metálico","Era de las Escamas y Fuego"]}
+---
+
+# Ignis
+
+Ignis es una de las deidades [[Lithernia/09_Personajes/01_Dioses/Primordiales\|Primordiales]] de Lithernia, un ser ancestral cuya existencia se remonta a la misma Forja del Mundo. Conocido como el Gran Carmesí, es el progenitor de los [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] metálicos y la personificación del fuego creador: el calor del núcleo del mundo, la furia de los volcanes y la pasión del artesano ante el yunque.
+
+### Biografía
+
+**Orígenes y la Forja del Mundo**
+En los albores del tiempo, cuando los dioses y [[Lithernia/09_Personajes/01_Dioses/Primordiales\|Primordiales]] daban forma a la realidad, surgieron cuatro [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] ancestrales como guardianes y modeladores del equilibrio elemental. Ignis fue uno de ellos. Nació del Fuego Primordial, un ser colosal cuyas escamas carmesíes brillaban con el calor de una estrella. Mientras otros moldeaban los vientos o las sombras, Ignis se dedicó a la tierra misma. Con su aliento de magma líquido, levantó las grandes cordilleras ígneas y dio a luz a los primeros volcanes, convirtiéndose en el gran arquitecto de la geografía ardiente de Lithernia. Su rugido era el trueno de la montaña y su presencia, la promesa del metal precioso oculto en las profundidades.
+
+**La Era de las Escamas y Fuego**
+Tras la Forja del Mundo, comenzó la Era de las Escamas y Fuego, y el poder de los [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] se volvió absoluto. Ignis, exaltado como una deidad viviente, no buscaba el caos, sino la conquista a través del orden y la creación. Proclamó su dominio a través del fuego y forjó alianzas con las razas mortales que compartían su pasión por la artesanía: los [[Lithernia/03_Razas/Enanos\|Enanos]], que aprendieron de él a escuchar el corazón de la montaña, y los primeros [[Lithernia/03_Razas/Humanos\|Humanos]], a quienes enseñó los secretos de la forja. Bajo su tutela, estos pueblos crearon armas y artefactos de una calidad nunca antes vista.
+
+Este ascenso lo puso en conflicto directo con **Tal’vorak**, el dragón de las tormentas y líder de los [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] cromáticos. Así comenzaron las legendarias **Guerras Dracónicas**, un conflicto milenario que enfrentó a los [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] metálicos de Ignis contra las hordas cromáticas de Tal’vorak. Las batallas eran de una escala apocalíptica: mares hirvieron bajo el aliento de Ignis, y picos montañosos fueron partidos por los relámpagos de Tal’vorak. Durante esta guerra, los otros [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] [[Lithernia/09_Personajes/01_Dioses/Primordiales\|Primordiales]], [[Lithernia/09_Personajes/02_Figuras_Historicas/Fidriel\|Fidriel]] y [[Lithernia/09_Personajes/02_Figuras_Historicas/Sariel\|Sariel]], tejieron intrigas y cambiaron de bando, prolongando una contienda que dejó cicatrices imborrables en el continente.
+
+**La Caída Dragónica**
+Ningún imperio dura para siempre. Tras generaciones de lucha incesante, el poder de los grandes [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] comenzó a menguar. El imperio de Ignis, agotado por la guerra sin fin, sufrió traiciones desde dentro. Clanes menores de [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] metálicos, cansados del conflicto, desertaron o se aislaron. La hegemonía dracónica se fragmentó y, finalmente, colapsó. Con la caída de los grandes linajes, los pueblos mortales que una vez sirvieron a los [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] se alzaron, reclamando su independencia y forjando sus propios destinos. Ignis, como los otros [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] ancestrales, se retiró del mundo, su destino final envuelto en el mito. Algunos relatos afirman que se hundió en el corazón del volcán más grande de Lithernia para dormir eternamente; otros, que su espíritu se fundió con todas las forjas del mundo, inspirando a cada herrero que golpea el metal al rojo vivo.
+
+### Descripción Física y Poderes
+
+Ignis es descrito como un dragón de tamaño inimaginable, más grande que cualquier montaña. Sus escamas son de un color carmesí profundo, pulidas como el rubí pero duras como el metal divino, y brillan con un fuego interno que ilumina las cavernas más profundas. Sus ojos son pozos de oro fundido que reflejan la sabiduría de eones, y de sus fauces no emana simple fuego, sino un torrente de magma puro, el Aliento de la Creación, capaz tanto de erigir cordilleras como de fundirlas hasta sus cimientos. No porta armas ni armaduras, pues su cuerpo es la herramienta y el arma definitiva. Su guarida legendaria era el corazón de un volcán primordial, una forja cósmica donde se decía que había martillado las primeras vetas de mithril y adamantita.
+
+```markdown
+**MANIFESTACIONES Y PODERES (NIVEL ÉPICO/DIVINO)**
+
+- **Inmunidad Divina:** Ignis es inmune al fuego, al veneno y a todo daño de fuentes no mágicas. Posee una resistencia legendaria contra todos los demás tipos de daño.
+- **Aliento de la Creación (Aliento de Magma):** Una vez por encuentro, Ignis puede exhalar un torrente de magma en un cono de 1000 pies. Toda criatura en el área sufre un daño inmenso de fuego y contundente. Más allá del daño, el aliento reforma permanentemente el terreno, creando montañas, fisuras o ríos de lava.
+- **Corazón de la Forja:** La mera presencia de Ignis convierte una vasta área (varias millas a la redonda) en un dominio de fuego y forja. Las temperaturas aumentan drásticamente, las llamas obedecen su voluntad y las vetas de metal y gemas preciosas emergen a la superficie.
+- **La Voz del Metal:** Como acción legendaria, Ignis puede emitir un rugido que resuena en el alma de todas las criaturas de linaje metálico (dragones, enanos, forjadores). Los aliados se ven inspirados con furia y resistencia divinas, mientras que los enemigos de metal o que porten armaduras metálicas deben superar una salvación o quedar paralizados por la vibración.
+- **Acciones de Guarida:** Si se le encuentra en su guarida (el núcleo de un volcán), Ignis puede causar terremotos, invocar elementales de magma o hacer que las paredes escupan chorros de lava.
+```
+
+### Legado e Impacto en Lithernia
+
+Aunque Ignis ya no gobierna activamente, su legado es indeleble y se manifiesta en la misma estructura del mundo. Las grandes cadenas montañosas volcánicas, ricas en minerales, son obra suya. La tradición de la herrería, especialmente entre los [[Lithernia/03_Razas/Enanos\|Enanos]] de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] y los artesanos [[Lithernia/03_Razas/Humanos\|Humanos]], bebe directamente de los mitos sobre su alianza con los mortales. El conflicto arquetípico entre el bien y el mal, el orden y el caos, a menudo se representa en la mitología popular como la eterna lucha entre los [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] metálicos de Ignis y los cromáticos de Tal’vorak.
+
+Hoy en día, es raro que se le rinda culto abiertamente, pero su nombre es invocado en secreto por maestros herreros que buscan una bendición para sus creaciones más ambiciosas. Algunos cultos dracónicos y clanes de [[Lithernia/03_Razas/Dragonborn\|Dragonborn]] todavía lo veneran, creyendo que un día despertará de su letargo para forjar el mundo una vez más. Los artefactos más poderosos de la Era de las Escamas y Fuego, especialmente aquellos de metal y fuego, a menudo llevan su marca o contienen una chispa de su poder primordial. Encontrar una de sus escamas perdidas o un fragmento de su aliento solidificado sería el descubrimiento de toda una vida para cualquier [[Lithernia/05_Trasfondos/Erudito\|Erudito]] o aventurero.

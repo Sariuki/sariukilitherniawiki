@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-corvus/lord-malachi-corvus/","tags":["lithernia","personajes","Casa Noble","Mor'dhul","Tiefling"]}
+---
+
+# Lord Malachi Corvus
+
+### Biografía
+
+En el teatro de poder brutal que es [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], donde la fuerza se mide en ejércitos y la nobleza se gana con sangre derramada, la Casa Corvus y su patriarca, Lord Malachi, son una anomalía letal. Nacido en el seno de una familia tiefling que ya había comprendido el valor de los secretos, Malachi no heredó un trono, sino una red de información. Desde joven, demostró una mente calculadora y una paciencia antinatural, viendo cómo los clanes [[Lithernia/03_Razas/Orcos\|Orcos]] se aniquilaban por honor y los señores hobgoblin se embriagaban de crueldad. Él aprendió una lección distinta: la fuerza se agota, el dolor se olvida, pero un secreto bien guardado es un arma eterna.
+
+Su ascenso a la cabeza de la Casa Corvus está envuelto en el mismo misterio que él cultiva. No hubo duelos públicos ni conquistas sangrientas. Sus predecesores y rivales, simplemente, desaparecieron. Algunos fueron víctimas de "accidentes" oportunos, otros se vieron arruinados por escándalos que emergieron de la nada, y los más obstinados fueron encontrados en sus cámaras selladas, con una única pluma de cuervo como epitafio. Malachi no conquistó el poder; lo destiló, purgando a los impulsivos y ruidosos hasta que solo quedó su control silencioso y absoluto.
+
+Desde las profundidades de su bastión en la laberíntica [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Nynthil\|Nynthil]], una ciudad de callejones retorcidos y sombras permanentes, Lord Malachi dirige su imperio de susurros. Rara vez se le ve en la corte de Sel'thirak; no necesita la validación del Rey-Dios. Su lealtad es un calculado acto de pragmatismo: un trono estable, aunque sea tiránico, es un ecosistema predecible para que su red prospere. Alimenta a Sel'thirak con información cuidadosamente seleccionada, asegurándose de que el Rey-Dios siempre dependa de los ojos y oídos de los Corvus para mantener a raya las conspiraciones... especialmente aquellas que el propio Malachi no ha orquestado.
+
+Sus alianzas son tan estratégicas como sus enemistades. Se alía con el Clan Whisper por su dominio sobre los muertos y los secretos que guardan, y con el Clan Nighthawk por su maestría en la magia de las sombras y el espionaje nocturno. Juntos, forman una trinidad de poder oculto que se contrapone a la fuerza militar abierta de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Su rivalidad con la Casa Aethel es un juego de ajedrez a cámara lenta. Malachi observa las ambiciones descaradas de Lord Aethel con una mezcla de desdén y cautela, considerándolo un "rival peligroso, pero torpe". Aethel blande la crueldad como un garrote; Malachi la utiliza como un estilete envenenado, preciso e indetectable.
+
+Como padre, su afecto es una forma más de estrategia. Ha moldeado a sus hijos, Kaelen y Elara, para que sean sus sucesores y sus armas más valiosas. Kaelen, el heredero, es un estratega brillante, mientras que Elara es una sombra letal, una ejecutora de la voluntad de su padre. Su hija adoptiva, Seraphina, es su pieza más enigmática; una joven con un don arcano inusual cuya verdadera procedencia es uno de los pocos secretos que Malachi guarda celosamente, esperando el momento perfecto para revelarla en el gran tablero de Lithernia.
+
+La motivación última de Malachi no es la conquista, sino el control absoluto. No desea sentarse en el trono de obsidiana, sino ser el tejedor que mueve los hilos de quien lo ocupe. Para él, la Gran Guerra, las profecías del Primer Rey y las luchas de los dioses no son más que mareas en el océano del tiempo, y él es el maestro del puerto que decide qué barcos se hunden y cuáles llegan a la orilla.
+
+### Descripción Física y Equipamiento
+
+Lord Malachi Corvus es la encarnación física de la elegancia y la amenaza contenida. A sus 350 años, su herencia tiefling se manifiesta con una gracia depredadora. Su piel tiene el tono del mármol gris veteado de oscuridad, y sus cuernos, delgados y de un negro pulido, se curvan hacia atrás desde su frente, asemejándose a una corona sombría. Es alto y de constitución esbelta, más propia de un [[Lithernia/05_Trasfondos/Erudito\|Erudito]] que de un señor de la guerra de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]].
+
+Sus ojos son su rasgo más perturbador: dos esmeraldas brillantes y heladas que parecen analizar, juzgar y archivar cada debilidad de quien tiene enfrente. Viste con túnicas de seda gris oscuro y negro, sin adornos ostentosos, prefiriendo la calidad impecable de la tela al brillo del oro. Su única joya es el anillo de la Casa Corvus, un sello de obsidiana y plata que utiliza para marcar sentencias de muerte y pactos secretos.
+
+No porta armadura ni armas pesadas. Su defensa es la información y su ataque es la palabra precisa. A veces, bajo sus túnicas, lleva una daga ceremonial con empuñadura de hueso y filo de plata, aunque es más una herramienta para la intimidación que para el combate. Su verdadero equipamiento es intangible: una mente que funciona como una crónica de secretos y una red de espías que se extiende como una telaraña por todo Lithernia. Se rumorea que las cámaras más profundas de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Nynthil\|Nynthil]] contienen espejos de videncia y artefactos de comunicación que le permiten observar y susurrar a través de grandes distancias.
+
+### Legado e Impacto en Lithernia
+
+Mientras otros líderes de Lithernia dejarán un legado de batallas ganadas y reinos conquistados, el de Lord Malachi Corvus será uno de silencio y paranoia. Él es el arquitecto invisible de la política de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], el titiritero que ha mantenido el precario equilibrio del reino durante siglos, no por lealtad, sino por conveniencia. Ha demostrado que el poder más duradero no es el que grita, sino el que susurra.
+
+Su impacto se siente en cada traición inexplicada en la corte, en cada ascenso meteórico de un [[Lithernia/05_Trasfondos/Noble\|Noble]] desconocido y en cada tratado que se rompe por una desconfianza sembrada en la oscuridad. Ha convertido la información en la moneda más valiosa y mortífera de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]].
+
+El futuro de Lithernia podría depender de los secretos que Malachi decida revelar o callar. Si la profecía del Retorno del Primer Rey es cierta, es seguro que Lord Corvus lo sabe y ya está moviendo sus piezas para controlar el resultado. Su muerte no desencadenaría una guerra de sucesión con ejércitos, sino una caótica implosión de su red de secretos, liberando una plaga de información que podría desestabilizar a todos los reinos. Lord Malachi Corvus no es solo un [[Lithernia/05_Trasfondos/Noble\|Noble]] de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]; es una fuerza fundamental del equilibrio oscuro de Lithernia, un recordatorio de que las sombras, a menudo, tienen la última palabra.
