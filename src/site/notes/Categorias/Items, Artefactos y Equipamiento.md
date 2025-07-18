@@ -33,6 +33,7 @@
 | [[Lithernia/01_Historia/05_CaidaLilium/El_Legado_de_las_Cuatro_Lanzas_Celestiales\|El_Legado_de_las_Cuatro_Lanzas_Celestiales]]                              | El_Legado_de_las_Cuatro_Lanzas_Celestiales              |
 | [[Lithernia/01_Historia/06_EraCrepuscular/El_origen_y_simbolismo_de_las_Cuatro_Lanzas_Celestiales\|El_origen_y_simbolismo_de_las_Cuatro_Lanzas_Celestiales]] | El_origen_y_simbolismo_de_las_Cuatro_Lanzas_Celestiales |
 | [[Lithernia/08_Artefactos/El_Panteón_Olvidado\|El_Panteón_Olvidado]]                                                                                         | El_Panteón_Olvidado                                     |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/El_Primer_Rey\|El_Primer_Rey]]                                                                               | El_Primer_Rey                                           |
 | [[Lithernia/05_Trasfondos/El_Privilegio_del_Bastión\|El_Privilegio_del_Bastión]]                                                                             | El_Privilegio_del_Bastión                               |
 | [[Lithernia/01_Historia/04_EraGuerrasDioses/El_Quiebre_del_Velo_y_la_guerra_celestial\|El_Quiebre_del_Velo_y_la_guerra_celestial]]                           | El_Quiebre_del_Velo_y_la_guerra_celestial               |
 | [[Lithernia/08_Artefactos/El_Velo_Entre_Mundos\|El_Velo_Entre_Mundos]]                                                                                       | El_Velo_Entre_Mundos                                    |
@@ -58,8 +59,8 @@
 | [[Lithernia/05_Trasfondos/La_Runa_de_la_Ruina\|La_Runa_de_la_Ruina]]                                                                                         | La_Runa_de_la_Ruina                                     |
 | [[Lithernia/01_Historia/02_EraEscamasFuego/Las_Cuatro_Lanzas_Celestiales\|Las_Cuatro_Lanzas_Celestiales]]                                                    | Las_Cuatro_Lanzas_Celestiales                           |
 | [[Lithernia/01_Historia/03_EraPrimerRey/Las_Cuatro_Lanzas_Celestiales\|Las_Cuatro_Lanzas_Celestiales]]                                                       | Las_Cuatro_Lanzas_Celestiales                           |
-| [[Lithernia/01_Historia/04_EraGuerrasDioses/Las_Cuatro_Lanzas_Celestiales\|Las_Cuatro_Lanzas_Celestiales]]                                                   | Las_Cuatro_Lanzas_Celestiales                           |
 | [[Lithernia/01_Historia/05_CaidaLilium/Las_Cuatro_Lanzas_Celestiales\|Las_Cuatro_Lanzas_Celestiales]]                                                        | Las_Cuatro_Lanzas_Celestiales                           |
+| [[Lithernia/01_Historia/04_EraGuerrasDioses/Las_Cuatro_Lanzas_Celestiales\|Las_Cuatro_Lanzas_Celestiales]]                                                   | Las_Cuatro_Lanzas_Celestiales                           |
 | [[Lithernia/01_Historia/07_EraMilAnios/Las_Cuatro_Lanzas_Celestiales\|Las_Cuatro_Lanzas_Celestiales]]                                                        | Las_Cuatro_Lanzas_Celestiales                           |
 | [[Lithernia/01_Historia/08_EraActual/Las_Cuatro_Lanzas_Celestiales\|Las_Cuatro_Lanzas_Celestiales]]                                                          | Las_Cuatro_Lanzas_Celestiales                           |
 | [[Lithernia/02_Reinos/Las_Cuatro_Lanzas_Celestiales\|Las_Cuatro_Lanzas_Celestiales]]                                                                         | Las_Cuatro_Lanzas_Celestiales                           |

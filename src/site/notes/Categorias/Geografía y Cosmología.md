@@ -21,12 +21,14 @@
 | [[Lithernia/01_Historia/04_EraGuerrasDioses/El_Clan_Whisper_y_la_Necromancia_en_Mor’dhul\|El_Clan_Whisper_y_la_Necromancia_en_Mor’dhul]]    | El_Clan_Whisper_y_la_Necromancia_en_Mor’dhul |
 | [[Lithernia/02_Reinos/El_Clan_Whisper_y_la_Necromancia_en_Mor’dhul\|El_Clan_Whisper_y_la_Necromancia_en_Mor’dhul]]                          | El_Clan_Whisper_y_la_Necromancia_en_Mor’dhul |
 | [[Lithernia/01_Historia/04_EraGuerrasDioses/El_Eclipse_de_Sangre_y_sus_señales\|El_Eclipse_de_Sangre_y_sus_señales]]                        | El_Eclipse_de_Sangre_y_sus_señales           |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/El_Primer_Rey\|El_Primer_Rey]]                                                              | El_Primer_Rey                                |
 | [[Lithernia/08_Artefactos/El_Velo_Entre_Mundos\|El_Velo_Entre_Mundos]]                                                                      | El_Velo_Entre_Mundos                         |
 | [[Lithernia/02_Reinos/Eldrador_Facciones\|Eldrador_Facciones]]                                                                              | Eldrador_Facciones                           |
 | [[Lithernia/09_Personajes/04_NPCs/Elyra_Gemacantas\|Elyra_Gemacantas]]                                                                      | Elyra_Gemacantas                             |
 | [[Lithernia/01_Historia/07_EraMilAnios/Facciones_Rebeldes_de_Mor’dhul\|Facciones_Rebeldes_de_Mor’dhul]]                                     | Facciones_Rebeldes_de_Mor’dhul               |
 | [[Lithernia/01_Historia/08_EraActual/Facciones_Secretas_en_Mor’dhul\|Facciones_Secretas_en_Mor’dhul]]                                       | Facciones_Secretas_en_Mor’dhul               |
 | [[Lithernia/02_Reinos/Fortaleza_de_Karnagal\|Fortaleza_de_Karnagal]]                                                                        | Fortaleza_de_Karnagal                        |
+| [[Lithernia/09_Personajes/01_Dioses/Fuego_Primordial\|Fuego_Primordial]]                                                                    | Fuego_Primordial                             |
 | [[Lithernia/02_Reinos/Galvorn_Ciudades\|Galvorn_Ciudades]]                                                                                  | Galvorn_Ciudades                             |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Clan_Ciemartillo/Grakull_Ciemartillo\|Grakull_Ciemartillo]]                                       | Grakull_Ciemartillo                          |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Casa_Cristalmartillo/Helga_Ojo_de_Cristal_Cristalmartillo\|Helga_Ojo_de_Cristal_Cristalmartillo]] | Helga_Ojo_de_Cristal_Cristalmartillo         |

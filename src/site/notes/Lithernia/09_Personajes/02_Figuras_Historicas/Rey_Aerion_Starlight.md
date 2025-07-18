@@ -24,16 +24,6 @@ Rara vez se le ve portando armadura. Su atuendo consiste en túnicas de seda él
 
 El poder del Rey Aerion no reside en la fuerza bruta, sino en su autoridad absoluta, su intelecto estratégico y su dominio de la magia.
 
-```markdown
-- **Autoridad Absoluta:** Como monarca de Eldrador, su palabra es ley. Controla los ejércitos élficos, la red de espías de la Casa Umbrae y la totalidad de los recursos económicos del reino, incluyendo las codiciadas minas de gemas y madera mágica.
-
-- **Maestro de la Magia Élfica:** Es uno de los magos vivos más poderosos de Lithernia, especializado en las escuelas de Abjuración y Adivinación. La capital de Eldrador está protegida por un entramado de guardas mágicas tejidas por él mismo que la hacen casi inexpugnable. Sus habilidades adivinatorias le permiten prever amenazas y movimientos de sus enemigos con una precisión inquietante.
-
-- **Conjurador Estelar:** Posee conocimiento de los raros y potentes "Conjuros Estelares", magia inspirada directamente en el poder de los astros, un arte casi perdido que la Casa Starlight ha preservado.
-
-- **Intelecto Estratégico:** Es un maestro del juego político a largo plazo. Prefiere la sutileza, la manipulación y la influencia desde las sombras a la confrontación directa. Ha posicionado a consejeros y agentes élficos en casi todas las cortes importantes de Lithernia.
-```
-
 ## Relaciones Clave
 
 *   **Con la nobleza élfica:** Mantiene a las grandes casas nobles en un delicado equilibrio de poder, otorgando favores a unas y restringiendo a otras para evitar que alguna se vuelva una amenaza. Confía en **Lord Elara de la Casa Auris** para comandar sus ejércitos y en **Lady Vesperia de la Casa Umbrae** para dirigir su red de inteligencia, aunque siempre con una vigilancia mutua.

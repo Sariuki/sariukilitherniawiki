@@ -29,55 +29,6 @@ Viste una armadura de placas de hierro negro pulido, adornada no con cráneos o 
 *   **La Daga Silente:** Una estilete delgado y serrado que no produce sonido al cortar. Las heridas que inflige no sangran externamente, sino que causan una hemorragia interna y un dolor paralizante que impide a la víctima gritar.
 
 ## Estadísticas del Avatar de Kromagul
-```markdown
-**KROMAGUL, EL SEÑOR DEL TORMENTO**
-*Humanoide Grande (Dios, Hobgoblin), Legal Maligno*
-___
-**Clase de Armadura** 21 (Armadura de Placas Divina)
-**Puntos de Golpe** 350 (28d10 + 196)
-**Velocidad** 40 pies
-___
-| FUE | DES | CON | INT | SAB | CAR |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|22 (+6)|18 (+4)|24 (+7)|26 (+8)|20 (+5)|24 (+7)|
-___
-**Tiradas de Salvación** CON +15, INT +16, CAR +15
-**Habilidades** Engaño +15, Intimidación +23 (doble competencia), Perspicacia +13, Percepción +13, Medicina +16
-**Resistencias al Daño** Frío, Fuego, Rayo; Contundente, Perforante y Cortante de ataques no mágicos
-**Inmunidades al Daño** Veneno, Psíquico
-**Inmunidades a Estados** Asustado, Hechizado, Paralizado, Envenenado, Exhausto
-**Sentidos** Visión en la Oscuridad 120 pies, Visión Verdadera 60 pies, Percepción Pasiva 23
-**Idiomas** Todos, Telepatía 120 pies
-**Desafío** 26 (90,000 PX)
-___
-
-***Aura de Agonía.*** Al inicio del turno de cada criatura que comience a 30 pies de Kromagul, dicha criatura debe superar una tirada de salvación de Sabiduría CD 23 o sufrir 11 (2d10) de daño psíquico y tener desventaja en sus tiradas de ataque hasta el inicio de su próximo turno. Una criatura que tenga éxito en la salvación es inmune a esta aura durante 24 horas.
-
-***Alimentado por el Sufrimiento.*** Siempre que una criatura a 60 pies de Kromagul reciba daño crítico o caiga a 0 puntos de golpe, Kromagul recupera 20 puntos de golpe.
-
-***Resistencia Legendaria (3/Día).*** Si Kromagul falla una tirada de salvación, puede elegir tener éxito en su lugar.
-
-***Maestro Estratega.*** Kromagul tiene ventaja en las tiradas de iniciativa. Adicionalmente, como acción bonus, puede elegir una criatura aliada que pueda ver u oír a 60 pies de él. Esa criatura puede usar inmediatamente su reacción para realizar un ataque con arma.
-
-### Acciones
-***Multiataque.*** Kromagul realiza tres ataques: uno con El Látigo de los Lamentos y dos con la Daga Silente.
-
-***El Látigo de los Lamentos.*** *Ataque de arma cuerpo a cuerpo:* +14 para impactar, alcance 15 pies, un objetivo. *Impacto:* 13 (2d6 + 6) de daño cortante más 14 (4d6) de daño psíquico. El objetivo debe superar una tirada de salvación de Constitución CD 23 o quedar incapacitado por el dolor hasta el final de su próximo turno.
-
-***Daga Silente.*** *Ataque de arma cuerpo a cuerpo:* +14 para impactar, alcance 5 pies, un objetivo. *Impacto:* 11 (1d8 + 6) de daño perforante. La primera vez que una criatura es golpeada por esta daga en un turno, debe superar una tirada de salvación de Sabiduría CD 23 o quedar asustada de Kromagul durante 1 minuto. La criatura puede repetir la salvación al final de cada uno de sus turnos, terminando el efecto si tiene éxito.
-
-***Mirada del Tormento (Recarga 5-6).*** Kromagul fija su mirada en una criatura que pueda ver a 60 pies. El objetivo debe realizar una tirada de salvación de Sabiduría CD 23. Si falla, sufre 55 (10d10) de daño psíquico y queda paralizado durante 1 minuto. Si tiene éxito, sufre la mitad de daño y no queda paralizado. Una criatura paralizada de esta manera puede repetir la salvación al final de cada uno de sus turnos.
-
-### Acciones Legendarias
-Kromagul puede realizar 3 acciones legendarias, eligiendo de las opciones de abajo. Solo puede usar una opción de acción legendaria a la vez y solo al final del turno de otra criatura. Kromagul recupera las acciones legendarias gastadas al inicio de su turno.
-
-**Ataque con Daga.** Kromagul realiza un ataque con su Daga Silente.
-
-**Instrucción Cruel (Cuesta 2 Acciones).** Kromagul elige hasta tres criaturas aliadas a 60 pies de él. Cada una de esas criaturas puede usar su reacción para moverse hasta su velocidad y realizar un ataque con arma.
-
-**Suscitar Agonía (Cuesta 3 Acciones).** Kromagul intensifica el dolor de sus enemigos. Todas las criaturas a 60 pies que estén bajo un estado perjudicial (como asustado, incapacitado, envenenado, etc.) sufren inmediatamente 18 (4d8) de daño psíquico.
-```
-
 ## Legado e Impacto en Lithernia
 
 El impacto de Kromagul en Lithernia es profundo y perverso. Es el arquitecto de una de las razas más disciplinadas y temidas de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], los [[Lithernia/03_Razas/Hobgoblins\|Hobgoblins]], y el patrón de un sistema de creencias que glorifica la crueldad como una virtud. Su legado no es de ruinas y cráneos como el de sus parientes, sino de cicatrices que nunca sanan, de voluntades rotas y de un orden social construido sobre los cimientos del miedo perpetuo.

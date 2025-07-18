@@ -25,19 +25,6 @@ Yfrit rara vez adopta una única forma física, pues su ser es tan cambiante com
 
 Para los mortales, su presencia se siente en la brisa salina, en la subida de la marea y en la furia de una tempestad. Se aparece a los marineros en peligro como una estela de luz fosforescente que guía a puerto seguro, o su voz resuena en el rugido de las olas para advertir de un peligro inminente. Sus bendiciones aseguran redes llenas, vientos favorables y el coraje para enfrentar lo desconocido.
 
-```markdown
-### Dominios Divinos y Poderes
-
-**Título:** La Reina de los Mares, La Dama del Horizonte
-**Alineamiento Sugerido:** Caótico Bueno
-**Dominios Divinos:** Mar, Tempestad, Libertad, Comercio, Protección.
-**Pueblo Elegido:** Humanos.
-**Adoradores:** Marineros, comerciantes, exploradores, aventureros, piratas que valoran la libertad, los ciudadanos de Galvorn y cualquier mortal que anhele un futuro sin cadenas.
-**Símbolos Sagrados:** Una ola estilizada rompiendo, un tridente de coral, la proa de un navío.
-**Dogma:** "El horizonte es una promesa, no un límite. El mar no tiene amos, y tampoco deberían tenerlos quienes lo surcan. Busca la fortuna, comparte tu conocimiento y defiende tu libertad contra las sombras que buscan encadenar el mundo."
-**Poderes y Habilidades:** Como diosa mayor, Yfrit ejerce un control absoluto sobre los océanos, las mareas y las corrientes. Puede invocar o calmar las más feroces tormentas, guiar a los perdidos en el mar, bendecir los viajes con vientos favorables y proteger a sus fieles de los monstruos que habitan las profundidades. Su poder inspira la innovación, la audacia y el espíritu de descubrimiento.
-```
-
 ## Legado e Impacto en Lithernia
 
 El legado de Yfrit es la existencia misma de la libertad como una fuerza tangible en Lithernia. En un mundo a menudo dominado por la tiranía, el miedo y la guerra, ella y su reino, [[Lithernia/02_Reinos/Galvorn\|Galvorn]], representan una alternativa basada en la cooperación, la aventura y la prosperidad. Es la principal contrafuerza ideológica y divina al expansionismo opresivo de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] y Sel'thirak.

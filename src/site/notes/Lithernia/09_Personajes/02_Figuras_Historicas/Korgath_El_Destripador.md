@@ -24,50 +24,6 @@ Su arma predilecta no es una espada ni un hacha, sino un **Látigo de Espinas De
 
 ***
 
-```markdown
-### Korgath 'El Destripador'
-*Humanoide Grande (semiogro), Legal Maligno*
-
-**Clase de Armadura** 18 (Armadura de placas, escudo natural)
-**Puntos de Golpe** 210 (20d10 + 100)
-**Velocidad** 40 pies
-
-| FUE      | DES     | CON     | INT     | SAB     | CAR     |
-|----------|---------|---------|---------|---------|---------|
-| 24 (+7)  | 14 (+2) | 20 (+5) | 12 (+1) | 16 (+3) | 10 (+0) |
-
-**Tiradas de Salvación** FUE +12, CON +10, SAB +8
-**Habilidades** Atletismo +12, Intimidación +10, Percepción +8
-**Resistencias al Daño** Contundente, cortante y perforante de ataques no mágicos
-**Inmunidades a Estados** Asustado
-**Sentidos** Visión en la oscuridad 60 pies, Percepción pasiva 18
-**Idiomas** Común, Orco
-**Desafío** 14 (11,500 PX)
-
-**Furia Sangrienta.** Como acción bonus, Korgath puede entrar en una furia que dura 1 minuto. Mientras está enfurecido, obtiene ventaja en las tiradas de ataque y de salvación de Fuerza, inflige 2d6 de daño adicional con sus ataques cuerpo a cuerpo, y tiene resistencia a todo el daño excepto al psíquico. Puede terminar su furia anticipadamente como acción bonus.
-
-**Presencia Aterradora.** Cualquier criatura hostil que empiece su turno a 30 pies o menos de Korgath debe superar una tirada de salvación de Sabiduría CD 16 o quedar asustada hasta el comienzo de su próximo turno. Si la salvación tiene éxito, la criatura es inmune a la Presencia Aterradora de Korgath durante las próximas 24 horas.
-
-**General de la Carnicería.** Korgath puede usar su acción bonus para dirigir a uno de sus aliados que pueda ver u oír a 30 pies o menos de él. Ese aliado puede usar inmediatamente su reacción para hacer un ataque con un arma.
-
-**Resistencia Legendaria (3/Día).** Si Korgath falla una tirada de salvación, puede elegir tener éxito en su lugar.
-
-#### ACCIONES
-**Multiataque.** Korgath realiza tres ataques: dos con su Látigo de Espinas y uno con sus Colmillos.
-
-**Látigo de Espinas Demoníacas.** *Ataque de arma cuerpo a cuerpo:* +12 a impactar, alcance 15 pies, un objetivo. *Impacto:* 14 (2d6 + 7) de daño cortante más 7 (2d6) de daño necrótico. Si el objetivo es una criatura, debe superar una tirada de salvación de Fuerza CD 20 o ser arrastrado hasta 10 pies hacia Korgath. Además, el objetivo sufre una herida sangrante y pierde 5 (1d10) puntos de golpe al inicio de cada uno de sus turnos. La criatura puede usar su acción para realizar una prueba de Sabiduría (Medicina) CD 15 para detener el sangrado.
-
-**Colmillos.** *Ataque de arma cuerpo a cuerpo:* +12 a impactar, alcance 5 pies, un objetivo. *Impacto:* 16 (2d8 + 7) de daño perforante.
-
-#### ACCIONES LEGENDARIAS
-Korgath puede realizar 3 acciones legendarias, eligiendo de las siguientes opciones. Solo puede usar una opción de acción legendaria a la vez y solo al final del turno de otra criatura. Korgath recupera las acciones legendarias gastadas al comienzo de su turno.
-
-**Movimiento Táctico.** Korgath se mueve hasta la mitad de su velocidad sin provocar ataques de oportunidad.
-
-**Ataque de Látigo.** Korgath realiza un ataque con su Látigo de Espinas Demoníacas.
-
-**Grito de Guerra (Cuesta 2 Acciones).** Korgath emite un rugido aterrador. Cada criatura a elección de Korgath a 30 pies de él que pueda oírle debe hacer una tirada de salvación de Sabiduría CD 16. Si falla, la criatura sufre 14 (4d6) de daño psíquico y queda asustada por 1 minuto. Una criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, terminando el efecto sobre sí misma si tiene éxito.
-```
 ***
 
 ## Legado e Impacto en Lithernia

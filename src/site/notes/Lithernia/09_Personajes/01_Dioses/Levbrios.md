@@ -1,0 +1,41 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/01-dioses/levbrios/","tags":["dios","enano","valtoriano","forja","metalurgia","panteon_enano"]}
+---
+
+# Levbrios
+
+Levbrios es una de las deidades más veneradas del Panteón Enano de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], conocido como el Custodio del Fuego de Herrería y el maestro de los secretos insondables de la metalurgia. Mientras su hermano [[Lithernia/09_Personajes/01_Dioses/Trovdor\|Trovdor]] personifica la esencia misma del metal, Levbrios es el dios del proceso, la transformación y la voluntad indomable que somete al mineral crudo para darle una forma gloriosa y un propósito perdurable.
+
+### Biografía y Origen
+
+Nacido en el seno del panteón de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], la genealogía de Levbrios está intrínsecamente ligada al acto de dar forma al mundo. Es hermano de [[Lithernia/09_Personajes/01_Dioses/Trovdor\|Trovdor]], el dios del metal, y sobrino de [[Lithernia/09_Personajes/01_Dioses/Cirkon\|Cirkon]], la Señora de la Roca. Esta herencia lo sitúa como un eslabón vital en la cadena de la creación enana: [[Lithernia/09_Personajes/01_Dioses/Cirkon\|Cirkon]] provee la piedra, [[Lithernia/09_Personajes/01_Dioses/Trovdor\|Trovdor]] extrae el metal y Levbrios, con su fuego sagrado, lo convierte en una obra de arte o en una herramienta de poder. Es sobrino-nieto de los dioses gemelos [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]] y [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], y su naturaleza refleja la dualidad de ambos. De [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]], padre de los [[Lithernia/03_Razas/Enanos\|Enanos]], heredó el anhelo de construir y la paciencia del artesano. De [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], el señor de la destrucción, comprendió que para forjar algo nuevo, a menudo es necesario fundir y destruir lo viejo.
+
+La leyenda más famosa sobre Levbrios narra su regalo a la raza enana. Viendo a los primeros [[Lithernia/03_Razas/Enanos\|Enanos]] luchar por moldear los metales preciosos que [[Lithernia/09_Personajes/01_Dioses/Trovdor\|Trovdor]] les había revelado, Levbrios descendió de los cielos. No les entregó un arma, sino una herramienta: el primer martillo de herrero, conocido como **Forjacorazones**. Se dice que en su interior ardía una chispa del fuego eterno de su propia forja divina, y que cada golpe sobre el yunque no solo moldeaba el acero, sino que también enseñaba los secretos del calor, la presión y el tiempo. Con este regalo, Levbrios no solo les dio la capacidad de crear, sino también la filosofía de su pueblo: que la verdadera fuerza y el valor se forjan a través del esfuerzo, el fuego y la perseverancia.
+
+Durante la rebelión del Primer Rey, Levbrios se mantuvo al margen del conflicto directo. Como dios del oficio y la creación deliberada, observó con desaprobación la arrogancia del Rey y la ira desmedida de los otros dioses. Para él, el Cataclismo del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] fue la antítesis de su ser: un fuego caótico y destructivo, carente del propósito y el control que él tanto valora. Este evento reforzó su convicción de que el poder sin control solo conduce a la ruina, una lección que sus sacerdotes predican en cada taller de [[Lithernia/02_Reinos/Valtoria\|Valtoria]].
+
+### Descripción Física y Manifestaciones
+
+Levbrios rara vez se manifiesta en el plano mortal, pero cuando lo hace, no adopta la forma de un rey o un [[Lithernia/04_Clases/Guerrero\|Guerrero]], sino la de un maestro herrero en la cima de su arte. Su figura es la de un enano de constitución formidable, con hombros anchos y brazos tan recios como las vigas de una fortaleza. Su piel tiene la textura y el brillo del acero templado, y en sus brazos se aprecian finas [[Lithernia/06_Magia/Runas\|Runas]] que brillan con la luz de las brasas cuando canaliza su poder. Su barba, larga y majestuosa, está trenzada con hilos de oro y mithril fundidos, y sus ojos arden con la intensidad constante de un fuego de forja.
+
+No viste armaduras ostentosas, sino un delantal de cuero de dragón que, según se dice, ninguna llama puede quemar. Su única arma y herramienta es el martillo divino **Forjacorazones**, que en sus manos puede tanto crear las maravillas más delicadas como destruir las fortificaciones más imponentes con un solo golpe.
+
+### Culto y Seguidores
+
+El culto a Levbrios es el corazón de la industria y la defensa de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Sus seguidores no son solo herreros, sino también armeros, joyeros, ingenieros, arquitectos y artífices. Cualquier enano que trabaje con metal, fuego o piedra para crear algo duradero le rinde homenaje.
+
+Sus templos son siempre forjas activas, cuyo altar central es un gran yunque de obsidiana o un corazón de forja que nunca se apaga. Las ceremonias en su honor son prácticas y ruidosas: el sonido rítmico de los martillos es su himno, y el sudor de los artesanos, su ofrenda más sagrada. Los rituales importantes incluyen la bendición de nuevas herramientas, la templadura final de una hoja maestra y la **Fiesta de la Primera Forja**, donde los aprendices presentan sus obras para recibir la bendición del dios.
+
+Los clérigos de Levbrios, conocidos como "Guardianes de la Llama" o "Maestros de Forja", no solo son líderes espirituales, sino también los artesanos más hábiles del reino. Su dogma principal enseña que "un alma es como el metal; su verdadero valor se revela en la fragua de las dificultades".
+
+### Relaciones Divinas y Enemigos
+
+*   **Panteón Enano:** Mantiene una relación de colaboración y rivalidad fraternal con **[[Lithernia/09_Personajes/01_Dioses/Trovdor\|Trovdor]]**. [[Lithernia/09_Personajes/01_Dioses/Trovdor\|Trovdor]] entiende la esencia del metal, mientras que Levbrios entiende su potencial. Juntos, representan la plenitud del arte metalúrgico. Respeta profundamente a su tío-abuelo **[[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]]**, compartiendo su amor por la creación. Con **[[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]]**, su relación es de cautela y comprensión; Levbrios sabe que la destrucción es necesaria para la renovación (como fundir un arma vieja para forjar una nueva), pero desprecia la aniquilación sin propósito.
+
+*   **Otros Panteones:** Siente un respeto profesional por **[[Lithernia/09_Personajes/01_Dioses/Solniria\|Solniria]]**, la diosa humana del fuego y la forja, aunque considera sus métodos menos disciplinados que los de los [[Lithernia/03_Razas/Enanos\|Enanos]]. Por el contrario, detesta a los dioses del panteón Korogrim, especialmente a **[[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]]** y **[[Lithernia/09_Personajes/01_Dioses/Lakros\|Lakros]]**. Considera que la cultura de la guerra por la guerra es un desperdicio de habilidad y material, y que las armas forjadas en [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] son meras herramientas de carnicería, carentes del alma y el propósito que él infunde en sus creaciones.
+
+### Legado e Impacto en Lithernia
+
+El legado de Levbrios es tangible y se puede encontrar en cada rincón de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Reside en las puertas inexpugnables de sus fortalezas, en las hojas de las hachas rúnicas que defienden sus fronteras y en las delicadas joyas que adornan a sus reinas. Él es el símbolo de la filosofía enana: la creencia en que la perfección se alcanza a través del sudor, el fuego y la voluntad inquebrantable.
+
+En la Era Crepuscular, su influencia es más crucial que nunca. Mientras el mundo se debate entre profecías de destrucción y salvación, las forjas de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], bendecidas por Levbrios, son una de las pocas constantes. Si la profecía del Retorno del Rey exigiera la destrucción o reforja de una de las Lanzas Celestiales, es casi seguro que tal hazaña solo podría llevarse a cabo en una forja santificada en su nombre, bajo la guía de sus más grandes maestros. Levbrios representa la fuerza silenciosa y creativa que no solo construye reinos, sino que también forja héroes capaces de resistir las pruebas más ardientes.

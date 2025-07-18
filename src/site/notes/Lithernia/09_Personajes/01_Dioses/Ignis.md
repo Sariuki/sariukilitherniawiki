@@ -23,16 +23,6 @@ Ningún imperio dura para siempre. Tras generaciones de lucha incesante, el pode
 
 Ignis es descrito como un dragón de tamaño inimaginable, más grande que cualquier montaña. Sus escamas son de un color carmesí profundo, pulidas como el rubí pero duras como el metal divino, y brillan con un fuego interno que ilumina las cavernas más profundas. Sus ojos son pozos de oro fundido que reflejan la sabiduría de eones, y de sus fauces no emana simple fuego, sino un torrente de magma puro, el Aliento de la Creación, capaz tanto de erigir cordilleras como de fundirlas hasta sus cimientos. No porta armas ni armaduras, pues su cuerpo es la herramienta y el arma definitiva. Su guarida legendaria era el corazón de un volcán primordial, una forja cósmica donde se decía que había martillado las primeras vetas de mithril y adamantita.
 
-```markdown
-**MANIFESTACIONES Y PODERES (NIVEL ÉPICO/DIVINO)**
-
-- **Inmunidad Divina:** Ignis es inmune al fuego, al veneno y a todo daño de fuentes no mágicas. Posee una resistencia legendaria contra todos los demás tipos de daño.
-- **Aliento de la Creación (Aliento de Magma):** Una vez por encuentro, Ignis puede exhalar un torrente de magma en un cono de 1000 pies. Toda criatura en el área sufre un daño inmenso de fuego y contundente. Más allá del daño, el aliento reforma permanentemente el terreno, creando montañas, fisuras o ríos de lava.
-- **Corazón de la Forja:** La mera presencia de Ignis convierte una vasta área (varias millas a la redonda) en un dominio de fuego y forja. Las temperaturas aumentan drásticamente, las llamas obedecen su voluntad y las vetas de metal y gemas preciosas emergen a la superficie.
-- **La Voz del Metal:** Como acción legendaria, Ignis puede emitir un rugido que resuena en el alma de todas las criaturas de linaje metálico (dragones, enanos, forjadores). Los aliados se ven inspirados con furia y resistencia divinas, mientras que los enemigos de metal o que porten armaduras metálicas deben superar una salvación o quedar paralizados por la vibración.
-- **Acciones de Guarida:** Si se le encuentra en su guarida (el núcleo de un volcán), Ignis puede causar terremotos, invocar elementales de magma o hacer que las paredes escupan chorros de lava.
-```
-
 ### Legado e Impacto en Lithernia
 
 Aunque Ignis ya no gobierna activamente, su legado es indeleble y se manifiesta en la misma estructura del mundo. Las grandes cadenas montañosas volcánicas, ricas en minerales, son obra suya. La tradición de la herrería, especialmente entre los [[Lithernia/03_Razas/Enanos\|Enanos]] de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] y los artesanos [[Lithernia/03_Razas/Humanos\|Humanos]], bebe directamente de los mitos sobre su alianza con los mortales. El conflicto arquetípico entre el bien y el mal, el orden y el caos, a menudo se representa en la mitología popular como la eterna lucha entre los [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] metálicos de Ignis y los cromáticos de Tal’vorak.

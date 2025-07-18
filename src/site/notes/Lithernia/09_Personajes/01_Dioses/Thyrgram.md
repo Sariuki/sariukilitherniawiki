@@ -33,15 +33,6 @@ Su manifestación no es sutil. El aire se llena con el eco de acero contra acero
 
 Como dios de la Guerra y el Caos, el poder de Thyrgram reside en el conflicto mismo.
 
-```markdown
-**DOMINIOS Y PODER DIVINO**
-
-- **Dominios conceptuales:** Guerra, Tempestad (por el caos de la batalla).
-- **Símbolo Sagrado:** Dos hachas de batalla cruzadas sobre un yelmo orco, a menudo envueltas en llamas o goteando sangre.
-- **Poderes y Habilidades:** Su influencia es absoluta en el campo de batalla. Puede incitar una furia de combate incontrolable en ejércitos enteros, bendecir a sus campeones con una resistencia sobrehumana, maldecir a sus enemigos con cobardía o hacer que sus armas se quiebren en el momento decisivo. Se dice que su grito de guerra puede derribar murallas y hacer que los corazones de los dragones se encojan de miedo.
-- **Culto y Adoración:** No se le rinde culto en templos silenciosos, sino en arenas de combate, campos de entrenamiento y arsenales. Sus seguidores, principalmente orcos de clanes como el Clan Thyrgram o el Clan Bloodfire, lo honran a través de la demostración de fuerza, los rituales de combate y la recolección de trofeos de enemigos dignos. El mayor sacrificio que se le puede ofrecer no es oro ni joyas, sino la sangre de un adversario poderoso derramada en su nombre.
-```
-
 ## Legado e impacto en Lithernia
 
 El impacto de Thyrgram en el mundo es tan profundo como las cicatrices de la Gran Guerra. Es el arquitecto de la cultura marcial de los [[Lithernia/03_Razas/Orcos\|Orcos]] y el principal responsable de la inestabilidad perpetua que define al reino de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Su existencia es un pilar fundamental del status quo de Lithernia: un mundo dividido y en conflicto constante.

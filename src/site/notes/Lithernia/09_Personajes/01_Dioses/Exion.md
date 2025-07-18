@@ -31,14 +31,6 @@ Sus templos son estructuras austeras y robustas, construidas en lugares expuesto
 
 Como dios mayor, el poder de Exion es inmenso y se centra en la destrucción y el caos elemental.
 
-```markdown
-- **Control Atmosférico Absoluto:** Exion no solo comanda las tormentas, él *es* la tormenta. Puede invocar huracanes, tornados, lluvias torrenciales y tormentas eléctricas de una magnitud apocalíptica.
-- **Furia de Batalla Divina:** Su presencia puede inspirar una furia de batalla irrefrenable en los ejércitos, otorgándoles fuerza y resistencia sobrenaturales a cambio de abandonar toda estrategia y disciplina.
-- **Arma de Rayo:** Puede manifestar y arrojar relámpagos con la precisión de un maestro arquero, capaces de desintegrar la roca o fundir el acero.
-- **Voz del Trueno:** Su grito de guerra puede derribar murallas, desmoralizar a ejércitos enteros y causar un miedo paralizante en el corazón de los mortales.
-- **Afinidad con la Guerra:** Exion comprende la guerra en todas sus formas. Es un estratega instintivo, aunque su naturaleza impetuosa a menudo lo lleva a preferir la carga frontal y la fuerza bruta sobre la sutileza.
-```
-
 ## Legado e Impacto en Lithernia
 
 Exion es un pilar fundamental del poder y la identidad de [[Lithernia/02_Reinos/Galvorn\|Galvorn]]. Es el recordatorio constante de que la libertad y la prosperidad del reino marítimo dependen de su capacidad para dominar un entorno hostil. Es la fuerza que impulsa a sus guerreros y la amenaza que mantiene humildes a sus marineros.

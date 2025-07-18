@@ -9,6 +9,7 @@
 | [[Lithernia/01_Historia/02_EraEscamasFuego/02_ImperioTalborak\|02_ImperioTalborak]]                                                              | 02_ImperioTalborak                      |
 | [[Lithernia/09_Personajes/04_NPCs/Alaric_Draven\|Alaric_Draven]]                                                                                 | Alaric_Draven                           |
 | [[Lithernia/09_Personajes/04_NPCs/Alaric_Finnsworn\|Alaric_Finnsworn]]                                                                           | Alaric_Finnsworn                        |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/Archimago_Thalios_Estrella_Antigua\|Archimago_Thalios_Estrella_Antigua]]                         | Archimago_Thalios_Estrella_Antigua      |
 | [[Lithernia/09_Personajes/04_NPCs/Arelthra_Mithrilbraid\|Arelthra_Mithrilbraid]]                                                                 | Arelthra_Mithrilbraid                   |
 | [[Lithernia/09_Personajes/03_Agrupaciones/El_Eco_Roto/Arion_Corinth\|Arion_Corinth]]                                                             | Arion_Corinth                           |
 | [[Lithernia/09_Personajes/04_NPCs/Arlin_Barrojarillo\|Arlin_Barrojarillo]]                                                                       | Arlin_Barrojarillo                      |
@@ -35,6 +36,8 @@
 | [[Lithernia/09_Personajes/04_NPCs/Brynna_Holcil\|Brynna_Holcil]]                                                                                 | Brynna_Holcil                           |
 | [[Lithernia/09_Personajes/04_NPCs/Caelen_Marwen\|Caelen_Marwen]]                                                                                 | Caelen_Marwen                           |
 | [[Lithernia/09_Personajes/04_NPCs/Calendrel_Aelthorn\|Calendrel_Aelthorn]]                                                                       | Calendrel_Aelthorn                      |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/Capitán_Aurelius_Stormsail\|Capitán_Aurelius_Stormsail]]                                         | Capitán_Aurelius_Stormsail              |
+| [[Lithernia/09_Personajes/01_Dioses/Cirkon\|Cirkon]]                                                                                             | Cirkon                                  |
 | [[Lithernia/03_Razas/Ciudadela_de_Obsidiana\|Ciudadela_de_Obsidiana]]                                                                            | Ciudadela_de_Obsidiana                  |
 | [[Lithernia/02_Reinos/Clanes_Rebeldes_de_Mor’dhul\|Clanes_Rebeldes_de_Mor’dhul]]                                                                 | Clanes_Rebeldes_de_Mor’dhul             |
 | [[Lithernia/03_Razas/Coleccionistas_de_Lamentos\|Coleccionistas_de_Lamentos]]                                                                    | Coleccionistas_de_Lamentos              |
@@ -49,6 +52,7 @@
 | [[Lithernia/02_Reinos/El_Legado_de_Morgal\|El_Legado_de_Morgal]]                                                                                 | El_Legado_de_Morgal                     |
 | [[Lithernia/02_Reinos/El_Legado_de_Thirogrim\|El_Legado_de_Thirogrim]]                                                                           | El_Legado_de_Thirogrim                  |
 | [[Lithernia/02_Reinos/El_Lich-Rey_de_Mordhul\|El_Lich-Rey_de_Mordhul]]                                                                           | El_Lich-Rey_de_Mordhul                  |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/El_Primer_Rey\|El_Primer_Rey]]                                                                   | El_Primer_Rey                           |
 | [[Lithernia/03_Razas/Eladrin\|Eladrin]]                                                                                                          | Eladrin                                 |
 | [[Lithernia/09_Personajes/04_NPCs/Elandra_Marethys\|Elandra_Marethys]]                                                                           | Elandra_Marethys                        |
 | [[Lithernia/09_Personajes/04_NPCs/Elandriel_Moonshade\|Elandriel_Moonshade]]                                                                     | Elandriel_Moonshade                     |
@@ -88,6 +92,7 @@
 | [[Lithernia/09_Personajes/04_NPCs/Faelith_Moonshadow\|Faelith_Moonshadow]]                                                                       | Faelith_Moonshadow                      |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Casa_Aethelgard/Fendrel_Aethelgard\|Fendrel_Aethelgard]]                                               | Fendrel_Aethelgard                      |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Clan_Moldearroca/Fenris_el_Erudito\|Fenris_el_Erudito]]                                                | Fenris_el_Erudito                       |
+| [[Lithernia/09_Personajes/01_Dioses/Ferion\|Ferion]]                                                                                             | Ferion                                  |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Clan_Vilespore/Fexia_Pústula\|Fexia_Pústula]]                                                          | Fexia_Pústula                           |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Casa_Volund/Finkle_Cogspinner\|Finkle_Cogspinner]]                                                     | Finkle_Cogspinner                       |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Clan_Umbracor/Fizzik_Borboteo\|Fizzik_Borboteo]]                                                       | Fizzik_Borboteo                         |
@@ -166,12 +171,16 @@
 | [[Lithernia/02_Reinos/Lady_Isolde_de_la_Casa_Ardentis\|Lady_Isolde_de_la_Casa_Ardentis]]                                                         | Lady_Isolde_de_la_Casa_Ardentis         |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Casa_Aethel/Lady_Lyraxis_Aethel\|Lady_Lyraxis_Aethel]]                                                 | Lady_Lyraxis_Aethel                     |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Casa_Noctarion/Lady_Seraphina_Noctarion\|Lady_Seraphina_Noctarion]]                                    | Lady_Seraphina_Noctarion                |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/Lady_Xandria_La_Susurrante\|Lady_Xandria_La_Susurrante]]                                         | Lady_Xandria_La_Susurrante              |
 | [[Lithernia/09_Personajes/04_NPCs/Lareth_Vorindel\|Lareth_Vorindel]]                                                                             | Lareth_Vorindel                         |
 | [[Lithernia/05_Trasfondos/Las_Fraguas_de_Aethelgard\|Las_Fraguas_de_Aethelgard]]                                                                 | Las_Fraguas_de_Aethelgard               |
+| [[Lithernia/09_Personajes/01_Dioses/Levbrios\|Levbrios]]                                                                                         | Levbrios                                |
 | [[Lithernia/02_Reinos/Linajes_Mestizos\|Linajes_Mestizos]]                                                                                       | Linajes_Mestizos                        |
 | [[Lithernia/02_Reinos/Linajes_Nobles_de_Eldrador\|Linajes_Nobles_de_Eldrador]]                                                                   | Linajes_Nobles_de_Eldrador              |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/Lord_Aethel_El_Cruel\|Lord_Aethel_El_Cruel]]                                                     | Lord_Aethel_El_Cruel                    |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Casa_Granitoeco/Lord_Kaelen_Granitoeco\|Lord_Kaelen_Granitoeco]]                                       | Lord_Kaelen_Granitoeco                  |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Casa_Noctumbra/Lord_Malachi_Noctumbra\|Lord_Malachi_Noctumbra]]                                        | Lord_Malachi_Noctumbra                  |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/Lord_Volrath_La_Mano_Negra\|Lord_Volrath_La_Mano_Negra]]                                         | Lord_Volrath_La_Mano_Negra              |
 | [[Lithernia/01_Historia/03_EraPrimerRey/Los_Ancestros_del_Primer_Rey\|Los_Ancestros_del_Primer_Rey]]                                             | Los_Ancestros_del_Primer_Rey            |
 | [[Lithernia/02_Reinos/Los_Círculos_de_Invocación_en_Eldrador\|Los_Círculos_de_Invocación_en_Eldrador]]                                           | Los_Círculos_de_Invocación_en_Eldrador  |
 | [[Lithernia/03_Razas/Los_Danzantes_del_Dolor\|Los_Danzantes_del_Dolor]]                                                                          | Los_Danzantes_del_Dolor                 |
@@ -213,12 +222,14 @@
 | [[Lithernia/01_Historia/07_EraMilAnios/Profecías_y_Oráculos_de_Eldrador\|Profecías_y_Oráculos_de_Eldrador]]                                      | Profecías_y_Oráculos_de_Eldrador        |
 | [[Lithernia/09_Personajes/01_Dioses/Quiteon\|Quiteon]]                                                                                           | Quiteon                                 |
 | [[Lithernia/09_Personajes/02_Figuras_Historicas/Rey_Aerion_Starlight\|Rey_Aerion_Starlight]]                                                     | Rey_Aerion_Starlight                    |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/Rey_Selthirak\|Rey_Selthirak]]                                                                   | Rey_Selthirak                           |
 | [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]]                                                                                             | Rokael                                  |
 | [[Lithernia/02_Reinos/Secretos_de_Moonshadow\|Secretos_de_Moonshadow]]                                                                           | Secretos_de_Moonshadow                  |
 | [[Lithernia/09_Personajes/04_NPCs/Selindor_Aranath\|Selindor_Aranath]]                                                                           | Selindor_Aranath                        |
 | [[Lithernia/09_Personajes/04_NPCs/Seliora_Marbreeze\|Seliora_Marbreeze]]                                                                         | Seliora_Marbreeze                       |
 | [[Lithernia/09_Personajes/04_NPCs/Selirith_Amlarë\|Selirith_Amlarë]]                                                                             | Selirith_Amlarë                         |
 | [[Lithernia/09_Personajes/04_NPCs/Selrin_Moonwhisper\|Selrin_Moonwhisper]]                                                                       | Selrin_Moonwhisper                      |
+| [[Lithernia/09_Personajes/01_Dioses/Selthirak\|Selthirak]]                                                                                       | Selthirak                               |
 | [[Lithernia/03_Razas/Semielfos\|Semielfos]]                                                                                                      | Semielfos                               |
 | [[Lithernia/03_Razas/Semiorcos\|Semiorcos]]                                                                                                      | Semiorcos                               |
 | [[Lithernia/09_Personajes/04_NPCs/Seraphina_Forjahonda\|Seraphina_Forjahonda]]                                                                   | Seraphina_Forjahonda                    |
@@ -244,9 +255,12 @@
 | [[Lithernia/09_Personajes/04_NPCs/Siraryn_Vaelithar\|Siraryn_Vaelithar]]                                                                         | Siraryn_Vaelithar                       |
 | [[Lithernia/09_Personajes/03_Agrupaciones/El_Coro_Discordante/Skreek\|Skreek]]                                                                   | Skreek                                  |
 | [[Lithernia/01_Historia/05_CaidaLilium/Sociedades_Secretas_del_Éxodo\|Sociedades_Secretas_del_Éxodo]]                                            | Sociedades_Secretas_del_Éxodo           |
+| [[Lithernia/09_Personajes/01_Dioses/Solniria\|Solniria]]                                                                                         | Solniria                                |
 | [[Lithernia/09_Personajes/04_NPCs/Sorilena_Marealba\|Sorilena_Marealba]]                                                                         | Sorilena_Marealba                       |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Casa_Vexia/Sylas_El_Mudo\|Sylas_El_Mudo]]                                                              | Sylas_El_Mudo                           |
 | [[Lithernia/01_Historia/02_EraEscamasFuego/Tal’vorak,_el_Señor_de_las_Tormentas\|Tal’vorak,_el_Señor_de_las_Tormentas]]                          | Tal’vorak,_el_Señor_de_las_Tormentas    |
+| [[Lithernia/09_Personajes/01_Dioses/Taladrios\|Taladrios]]                                                                                       | Taladrios                               |
+| [[Lithernia/09_Personajes/02_Figuras_Historicas/Talvorak\|Talvorak]]                                                                             | Talvorak                                |
 | [[Lithernia/09_Personajes/04_NPCs/Thalesh_Vrook\|Thalesh_Vrook]]                                                                                 | Thalesh_Vrook                           |
 | [[Lithernia/09_Personajes/04_NPCs/Thalorina_Brillentormenta\|Thalorina_Brillentormenta]]                                                         | Thalorina_Brillentormenta               |
 | [[Lithernia/09_Personajes/03_Agrupaciones/Clan_Abismoforjado/Thane_Borgrim_Manonegra\|Thane_Borgrim_Manonegra]]                                  | Thane_Borgrim_Manonegra                 |
