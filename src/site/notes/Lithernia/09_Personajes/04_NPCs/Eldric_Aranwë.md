@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/eldric-aranwe/","title":"Eldric Aranwë","tags":["lithernia","personaje"]}
+---
+
+Eldric Aranwë emerge de entre la bruma matinal de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]] como un susurro del bosque antes de una dulce lluvia. Sus ojos dorados adquieren tintes plateados cuando habla de las estrellas, y sus cabellos ondulan lentamente como hojas sepultadas por el viento otoñal. Viste túnicas etéreas que simulan el movimiento pausado de las estaciones, adaptándose a la luz según su estado interior. En su presencia, los rincones oscuros parecen alumbrarse con un resplandor tenue y las palabras adquieren un aura de certeza ancestral.
+
+Este emisario feérico habla poco, pero cuando lo hace la atención se torna inevitable; sus palabras fluyen como un arroyo cristalino, entretejidas con símbolos de sabiduría y un presagio implícito de cambio inminente. Eldric es un puente viviente entre los confines del tiempo y el camino del destino; sospechado por algunos de poder demasiado arcaico, amado por muchos que necesitan esperanza. Quienes lo buscan hallan en él tanto un asesor prudente como un misterioso guía que conoce secretos olvidados y rutas invisibles.
+
+Ante las amenazas que él aún no nombra, Eldric mueve sus piezas silenciosamente desde [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], tejiendo alianzas con druidas guardianes y decodificando susurros estelares. ¿Será la estación que teme la más amarga transformación o la promesa de un renacer? Solo el tiempo, que él protege y a veces desafía, revelará sus auténticos designios.

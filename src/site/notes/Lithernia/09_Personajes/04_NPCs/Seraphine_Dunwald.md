@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/seraphine-dunwald/","title":"Seraphine Dunwald","tags":["lithernia","personaje","Bardo","Arwenis"]}
+---
+
+Seraphine Dunwald es una figura imponente pero accesible quien parece haber nacido con el alma aún húmeda del océano. Su cabello largo y ondulado, negro como la noche tras una tormenta, cae libremente sobre hombros estrechos y erguidos con gracia, mientras sus ojos de un azul profundo poseen la calma y el misterio de un mar al amanecer. La luz plateada de la luna a menudo se refleja en sus suaves movimientos, y al hablar, su voz posee una mezcla hipnótica de melodía y autoridad.
+
+Su expresión amable puede tornarse gélida ante traiciones o injusticias, revelando dientes blancos en una sonrisa capaz de alentar incluso al más cansado de los marineros. A menudo sostiene una flauta de abedul adornada con filigranas de plata que evoca el sonido del viento marino o un laúd con una superficie cuarteada que grabó ella misma, cada rasguido comentando una historia de acontecimientos tanto heroicos como trágicos. 
+
+Seraphine es respetada y algo temida en el consejo de su ciudad, conocida por destapar secretos que pocos quisieran que fueran audibles más allá de los barcos incansables bajo su mandato. Cada encuentro con ella es capaz de transformar charlas triviales en piedras angulares del futuro de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Arwenis\|Arwenis]]. Siempre atenta a los cambios del viento y los susurros de las olas, trabaja en los oscuros tablones de las tabernas para mantener vivas historias que son el alma del mundo, y guarda bajo llave correspondencias que podrían encender o extinguir flotas enteras.

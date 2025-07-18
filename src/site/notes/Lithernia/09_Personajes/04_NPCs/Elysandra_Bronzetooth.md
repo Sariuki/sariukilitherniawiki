@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/elysandra-bronzetooth/","title":"Elysandra Bronzetooth","tags":["lithernia","personaje","enano","Araliath"]}
+---
+
+Elysandra Bronzetooth se presenta como un espíritu indomable moldeado por siglos de tradición y fuego. Camina con paso firme, su doble trenza torcida recolectando el ligerísimo brillo de polvo de carbón oscuro. Encerrada tras sus gafas de orfebrería, su mirada verde jade perfora con una mezcla de inteligencia aguda y cansancio de décadas representando a su clan en el Concilio de la Montaña.
+
+Sus manos, grandes y marcadas por callos de artesana, se mueven con la destreza heredada de generaciones: poco hablan, pero cada gesto denota una pasión inquebrantable por proteger las piedras y metales que hicieron de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Araliath\|Araliath]] una joya dentro de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Su armadura ligera, ensamblada con precisión propia, está adornada con símbolos ancestrales de [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]] y [[Lithernia/06_Magia/Runas\|Runas]] diminutas que cambian sutilmente según el ángulo de la luz.
+
+Hablar con Elysandra es descubrir una compleja figura: una [[Lithernia/05_Trasfondos/Noble\|Noble]] de palabra firme, rebosante de orgullo por su linaje, pero marcada por el dolor de la pérdida y la incertidumbre del futuro. Con voz clara y resonante, puede enardecer o calmar a multitudes cuando defiende su ciudad, pero también prefiere el silencio reverente de sus talleres donde da forma y alma a las obras que buscan marcar una era. Aventureros, diplomáticos y secretos vislumbran en ella no sólo a una maestra forjadora, sino a una potencial jueza en la quimera de unificar Lithernia, alguien puede desentrañar los misterios esconder tras las Lanzas Celestiales enterradas y guiar a su pueblo hacia un destino imprevisto.

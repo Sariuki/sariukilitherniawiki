@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/guardianes-del-colmillo-de-acero/korgan-mazo-de-piedra/","tags":["[lithernia","personajes","Gremio","enano","fundador","Guerrero"]}
+---
+
+# Korgan Mazo de Piedra
+
+### Biografía
+
+En los anales de los reinos, los nombres de reyes y archimagos se inscriben con oro y tinta de estrellas. Pero en las fronteras olvidadas, en los caminos embarrados y en las aldeas que tiemblan al anochecer, se susurra un nombre con la dureza de la roca y la fiabilidad del acero: Korgan Mazo de Piedra. A sus 215 años, Korgan no es solo el Maestro de los Guardianes del Colmillo de Acero; es su alma fundacional, una leyenda forjada en la pérdida y el deber.
+
+Nacido en el seno del clan Mazo de Piedra en las profundidades de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], Korgan fue criado bajo los preceptos [[Lithernia/03_Razas/Enanos\|Enanos]] de honor, lealtad al clan y la sagrada labor de la forja. Su vida, sin embargo, se desvió del camino tradicional durante una de las tantas escaramuzas olvidadas de la Gran Guerra en las fronteras con [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Mientras las legiones enanas se enfrentaban a los ejércitos [[Lithernia/03_Razas/Orcos\|Orcos]], una amenaza mayor, nacida de la corrupción del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], emergió de las tierras baldías. Una horda de [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] aberrantes, ignorada por los generales de ambos bandos, arrasó su puesto avanzado. Korgan fue uno de los pocos supervivientes, testigo impotente de cómo sus hermanos de armas no caían ante una espada orca, sino ante garras y colmillos que desafiaban la naturaleza.
+
+Esa masacre fue su epifanía. Comprendió que la Gran Guerra, con su vanagloria y sus odios ancestrales, era un velo que cegaba a los grandes poderes ante la verdadera podredumbre que crecía en las sombras. Desilusionado, Korgan abandonó su linaje y se convirtió en un [[Lithernia/05_Trasfondos/Cazador\|Cazador]] errante. En sus viajes encontró a otros parias que compartían su visión: Elara Brisa-errante, una exploradora humana de [[Lithernia/02_Reinos/Galvorn\|Galvorn]] cuya tripulación había sido devorada por horrores marinos, y Faelar Umbrafilo, un ranger elfo exiliado de [[Lithernia/02_Reinos/Eldrador\|Eldrador]] por desafiar la indiferencia de su nobleza. Juntos, fundaron los Guardianes del Colmillo de Acero.
+
+Establecieron su sede en [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], la ciudad-estado independiente de herreros y renegados, un lugar perfecto para obtener el mejor acero sin jurar lealtad a ningún monarca. Desde entonces, Korgan ha liderado el Gremio con mano firme y un corazón pesado. Es un estratega pragmático y un líder que exige excelencia, pero que ofrece un hogar a quienes no tienen ninguno. Para él, cada contrato cumplido, cada aldea salvada, es un golpe de martillo contra la indiferencia de los poderosos.
+
+Sus relaciones definen su carácter. Ve en **Grak Piel de Hierro**, su protegido orco, la prueba viviente de su filosofía: que la redención es posible y que la monstruosidad no reside en la sangre, sino en los actos. Su relación con **Lyra Vientoveloz**, su segunda al mando, es una de respeto tenso; él es el mazo que aplasta, ella la daga que corta en silencio. Korgan valora su eficacia, pero desconfía de sus métodos sigilosos y a veces despiadados, viéndolos como un mal necesario que mancha el honor del Gremio. Finalmente, su trato con el **Crisol Volcánico** de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]] es una lección de pragmatismo: desprecia su neutralidad codiciosa, pero necesita sus armas, las únicas capaces de resistir la corrupción de las [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] más viles.
+
+Korgan carga el peso de innumerables batallas y de los camaradas que ha perdido. Su motivación ya no es la venganza, sino la construcción de un legado: un escudo para los indefensos, forjado con el acero y el coraje de aquellos a quienes los reyes olvidaron.
+
+### Descripción Física y Equipamiento
+
+Korgan es la personificación de una montaña enana: ancho de hombros, de constitución formidable y con unos brazos forjados por décadas de blandir su martillo. Su rostro, surcado de arrugas y cicatrices, está enmarcado por una larga barba negra, canosa en las puntas, trenzada con intrincados nudos y asegurada con broches de acero. Cada broche representa a un Guardián caído bajo su mando, un recordatorio constante del precio de su guerra. Sus ojos, de un profundo color pizarra, han visto demasiado horror para albergar inocencia, pero aún arde en ellos una brasa de determinación inquebrantable.
+
+Viste una armadura de placas de acero valariano, funcional y sin adornos innecesarios, marcada por incontables abolladuras y arañazos. Sobre el peto luce el escudo del Gremio, no como un blasón de nobleza, sino como la marca de un artesano. Su capa, de cuero grueso de bestia, está raída por el viaje y el combate.
+
+Su arma es tan legendaria como él: **Rompe-espinas**, un martillo de guerra de cabeza maciza, forjado en el Crisol Volcánico. No es una pieza de arte, sino una herramienta de destrucción perfecta. Su mango de fresno petrificado está envuelto en cuero gastado, y se dice que el metal de su cabeza fue templado con la sangre de un basilisco, lo que le confiere una resistencia antinatural contra el veneno y el ácido. Para Korgan, Rompe-espinas es una extensión de su propia voluntad: directo, brutal e infaliblemente eficaz.
+
+### Legado e Impacto en Lithernia
+
+El impacto de Korgan Mazo de Piedra no se medirá en territorios conquistados ni en coronas obtenidas. Su legado es una idea, tan dura y perdurable como la piedra de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]: la idea de que la protección no es un privilegio otorgado por los nobles, sino un derecho defendido por los valientes. Al crear los Guardianes del Colmillo de Acero, Korgan estableció una de las pocas facciones verdaderamente neutrales de Lithernia, una que opera más allá de las intrigas de las grandes casas y los caprichos de los dioses.
+
+Ha demostrado que la cooperación entre razas ([[Lithernia/03_Razas/Humanos\|Humanos]], elfos, [[Lithernia/03_Razas/Enanos\|Enanos]] e incluso "razas monstruosas" redimidas) es no solo posible, sino esencial para la supervivencia. Mientras los reinos se preparan para la próxima gran batalla de su interminable guerra, el Gremio de Korgan libra los combates que realmente importan en las fronteras oscuras del mundo.
+
+Su existencia es un desafío silencioso al orden establecido, y por ello es visto con recelo tanto por [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], cuyos engendros caza, como por las potencias de la Alianza, que no pueden controlarlo. El futuro dirá si su Gremio perdurará como un faro de esperanza o si será finalmente aplastado por las mismas fuerzas políticas que Korgan siempre ha despreciado.

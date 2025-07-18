@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/arelthra-mithrilbraid/","title":"Arelthra Mithrilbraid","tags":["lithernia","personaje","gnomo","Sylorian"]}
+---
+
+Arelthra Mithrilbraid es la viva personificación del ingenio gnómico en el corazón de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Sylorian\|Sylorian]]. Un torbellino de ideas bajo su puñada tremenda se agitan planos, piezas y hechizos de transmutación, combinando a menudo con un toque de inspiración poética sobre las antiguas [[Lithernia/09_Personajes/Leyendas\|Leyendas]] de Lithernia.
+
+Tiene una presencia inconfundible: visible en cada paso que da, su laboriosidad es evidente en la capa llena de pigmentos, salpicaduras de aceite y [[Lithernia/06_Magia/Runas\|Runas]] arcanas tatuadas en los dedos. Su rostro, marcado con pequeñas arrugas de risa y concentración, se curva en una sonrisa constante cuando habla de sus últimas creaciones o del vasto tapiz que es la historia del reino.
+
+Desde su alto observatorio-laboratorio enclavado entre terrazas de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Sylorian\|Sylorian]], Arelthra no solo dirige la evolución técnica, sino también se erige como mediadora en disputas gremiales, proponiendo soluciones que la equilibrada sociedad enana aprecia entre las facciones tradicionalistas y progresistas. Su fuerte convicción de que el verdadero poder de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] yace en el equilibrio entre la artesanal paciencia, la magia ancestral y el avance científico le otorga respeto, pero también enemigos de las viejas guardias.
+
+Cualquiera que cruce su camino se verá envuelto en relatos de encantamientos detonando en laboratorios ocultos, máquinas que casi parecen cantar con energía vital y proyectos destinados a preservar y expandir el fabuloso legado de su pueblo. Sin embargo, entre el brillo de sus inventos, Arelthra mira siempre más allá: soñando a menudo con un reino duradero donde las nuevas tecnologías sean portadoras de paz, no de ruina.

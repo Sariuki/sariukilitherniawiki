@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/los-cronistas-silentes/kaelen-umbral/","tags":["lithernia","personajes","Gremio","Los Cronistas Silentes","Eldrador","exiliado"]}
+---
+
+# Kaelen Umbral
+
+### Biografía
+
+Nacido en las sombras de [[Lithernia/02_Reinos/Eldrador\|Eldrador]], Kaelen no pertenece a ninguna de las grandes casas élficas que gobiernan bajo la luz de las estrellas. Su linaje, la Casa Umbral, fue una rama menor y olvidada, conocida por su afinidad con la magia de las sombras y el conocimiento oculto, lo que les granjeó la desconfianza de casas más puristas como la Casa Astellia. Desde joven, Kaelen demostró un intelecto prodigioso y una sed insaciable por la verdad, una cualidad peligrosa en un reino construido sobre tradiciones inamovibles y secretos bien guardados.
+
+Su destino se selló el día que descubrió una sección oculta en los archivos de su familia: un diario que contradecía la historia oficial sobre la caída del Primer Rey y la naturaleza del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. Acusado de herejía y de estudiar textos prohibidos por la hegemónica Casa Astellia, que temía cualquier cosa que pudiera desestabilizar el orden divino, Kaelen fue despojado de su nombre y exiliado. Con solo 80 años, una edad insultantemente joven para un elfo, se convirtió en un paria.
+
+Vagó por Lithernia durante décadas, un [[Lithernia/05_Trasfondos/Erudito\|Erudito]] sin biblioteca, hasta que sus investigaciones lo guiaron a los susurros de una organización clandestina: los Cronistas Silentes. En ellos encontró un propósito y un hogar. Su meticulosa capacidad para descifrar lenguajes muertos y su valentía para adentrarse en ruinas pre-[[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] le permitieron ascender rápidamente. Hoy, como Archivista Principal, Kaelen es el custodio de las verdades más peligrosas de Lithernia y el cerebro detrás de las operaciones más delicadas del gremio.
+
+Su motivación es una mezcla de venganza personal contra la hipocresía de los nobles élficos y una genuina creencia en que solo la verdad completa puede salvar al mundo. Sin embargo, vive en un conflicto perpetuo. A diferencia de los miembros más radicales del gremio, Kaelen no está seguro de que desatar la Profecía del Retorno del Rey sea la solución. Teme que el poder del Primer Rey, o la verdad sobre el [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], sea una fuerza demasiado caótica para ser controlada, y que en su búsqueda de liberación terminen provocando un segundo apocalipsis.
+
+Como mentor, ha tomado bajo su tutela a dos jóvenes promesas que representan su propia dualidad: Brynja, una guerrera orca de Cheneras con una voluntad de hierro, y Finkle, un ingenioso gnomo artífice con una curiosidad sin límites. Los ve como el futuro del gremio: la fuerza para proteger el conocimiento y el ingenio para usarlo sabiamente. Mientras tanto, arriesga todo manteniendo una correspondencia cifrada con un círculo de sabios disidentes en la Torre de las Estrellas de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], intercambiando fragmentos de historia por pistas sobre el paradero de artefactos que los dioses y sus sirvientes preferirían mantener enterrados.
+
+### Descripción Física y Equipamiento
+
+Kaelen posee la fisionomía enigmática de un elfo Shadar-Kai, con una piel pálida del color de la ceniza y ojos de un violeta profundo que parecen contener la luz de estrellas lejanas. Su cabello, negro como la obsidiana, está surcado por un único mechón de un blanco níveo que le cae sobre la frente, un rasgo que se acentuó tras una incursión peligrosa en una tumba cargada de energía necrótica. A sus 215 años, su rostro es joven pero sus ojos reflejan el peso de siglos de secretos. Es alto y de constitución delgada, moviéndose con un sigilo innato que desmiente su naturaleza académica.
+
+Viste túnicas de viajero de color oscuro, funcionales y sin adornos, diseñadas para no llamar la atención. Siempre lleva guantes de cuero fino para proteger tanto sus manos como los delicados manuscritos que maneja. Oculta bajo su capa lleva una **daga de cristal de sombras**, un artefacto de su familia que puede volverse intangible por breves instantes. Su equipo más preciado, sin embargo, es su **Kit de Archivista**: un estuche de cuero que contiene lentes de aumento forjadas por [[Lithernia/03_Razas/Gnomos\|Gnomos]], polvos para revelar inscripciones invisibles, carbón para calcos rúnicos y un conjunto de plumas y tintas de diversa composición química y mágica. En su cuello cuelga un amuleto discreto: una lasca de obsidiana pulida, idéntica a la que se muestra en el escudo del gremio, que le sirve como foco arcano.
+
+### Legado e Impacto en Lithernia
+
+Kaelen Umbral no es un rey, un general ni un [[Lithernia/09_Personajes/Heroes\|Heroes]] de leyenda cantado por los bardos en las tabernas. Su campo de batalla son los archivos polvorientos, las ruinas olvidadas y las redes de susurros que cruzan los reinos. Sin embargo, su impacto potencial en el destino de Lithernia es inmenso. Es el arquitecto de una rebelión silenciosa que no busca derrocar tronos con espadas, sino desmantelar imperios con la verdad.
+
+Si tiene éxito, podría ser recordado como el [[Lithernia/05_Trasfondos/Erudito\|Erudito]] que devolvió la memoria a un mundo amnésico, el catalizador que cumplió la profecía y liberó a Lithernia del yugo de los dioses. Pero si su cautela lo paraliza o si sus enemigos lo descubren, su nombre será borrado de la historia, sus conocimientos se perderán y su gremio será cazado hasta la extinción, condenando al mundo a repetir los ciclos de guerra y engaño. El legado de Kaelen Umbral será, en última instancia, el destino mismo de Lithernia, escrito en una tinta que él mismo está ayudando a crear.

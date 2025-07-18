@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/liora-suncall/","title":"Liora Suncall","tags":["lithernia","personaje","Galvorn","Faerion"]}
+---
+
+Liora Suncall se presenta como una figura única en la ciudad de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Faerion\|Faerion]], un híbrido entre la astucia de una cartógrafa experimentada y la audacia de una exploradora marina. De estatura media y complexión atlética, su cabello castaño oscuro suele estar recogido suspicazmente bajo su capa de marina, mientras que sus ojos color ámbar parecen siempre estar escrutando los cielos en busca de señales o constelaciones ocultas.
+
+Vestida con ropa funcional tintada en tonos azules y verde agua, lleva siempre consigo una vieja brújula recuperada en una isla olvidada y múltiples bolsillos llenos de herramientas, varitas y notas. En su porte hay una mezcla entre la elegancia náutica y la dureza del mar, atributos que se reflejan en su andar seguro. Aunque no se mezcla fácilmente con nobles ni comerciantes, tiene un agudo sentido del humor y puede ser encantadora en momentos de camaradería.
+
+Su verdadera fuerza reside en su particular acercamiento a la magia: con un dominio emergente en [[Lithernia/06_Magia/Conjuros\|Conjuros]] estelares, Liora logra leer el firmamento con precisión para guiar rutas navales y aventurarse en expediciones llenas de gran peligro. Sin embargo, ha empezado a cargar un secreto que puede trastocar las frágiles relaciones en [[Lithernia/02_Reinos/Galvorn\|Galvorn]]: el fragmento que guarda, leftover from the legendary Lanzas Celestiales, may fruit a path that attracts enmity from Mor’dhul’s darkest agents or could unravel the very foundation of the kingdom's maritime strength.
+
+Narrativamente, Liora es una excelente puerta para introducir misterios celestiales, conspiraciones caballerescas, un enfrentamiento con piratas o la peligrosa exploración de antiguas ruinas bañadas en magia perdida. Su posición dentro del Consejo de Capitanes le otorga tanto respeto como controversia, pues su sed por lo desconocido desafía las posturas más conservadoras, forzando a aliados y enemigos a replantear la extensión segura y la expansión del Kingdom of [[Lithernia/02_Reinos/Galvorn\|Galvorn]].

@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/custodios-del-primer-eco/vexian-umbra/","tags":["lithernia","personajes","Culto"]}
+---
+
+# Vexian Umbra
+
+### Biografía
+
+En los recovecos más profundos de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Nynthil\|Nynthil]], una ciudad erigida sobre los huesos de secretos olvidados, habita una figura cuya existencia es en sí misma un acto de rebelión: Vexian Umbra. Vexian, un elfo oscuro de linaje incierto y mirada cargada con el peso de generaciones perdidas, es el fundador y Maestro del Eco de los Custodios, un culto que opera en las sombras, enmascarado como una simple sociedad de archivistas. Pero su verdadera misión es una herejía que podría hacer temblar los cimientos de Lithernia.
+
+Nacido mucho después del Cataclismo del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], Vexian creció escuchando las historias oficiales: la arrogancia de un rey mortal, la justa ira de los dioses y el orden restaurado por figuras como Sel'thirak. Sin embargo, su insaciable sed de conocimiento lo llevó a explorar archivos prohibidos y ruinas olvidadas bajo [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Nynthil\|Nynthil]]. Allí, entre textos fragmentados y resonancias arcanas, descubrió una verdad alternativa: el Primer Rey no fue un tirano, sino un mártir, y los dioses, usurpadores que impusieron su fallida creación sobre un mundo quebrado. Su mayor descubrimiento fue la leyenda del "Primer Eco", la supuesta última palabra del Rey, atrapada eternamente en la piedra y que, según cree, contiene la clave para deshacer el sello de una de las Lanzas Celestiales y cumplir la profecía de su retorno.
+
+Con esta convicción como estandarte, Vexian fundó los Custodios del Primer Eco. Su genio no es el del [[Lithernia/04_Clases/Guerrero\|Guerrero]], sino el del estratega. Es un maestro de la manipulación sutil, tejiendo una red de alianzas improbables para fortalecer su causa. Ha prometido armas y apoyo a los [[Lithernia/03_Razas/Orcos\|Orcos]] rebeldes de Chéneras, que solo anhelan la libertad del yugo de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], y ha encontrado un terreno filosófico común con los Hijos de la Estrella Rota, elfos exiliados que creen que los dioses traicionaron su propósito original.
+
+Dentro del culto, su liderazgo es pragmático y a menudo frío. Mantiene a su lado a [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]], una agente de campo de talento innegable, cuya impulsividad Vexian considera tanto un arma valiosa como un riesgo constante que debe ser cuidadosamente gestionado. En [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Grakkul\|Grakkul]], el imponente guardián del culto, ve la personificación de la lealtad ciega a la causa, una herramienta perfecta y predecible, desprovista de las complicaciones de la ambición personal. Esta capacidad para ver a las personas como piezas en un tablero es a la vez su mayor fortaleza y su más profunda falla, aislándolo del mismo fervor humano que busca canalizar.
+
+Su principal rival es el Consejo de los Ocultos, los guardianes oficiales de los secretos de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Nynthil\|Nynthil]], que lo ven como un fanático peligroso. Compite también con el Clan Whisper, cuyos nigromantes buscan poder en las almas de los muertos, mientras Vexian lo busca en la voz silenciada de un rey vivo. Para él, Sel'thirak no es más que el carcelero de un mundo prisionero, y cada día que pasa es un día más que la verdad de Lithernia permanece enterrada bajo el silencio.
+
+### Descripción Física y Equipamiento
+
+Vexian Umbra posee la gracia innata de los elfos oscuros, pero sin la arrogancia marcial que caracteriza a muchos de su estirpe. Es de complexión esbelta y sus movimientos son deliberados, económicos, como si cada gesto estuviera calculado para conservar energía y secreto. Su piel tiene el tono pálido de la obsidiana pulida y su cabello, de un blanco níveo, cae liso sobre sus hombros, enmarcando un rostro afilado donde sus 152 años se manifiestan no en arrugas, sino en la insondable profundidad de sus ojos violetas, que observan el mundo con una intensidad analítica y una melancolía perpetua.
+
+Viste túnicas de [[Lithernia/05_Trasfondos/Erudito\|Erudito]], de un color gris oscuro y corte funcional, desprovistas de adornos ostentosos, salvo por el sutil bordado en hilo de plata de una onda sónica en el cuello y los puños. Su única concesión a la vanidad es un broche de obsidiana y oro que sujeta su capa, tallado con el emblema de los Custodios: una corona rota de la que emana una vibración.
+
+No porta armadura, confiando en su intelecto y el sigilo para protegerse. A su cinturón lleva una daga ceremonial con empuñadura de hueso, más un símbolo de su autoridad que un arma. Su verdadero arsenal consiste en los pergaminos cifrados que guarda en los bolsillos ocultos de su túnica, un juego de diapasones de mithril calibrados para detectar frecuencias arcanas y un mapa mental de los túneles y bibliotecas secretas de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Nynthil\|Nynthil]] que nadie más conoce.
+
+### Legado e Impacto en Lithernia
+
+Vexian Umbra no es un rey, un general ni un archimago de renombre. Es algo potencialmente más peligroso: una idea encarnada. Si fracasa, su nombre y el de sus Custodios se perderán en la historia como una nota a pie de página, una secta de herejes que se atrevieron a soñar y fueron aplastados por la realidad. Serán un cuento con moraleja sobre los peligros de desafiar el orden divino.
+
+Pero si tiene éxito, Vexian podría ser el catalizador que reescriba el destino de Lithernia. No sería recordado como un conquistador, sino como el hombre que encontró la llave, el [[Lithernia/05_Trasfondos/Erudito\|Erudito]] que escuchó la verdad cuando el resto del mundo solo oía silencio. Su legado sería el de haber liberado al Primer Rey, derrocando un panteón de dioses carceleros y cumpliendo la profecía más grande de todas. Sería la prueba viviente de que el conocimiento, la paciencia y una voluntad inquebrantable pueden ser más poderosos que ejércitos y coronas, iniciando una nueva era forjada no por la fuerza, sino por el eco de una verdad perdida.

@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/lianna-virelle/","title":"Lianna Virelle","tags":["lithernia","personaje","consejo-de-capitanes","Bardo"]}
+---
+
+Lianna Virelle camina con gracia inapropiada para la mar bravía que la vio nacer. Sus cada gesto viste un mar de historias, capas sobrias de marinero entre verdes y azules que la aureolan con el aire fresco del océano. Su lira de nácar, marcada con delicados grabados que parecen ondas petrificadas, nunca está demasiado lejos y a menudo acompaña su canción, intentando calmar disputas o susurrar encantamientos para el viento y las olas. Hay en sus ojos verde mar un tenue brillo que delata noches enteras bajo astros, consultando ancestros secretos y versos prohibidos.
+
+Sidical en la palabra, dulce en el gesto, Lianna actúa sin detención como filo del sutil arte de la diplomacia inexplorada en el Consejo de Capitanes, la voz femenina en ese coro áspero de hombres curtidos y marineros de fortuna. Posee un pasado de huérfana navegante —la semilla de su curiosidad fue impulsada por cuentos encontrados en botellas y en voz de piratas enemigos. Su vida es una danza gitana sobre las cubiertas de navíos que cruzan rutas cargadas de comercio y secretas intrigas, siempre con un ojo en la profecía olvidada del Primer Rey y las fuerzas latentes tras las cuatro Lanzas Celestiales.
+
+No es solo una cronista o diplomática sino una artífice de relatos ocultos, una tejedora de mitos vivos capaz de transformar el rumor en acción y la canción en promesa de unión entre reinos quebrados. Su melancólica pero [[Lithernia/05_Trasfondos/Noble\|Noble]] mirada amaga con un aire vagamente heroico: en sus versos y sus actos yace una intención profunda, posiblemente el punto clave de la vela que puede guiar a la guerra o a la paz definitiva que Lithernia tanto ansía.

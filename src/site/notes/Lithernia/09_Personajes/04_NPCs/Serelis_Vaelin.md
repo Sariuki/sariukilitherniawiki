@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/serelis-vaelin/","title":"Serelis Vaelin","tags":["lithernia","personaje","elfo","mano-de-hierro"]}
+---
+
+Serelis Vaelin es un alto elfo cuya postura irradia una elegancia tranquila acompañada por la sabiduría de los siglos. Su rostro alargado está marcado con finas líneas de expresión que hablan de preocupación constante y dedicación prolongada al estudio. Su cabello plateado cae liso hasta los hombros, siempre impoluto y contrastante contra sus ojos azul aciano profundos, semblantes de un océano viejo. Viste túnicas hechas de seda celestial bordada con hilos de plata que reproducen constelaciones famosas en [[Lithernia/02_Reinos/Eldrador\|Eldrador]], complementadas con un chal de tonos lavanda que suele envolverlo durante sus incursiones en la noche para estudiar estrellas.
+
+En [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Nythalas\|Nythalas]], habita en una torre que también funciona como biblioteca y santuario para antiguos artefactos élficos. Siempre lleva consigo un bastón tallado de roble vivo, arropando una gema estelar guiadora que brilla suavemente cuando se invoca algún conjuro protector.
+
+Consciente del delicado equilibrio de poderes, Serelis se ha ganado el respeto tanto de capas nobiliarias como de eruditos bajos dentro la Mano de Hierro, sopesando el peso de la tradición y la necesidad de adaptarse a desafíos contemporáneos. Su aversión a la violencia y su fe inquebrantable en el poder esclarecedor del conocimiento lo hacen un mediador natural aunque a veces eso provoque choques con facciones más beligerantes.
+
+Su misión es esencial para impedir que la historia de Lithernia sea borrada por disputas presentes y que las reliquias recogidas no caigan en manos erróneas, pues sabe que en ellas yace la clave tanto para la unión como para la destrucción. Pueden presentarse sutiles oportunidades narrativas, desde alianzas secretas para preservar antiguos textos sacramentales hasta enfrentamientos ideológicos donde su vida pende del equilibrio.

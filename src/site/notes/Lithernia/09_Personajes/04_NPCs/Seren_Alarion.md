@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/seren-alarion/","title":"Seren Alarion","tags":["lithernia","personaje"]}
+---
+
+Seren Alarion es un mediano de complexión ligera, con ojos vívidos de color azul mar y cabello despeinado castaño claro que parece danzar al compás de una brisa marina invisible. Viste siempre una capa azul de lino adornada por cintas plateadas, semejantes a ondas marinas, y una camisa color marfil que suele esconder bajo un chaleco de cuero gastado. En su cinturón cuelga la emblemática Lira de las Mareas, un instrumento tallado en madera naval con detalles en nácar y abalorios de conchas, que utiliza tanto para cautivar audiencias como para canalizar su magia.
+
+Reconocido por su voz melódica y su talento único para mezclar cuentos heroicos con canciones, Seren recorre con frecuencia los muelles y talleres de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Liraelis\|Liraelis]], ganándose la confianza tanto de marineros humildes como de nobles capitanes. Su mirada descifra la tensión entre el pragmatismo de [[Lithernia/02_Reinos/Galvorn\|Galvorn]] y sus sueños infinitos hacia océanos desconocidos. Seren actúa como puente cultural y político, hábil para mediar conflictos con humor y sabiduría, pero sabe cambiar a un orador apasionado cuando la causa lo requiere.
+
+Poco se sabe de los vestigios de su pasado junto al mar y las expediciones que llevó más allá de las islas Pollas Marinas, pero circulan rumores que lo vinculan con secretos ocultos del reino: un antiguo mapa a una Lanza Celestial perdida. Seren evita abordar ese tema en público, consciente del peligro que supone, prefiriendo dejar que las historias sean sólo eso... sin saber hasta cuándo podrá mantener ese misterio a salvo. Su destino parece tejido con las mareas, y quien conoce su mirada sabe que aún canta bajo escondidas tormentas.

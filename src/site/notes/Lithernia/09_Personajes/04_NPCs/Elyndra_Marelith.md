@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/elyndra-marelith/","title":"Elyndra Marelith","tags":["lithernia","personaje","Galvorn","consejo_de_capitanes"]}
+---
+
+Elyndra Marelith se mueve con la gracia y la determinación propias de un ave marina en vuelo, con una melena negra oscura que ondea al viento y ojos color zafiro profundos donde reflejan las constelaciones. Su piel tiene un ligero tinte dorado heredado de su madre élfica, y su figura es esbelta, fruto de los años navegando bajo sol y tormenta. Viste con ropajes prácticos pero elegantes, con bordados que imitan las olas y las estrellas, complementados con botas flexibles y un broche en forma de concha marina que sostiene su capa de tormenta marina.
+
+Habituada a la soledad de las exploraciones pero con un carisma natural, Elyndra habla suave pero con confianza, reflejo de sus muchas negociaciones y alianzas mantenidas en puertos tanto prósperos como decadentes. Habitualmente guarda un mapa enrollado confeccionado con materiales nobles, lleno de símbolos lunares y caminos secretos poco conocidos incluso para los gremios marítimos.
+
+Su pasión se acumula en el estudio de las Islas Errantes, territorio que solo conoce parcialmente y donde el velo entre plano material y astral parece más delgado. Su conexión con la magia de las estrellas y la evocación marina resulta en tempestades convocadas estratégicamente para proteger sus viajes y sus aliados.
+
+A pesar del fuerte ambiente mercantil de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Othienel\|Othienel]] y el pulso político del Consejo de Capitanes, Elyndra busca no solo explotar rutas comerciales sino conservar y unir el conocimiento flotante del Reino de [[Lithernia/02_Reinos/Galvorn\|Galvorn]], esperando que algún día la paz duradera emerja sobre las aguas turbulentas que bañan su mundo. Bajo su aspecto sereno aguarda una mente que puede cambiar el destino del reino con la revelación del pasado y el dominio del poderoso mar que todos veneran.

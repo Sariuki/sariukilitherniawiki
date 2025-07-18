@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/eldrin-copperbeard/","title":"Eldrin Copperbeard","tags":["lithernia","personaje"]}
+---
+
+Eldrin Copperbeard es un enano robusto, de estatura baja y hombros anchos con una imponente barba trenzada de tono cobrizo brillante que le da nombre. Sus ojos verdes, profundos y sabios, reflejan años de estudio y abundancia de secretos guardados en la Torre de las Estrellas. Aunque su equipo siempre incluye un pesado bastón de mithril que parece murmurar con [[Lithernia/06_Magia/Runas\|Runas]] iluminadas, su aura es más la de un pensador que la de un [[Lithernia/04_Clases/Guerrero\|Guerrero]]. Viste túnicas cerúleas que lucen bordados intrincados en plata con símbolos astrales, sus mejillas ligeramente arrugadas evidencian una vida dedicada a la contemplación más que al combate.
+
+En el laboratorio cerca del observatorio de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Cyndril\|Cyndril]], Eldrin dedica largas horas observando las estrellas y descifrando antiguos textos que hablan del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] y las Lanzas Celestiales. Aunque serio y reservado, sabe tejer sutiles palabras de aliento para inspirar a futuros héroes que buscan detener las fuerzas que amenazan a [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Tiene una relación cercana tanto con la reina Valeria como con los sabios que idean estrategias para proteger las montañas.
+
+Quienes lo conocen hablan de un mentor que prefiere guiar sin imponer, que empuja al límite el conocimiento sin perder la humanidad; y de un enano que teme que la próxima gran tormenta pueda surgir desde las túneles ocultos bajo la montaña. Eldrin promete que aquellos valientes que le acompañen no solo encontrarán hechos olvidados sino también descubrirán qué esconde realmente el misterioso corazón de Lithernia.

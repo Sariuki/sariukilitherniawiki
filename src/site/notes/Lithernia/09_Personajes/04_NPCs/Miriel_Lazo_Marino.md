@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/miriel-lazo-marino/","title":"Miriel Lazo Marino","tags":["lithernia","personaje","Bardo","Galvorn"]}
+---
+
+Miriel Lazo Marino es una figura que ilumina incluso las tabernas más oscuras de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Belanor\|Belanor]] con su voz melodiosa y sus historias vibrantes de mares lejanos. De estatura media, piel bronceada por el sol y cabellos castaños que ondean como la brisa marina, sus ojos azul profundo revelan melancolía y esperanza a la vez. Viste con ropas ligeras y tejidos que recuerdan las tonalidades del océano, adornadas con pequeñas conchas y cuentas. Siempre lleva consigo su laúd, y su presencia es capaz de conquistar simpatías incluso entre los más testarudos marinos.
+
+Miriel es un puente entre el pasado glorioso y el presente turbulento del Reino de [[Lithernia/02_Reinos/Galvorn\|Galvorn]]. Sus relatos no solo entretienen sino que son consignas secretas entre quienes buscan preservar las antiguas tradiciones y proteger a su pueblo de los peligros que acechan en el horizonte. La búsqueda que la impulsa —una balada antigua conectada con el misterio de la profecía del Primer Rey— la lleva a navegar no solo en el mar, sino en corrientes de intrigas, alianzas y enemigos ocultos, colocando a esta bardos en el corazón palpitante de una aventura ligada a las [[Lithernia/09_Personajes/Leyendas\|Leyendas]] y desafíos del mundo.

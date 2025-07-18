@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/alaric-finnsworn/","title":"Alaric Finnsworn","tags":["lithernia","personaje","Galvorn","Isolinor"]}
+---
+
+Alaric Finnsworn se presenta como un hombre atlético de cabello castaño claro, generalmente despeinado por la brisa marina, y ojos del azul profundo del océano. Sus ropajes, aunque prácticos para exploración, conservan detalles que delatan su ascendencia marítima: bordados con olas y conchas, y pequeños amuletos capturados en su bufanda. Sobre sus hombros siempre lleva una capa que ondea suavemente, como si quisiera interpretar incitaciones del viento. Con una expresión serena pero determinada, muestra las cicatrices de aventuras pasadas en sus manos y antebrazos, testamento de enfrentamientos con las criaturas y traiciones del mar.
+
+Su mirada a menudo se pierde en el horizonte, perpetuamente en busca de señales, no solo en las olas sino en la atmósfera política de [[Lithernia/02_Reinos/Galvorn\|Galvorn]], siempre con la sospecha de que algo oscuro amenaza esa paz navegante. Cuando habla, su voz es profunda y cálida, y es capaz de envolver a quien lo escuche en relatos de antiguas gestas o [[Lithernia/09_Personajes/Leyendas\|Leyendas]] náuticas.
+
+En combate, Alaric es veloz y mortal, golpeando con flechas infundidas en energía elemental, capaces de abatir barcos sembrando el caos en tempestades súbitas o incapacitamientos precisos. Pero su verdadero poder radica en unir a especies y culturas diversas, fomentando alianzas inusuales nacidas de su pasión por proteger la libertad y la espléndida belleza del reino costero que llama hogar.
+
+Esto convierte a Alaric en un recurso invaluable y un personaje con múltiples aristas: Explorador, embajador, y posible clave en las intrigas que involucran las [[Lithernia/09_Personajes/Leyendas\|Leyendas]] y amenazas del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] en [[Lithernia/02_Reinos/Galvorn\|Galvorn]]. Su vínculo con su ciudad natal, [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Isolinor\|Isolinor]], es profundo y prioridades nunca olvidadas: proteger el mar y las costas de la tormenta y corrupción latentes, siendo un faro de esperanza para aquellos que aún creen en la paz entre reinos.

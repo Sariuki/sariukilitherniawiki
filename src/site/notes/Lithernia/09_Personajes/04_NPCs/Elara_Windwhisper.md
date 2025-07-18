@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/elara-windwhisper/","title":"Elara Windwhisper","tags":["lithernia","personaje"]}
+---
+
+Elara Windwhisper se presenta como una presencia etérea y ágil dentro de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Therandel\|Therandel]], su cabello blanco como las nubes siempre parece flotar con una leve brisa, y sus ojos azul celeste reflejan el cielo despejado o la tormenta inminente según su estado de ánimo. Su figura suele estar envuelta en túnicas ligeras color celeste y gris marina que se entrelazan con símbolos sutiles de viento y olas, bordados con hilos que brillan suavemente al sol. Lleva siempre a la espalda una mochila pequeña repleta de [[Lithernia/12_Atlas/Mapas\|Mapas]], diarios de navegación y artefactos creativos para sus exploraciones.
+
+Su voz es clara, vibrante y rápida como el aire, cautivando al interlocutor tanto en tabernas ruidosas como en cámaras oficiales. Es admirada por su espíritu libre pero con fuerte sentido de la responsabilidad social —sufre cuando su reino siente la amenaza constante de la piratería— y enfrentará a quien ponga en riesgo la libertad de su gente con sorpresiva determinación.
+
+En las noches, se le puede hallar en observatorios o terrazas, contemplando estrellas sobre la ciudad mientras conversa con astrónomos o bardos, buscando en los cuerpos celestes respuestas sobre el futuro incierto de [[Lithernia/02_Reinos/Galvorn\|Galvorn]] y el [[Título_de_la_nota\|Título_de_la_nota]]. Su historia, intimamente marcada por el destino, la posiciona en el corazón de las rutas aéreas y asalvajadas costas del reino: portadora de mensajes, exploradora audaz y voz que nadie quiere perder en tiempos de sombra.

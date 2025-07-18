@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/eldryn-cuervaluna/","title":"Eldryn Cuervaluna","tags":["lithernia","personaje","Eladrin","Mago"]}
+---
+
+Eldryn Cuervaluna es un eladrín que irradia el aura de milenios y misterio. De estatura marcada por una elegancia natural, su forma suele reflejar la estación del otoño: cabello escarlata con destellos dorados y ojos que cambian del verde ámbar al violeta solapado. Su rostro, austero pero [[Lithernia/05_Trasfondos/Noble\|Noble]], se encuentra adornado con símbolos feéricos tatuados que palpitan suavemente con cada hechizo. Camina con la serenidad propia de aquellos cuyo conocimiento supera sus años contados.
+
+Ataviado con su túnica única bordada donde constelaciones reais parecen palpitar bajo la luz tenue, lleva en su mano izquierda un báculo de madera negra, profundamente tallado y con inscripciones plateadas incomprensibles a legos, que chirría delicadamente una música sin sonidos perceptibles cuando invoca magia. Su presencia en [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Villeshervil\|Villeshervil]], y especialmente en la Torre de las Estrellas, es sinónimo de sosiego para los devotos del Saber y temores ocultos para aquellos que desean alterar el orden mágico convencional.
+
+Eldryn habla despacio, dejando caer palabras que encienden reflexión y duda. Su voz, rica y melodiosa, parece conectar la realidad con las fibras atemporales del cosmos. Sabe de intrigas palaciegas pero rara vez se involucra abiertamente, prefiriendo la manipulación de hilos invisibles para preservar la estabilidad de [[Lithernia/02_Reinos/Valtoria\|Valtoria]].
+
+Su historia narra un viaje iniciado mucho tiempo atrás en [[Lithernia/02_Reinos/Eldrador\|Eldrador]], de donde emigró atraído por las [[Lithernia/09_Personajes/Leyendas\|Leyendas]] doradas de las estrellas enanas. Allí encontró un hogar intelectual donde su pasión por los [[Lithernia/06_Magia/Conjuros\|Conjuros]] olvidados se convirtió en un arte. Hoy custodia secretos que podrían cambiar el curso de la Gran Guerra o desatar fuerzas cósmicas incontrolables si caen en malas manos.
+
+Para un grupo de aventureros que explore las montañas e intrigas de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], Eldryn puede ser un iluminado mentor, un enigmático informante o incluso una pieza clave entre capas políticas y arcanas oscuras, personificando la esperanza y el enigma más allá de los cerros de piedra donde brilla la esperanza de un futuro menos tortuoso.

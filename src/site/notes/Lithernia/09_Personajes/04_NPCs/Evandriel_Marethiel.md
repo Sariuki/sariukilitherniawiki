@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/evandriel-marethiel/","title":"Evandriel Marethiel","tags":["lithernia","personaje","medio-elfo","Coryllian"]}
+---
+
+Evandriel Marethiel es un medio-elfo distinguido cuya presencia es sutil pero imponente en las orillas de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Coryllian\|Coryllian]]. Su cabello plateado, siempre trenzado con pequeñas cuentas de nácar y huesos de marisco, contrasta con sus ojos verdes intensos que parecen atrapar las profundidades secretas del océano. En sus finos antebrazos lucen tatuajes de antiguas [[Lithernia/06_Magia/Runas\|Runas]] y ondas marinas que reverberan débilmente durante las noches en la costa iluminadas por las estrellas. Su vestimenta combina telas prácticas propias de un navegante con detalles de seda azul profundo, símbolo de su afiliación al Consejo de Capitanes.
+
+Dotado de una mezcla nacida del viento élfico y el ardor humano, Evandriel destaca por su calma reflexiva y su habilidad para permanecer sereno en mitad del oleaje embravecido. No es un líder natural de multitudes, prefiere el susurro discreto de un consejo íntimo y miradas calculadoras para sortear intrigas políticas y desafíos. Su bastón de mando, parecido a un timón pequeño adornado con filigranas de oro y coral, refleja la mezcla entre artesanía humana y magia arcana.
+
+Los rumores de la región marítima mencionan que Evandriel fue el primero en cruzar rutas que los [[Lithernia/12_Atlas/Mapas\|Mapas]] actuales aún ignoran, guiado por sus lecturas de constelaciones y manás invisibles. Su conocimiento no solo lo lleva a planificar rutas cruciales, sino también a proteger la paz negociando entre capitanes rivales y combatiendo encubiertamente a espías de Mor’dhul y a corsarios que desean desestabilizar [[Lithernia/02_Reinos/Galvorn\|Galvorn]].
+
+Profundamente leal a la diosa [[Lithernia/09_Personajes/01_Dioses/Yfrit\|Yfrit]] y a la libertad de su pueblo, su triple identidad de elfo, humano y amigo fiel de los genasi de aire lo vuelve un personaje de excepción. Recoge historias de naufragios antiguos e iconografía marina para sus [[Lithernia/12_Atlas/Mapas\|Mapas]], mientras busca un destino que parece inscrito en las estrellas convocadas por [[Lithernia/09_Personajes/01_Dioses/Arzia\|Arzia]].
+
+Evandriel Marethiel representa una mezcla fascinante de sabiduría, destreza y misterio, perfecta como mentor para un grupo de exploradores o como catalizador de intrigas marinas que conduzcan una campaña hacia lo perdido y lo prohibido en los mares de Lithernia.

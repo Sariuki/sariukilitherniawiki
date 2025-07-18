@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/illyra-veshka/","title":"Illyra Veshka","tags":["lithernia","personaje"]}
+---
+
+Illyra Veshka camina por las sombrías calles de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Calanor\|Calanor]] envuelta en una capa bordada con símbolos arcanos de sangre y fuego. Su presencia impone una mezcla de respeto y temor: sus ojos brillan con una luz interna que parece absorber la oscuridad circundante. [[Lithernia/05_Trasfondos/Noble\|Noble]] y sabia, su postura erguida y el paseo lento denotan poder contenido. Las venas marcadas en su piel le dan un aire sobrenatural y casi inquietante, reflejo de su experta conexión con el [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] eterno, un don y una maldición. Petite en estatura pero con una fuerza ilusoria en su voz, es una estratega que prefiere que sus decisiones se escuchen antes que alzar la voz.
+
+En [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Calanor\|Calanor]], Illyra es tanto guardiana de secretos prohibidos como consejera no oficial del mismísimo rey Sel’thirak. Maneja los rituales sagrados relacionados con [[Lithernia/01_Historia/05_CaidaLilium/El_Cataclismo_del_Lilium\|El_Cataclismo_del_Lilium]] y la fusión entre el maná corrupto y su voluntad. Misteriosa en su pasado, nadie sabe con certeza cuáles son sus verdaderos límites ni qué oscuros poderes podría desatar; algunos furtivos murmullos insinúan que posee un fragmento resiliente del mismo [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], mantenido oculto bajo su protección.
+
+Sus alianzas son tan firmes como sutiles, coordinando movimientos tanto en las sombras de la magistratura como en los corredores nevados de la Ciudadela de Obsidiana. Atenta a cualquier amenaza, desde Traiciones internas a conspiraciones clandestinas, Illyra siempre sostiene la frontera invisible entre orden mortal y la oscura voluntad divina que define al reino de Mor’dhul.
+
+En campaña, puede presentar un interesante desafío o aliado: una guía para navegar el poderío del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] o un enigma que arrastra a los protagonistas a un juego de lealtades oscuras, con consecuencias que podrían alzar o derribar reinos enteros. Su obsesión con los antiguos rituales podría ser la llave para controlar un fragmento

@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/clan-agrietacero/kaelgor-yunque-negro/","tags":["lithernia","personajes","Clan Agrietacero","enano","líder","antagonista"]}
+---
+
+# Kaelgor YunqueNegro
+
+### Biografía
+
+Nacido en las profundidades de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], Kaelgor no era un enano común. Mientras sus coetáneos veneraban a [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]], el dios creador, y se enorgullecían de la perdurabilidad de sus obras, Kaelgor encontraba una belleza más pura y honesta en el poder de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], el Destructor. Veía la complacencia en los salones de piedra, la debilidad en la paz y el estancamiento en la tradición. Para él, la creación sin destrucción era un ciclo incompleto, una canción a medio cantar.
+
+Junto a una secta de teólogos y guerreros de ideas afines, Kaelgor comenzó a predicar la "Purificación Sagrada". Sostenían que [[Lithernia/02_Reinos/Valtoria\|Valtoria]] se había vuelto blanda, olvidando que solo el fuego prueba la pureza del metal y que solo el derrumbe permite construir cimientos más fuertes. Su fervor alcanzó su punto álgido durante el "Ritual de la Grieta": un acto de sabotaje en el que provocaron el colapso de una mina agotada, declarando que la devolvían al abrazo de la montaña. Aunque Kaelgor lo consideró un acto de devoción, el Concilio de la Montaña lo vio como blasfemia y traición. Fueron declarados herejes, marcados como el Clan Agrietacero y expulsados de su patria bajo pena de muerte.
+
+El exilio fue su verdadero bautismo de fuego. Guiados por las visiones de Kaelgor, que interpretaba los terremotos y las tormentas como susurros de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], los desterrados vagaron por las tierras baldías. Muchos perecieron, pero los que sobrevivieron se endurecieron, su fe convertida en un blindaje más resistente que cualquier acero enano. Su peregrinaje terminó ante el Volcán del Yunque Roto, una montaña de basalto negro que rugía con la furia primigenia de la tierra. Para Kaelgor, era una señal divina. Allí, en el corazón de la destrucción, fundaron la ciudad-fortaleza de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], un templo forjado en la ira de su dios.
+
+Kaelgor se erigió como líder natural. Su palabra no se imponía con tiranía, sino con el peso de una convicción inquebrantable. Se convirtió en el Forjamayor, cuyas creaciones nacían del magma mismo, y en el Sumo [[Lithernia/04_Clases/Sacerdote\|Sacerdote]], cuya voz era el eco del volcán. Bajo su liderazgo, el Clan Agrietacero creció, atrayendo a otros parias de Lithernia: Genasi de Fuego que veían en el volcán su elemento magnificado, Dracónidos que sentían el eco de la destrucción de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] en su sangre, e incluso [[Lithernia/03_Razas/Orcos\|Orcos]] del Clan Ironclaw de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], con quienes Kaelgor forjó una sólida alianza basada en el respeto mutuo por la fuerza y el acero.
+
+Hoy, Kaelgor YunqueNegro gobierna desde su trono de obsidiana en [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]]. Su principal motivación es llevar la "luz" purificadora de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] al resto de Lithernia, un continente que, a sus ojos, está corrupto por la debilidad, la falsedad y la paz precaria. Considera a sus antiguos hermanos de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] los más dignos de su ira, y sueña con el día en que las puertas de la capital enana se derrumben bajo la furia de su martillo.
+
+### Descripción Física y Equipamiento
+
+Kaelgor es la encarnación de su fe. Es un enano de una estatura y corpulencia imponentes, con una musculatura forjada por décadas de martillar acero al rojo vivo. Su piel, donde no está cubierta por la intrincada red de cicatrices de quemaduras rituales, tiene el tono ceniciento de la roca volcánica. Sus ojos no brillan, sino que arden como carbones vivos en la penumbra, y su barba, larga y trenzada con esquirlas de obsidiana, está perpetuamente chamuscada en las puntas. Su voz es un estruendo grave y resonante, como el retumbar de la montaña antes de quebrarse.
+
+No se separa de **Rompe-Mundos**, un colosal martillo de guerra forjado por él mismo con el corazón metálico de un meteorito que impactó en el volcán. Se dice que el arma sigue al rojo vivo en su interior, y las [[Lithernia/06_Magia/Runas\|Runas]] de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] grabadas en su superficie brillan con un fulgor anaranjado antes de cada golpe. Su armadura, la **Égida de Ceniza**, está hecha de placas de basalto negro y acero mor'dhuliano, un regalo de sus aliados del Clan Ironclaw. Cada placa cuenta la historia de una "purificación": una batalla ganada, una fortaleza arrasada, un enemigo convertido en cenizas.
+
+### Legado e Impacto en Lithernia
+
+Kaelgor YunqueNegro no es solo un señor de la guerra; es un profeta de la destrucción, el fundador de una cultura forjada en el exilio y el fuego. El Clan Agrietacero es una fuerza desestabilizadora en el norte de Lithernia, una espina clavada en el orgullo de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] y una amenaza latente para la delicada diplomacia entre los reinos.
+
+Su impacto se mide en la creación de una sociedad única donde [[Lithernia/03_Razas/Enanos\|Enanos]], genasi, dracónidos y [[Lithernia/03_Razas/Orcos\|Orcos]] coexisten bajo un credo común: la fuerza a través del sufrimiento y el renacimiento a través de la aniquilación. La alianza estratégica con el Clan Ironclaw ha creado un peligroso eje de poder que une el fanatismo religioso con la pragmática maquinaria de guerra de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], un pacto que podría cambiar el equilibrio de la Gran Guerra.
+
+Para [[Lithernia/02_Reinos/Valtoria\|Valtoria]], es un traidor cuyo nombre se susurra como una maldición. Para los descastados de Lithernia, es un faro de esperanza que ofrece un propósito en el caos. Para la historia, Kaelgor YunqueNegro será recordado como el enano que intentó quemar el mundo para forjarlo de nuevo a su imagen, un legado de fuego y ceniza cuyo verdadero alcance aún está por verse.

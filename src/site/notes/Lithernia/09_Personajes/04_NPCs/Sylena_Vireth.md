@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/sylena-vireth/","title":"Sylena Vireth","tags":["lithernia","personaje","Galvorn","Aenloris"]}
+---
+
+Sylena Vireth es una figura visible y respetada en los muelles de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Aenloris\|Aenloris]], con una voz firme y un andar que denota confianza. A pesar de su estatura mediana, su presencia es imponente para quienes entienden la autoridad adquirida a pulso en ese reino marítimo. Su cabello oscuro, a menudo recogido en un moño apretado, revela la practicidad que une a su vida, mientras sus ojos verdes parecen escudriñar el horizonte o detectar amenazas ocultas.
+
+Vistiendo siempre con un abrigo azul con bordes dorados y portando una espada corta de filo impecable, Sylena se presenta a menudo en la línea del frente cuando las tormentas o las amenazas piratas cortan la calma del puerto. Amante apasionada del ron, intercambia relatos en tabernas mientras ultima estrategias para proteger su ciudad. Secretamente, está preocupada por el aumento de ataques misteriosos en la costa, los cuales ella sospecha va más allá de simples piratas y podría involucrar enemigos más oscuros.
+
+Su posición en el Consejo de Capitanes no solo le da voz frente a los gremios sino que también la obliga a maniobrar entre celos y política interna que amenazan la estabilidad del orden marítimo. Sus lealtades firmes a la diosa [[Lithernia/09_Personajes/01_Dioses/Yfrit\|Yfrit]] y su pueblo la convierten en un faro de esperanza para quienes desean que [[Lithernia/02_Reinos/Galvorn\|Galvorn]] siga siendo el bastión de libertad y prosperidad en medio de la Gran Guerra. Sin embargo, sus diálogos muestran que no teme arriesgarse en exceso cuando la seguridad de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Aenloris\|Aenloris]] está en juego, y sus decisiones podrían tener consecuencias que trascenden su horizonte tradicional.

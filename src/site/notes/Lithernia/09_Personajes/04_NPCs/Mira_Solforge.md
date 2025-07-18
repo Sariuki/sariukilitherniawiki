@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/mira-solforge/","title":"Mira Solforge","tags":["lithernia","personaje","gnomo","Namariel"]}
+---
+
+Mira Solforge es una gnomo de estatura diminuta pero porte decidido, cuyas mejillas rosadas contrastan con una melena plateada recogida en un conjunto caótico de trenzas que sostienen herramientas y piezas mecánicas diminutas. Sus ojos brillan con el reflejo de cristales de jade y zafiro, antaño incorporados en sus gafas antivaho, y su piel está salpicada de manchas que parecen marcas místicas y quemaduras de soldadura armoniosas con su naturaleza artesanal.
+
+Sus prendas revelan su doble dedicación: tejidos resistentes y cómodos, moteados de pólvora mágica y recubiertos por un chal casi viviente hecho de filamentos cristalinos que emiten una tenue fosforescencia azul. Mira se mueve por los talleres de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Namariel\|Namariel]] como un torbellino sereno, rodeada de esferas flotantes que almacenan esencia mágica mineralizada, mientras descompone relojes arcano-mecánicos con la práctica maestría de una virtuosa.
+
+Sus dedos siempre manchados de grasa y polvo de astronita manipulan herramientas mágicas o reajustan circuitos de luz episódica con paciencia artística. Su voz clara y melodiosa acaricia teorías mientras disculpa su obsesión por un design que la ciudad podría necesitar; sus palabras reflejan un amor por la cooperación entre las castas enanas y [[Lithernia/03_Razas/Gnomos\|Gnomos]], reconstruyendo [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Namariel\|Namariel]] como un faro tecnológico en [[Lithernia/02_Reinos/Valtoria\|Valtoria]].
+
+Mira es una fuente de inspiración para los aprendices, quienes la respetan por su equilibrio entre ingenio y humildad, pero también lleva el peso de una ambición que a menudo la aparta temporalmente, sumergiéndose en investigaciones sobre energías ancestrales mientras su ilusión es proteger a su pueblo sin ceder terreno a usurpadores ni magos oscuros. El misterio envuelve la reliquia que con cautela protege en su atelier: una gema que palpita al tacto y que dice conectar con la magia antigua de las estrellas, un vestigio que podría cambiar el destino de Lithernia.

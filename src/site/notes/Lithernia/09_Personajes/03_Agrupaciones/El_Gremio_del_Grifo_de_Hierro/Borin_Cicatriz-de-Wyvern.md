@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/el-gremio-del-grifo-de-hierro/borin-cicatriz-de-wyvern/","tags":["lithernia","personajes","Gremio","Valtoria","Enano"]}
+---
+
+# Borin 'Cicatriz-de-Wyvern'
+
+### Biografía
+
+Nacido en el corazón de las montañas de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], Borin no pertenece a una de las grandes casas nobles como los Dravonis, sino a una rama menor de la Casa Bronzebrillo, un linaje de artesanos y comerciantes cuyo honor se forja en el yunque y se mide en la palabra dada. Desde joven, mostró más interés en los ecos de las [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] que retumbaban en los valles profundos que en el tintineo de las monedas. Su familia, aunque decepcionada por su rechazo al oficio del clan, respetó la antigua tradición enana que dicta que cada cual debe encontrar la veta que su alma está destinada a seguir. La suya no era de oro ni de mithril, sino de sangre y acero.
+
+Abandonó las seguras estancias de su clan para unirse al Gremio del Grifo de Hierro, una hermandad pragmática y curtida por la necesidad, nacida en los albores de la Gran Guerra. No buscaba la gloria de los paladines ni la iluminación de los sacerdotes; buscaba un propósito tangible en un mundo plagado por los monstruosos ecos del Cataclismo del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. En el gremio, bajo la tutela de veteranos que habían visto caer reinos, Borin aprendió que la mejor plegaria es un hacha afilada y la única profecía fiable es la que uno escribe con la sangre de su presa.
+
+Su apodo, "Cicatriz-de-Wyvern", no es un título honorífico, sino un mapa de su hazaña más definitoria. Durante una cacería en las Cumbres Afiladas de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], su partida fue emboscada por un Wyvern Alfa, una bestia ancestral cuya ponzoña se decía que podía corroer el acero rúnico. Mientras sus compañeros caían o se dispersaban, Borin se mantuvo firme. El duelo fue una danza brutal entre la roca y el cielo. El Wyvern le desgarró el rostro con una de sus garras, dejándolo medio ciego y con un dolor que habría hecho enloquecer a un hombre menor. Pero en ese instante de agonía, Borin hundió su hacha en el cráneo de la bestia, silenciando su rugido para siempre. Volvió a [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]] portando la cabeza del monstruo y la marca imborrable de su victoria, ganándose el respeto eterno del gremio y el puesto de Maestro de Caza.
+
+Como líder, Borin es un estratega metódico y un mentor exigente. Su voz es grave y rara, pues prefiere que hablen sus actos. Ha liderado cacerías contra todo tipo de abominaciones, desde manadas de [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] disformes surgidas en las tierras malditas de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] hasta leviatanes que acechan las rutas comerciales de [[Lithernia/02_Reinos/Galvorn\|Galvorn]]. Su relación con sus dos lugartenientes define la eficacia del gremio: confía en el sigilo y la vista de águila de la elfa del bosque, **Lyra Vientofurtivo**, para el rastreo y la emboscada, y en el genio caótico del gnomo **Finkle 'Dedos-de-Pólvora'** para crear trampas y explosivos que puedan derribar lo que las hojas no pueden. Juntos, forman un triunvirato letal, un baluarte de pragmatismo contra los horrores de Lithernia.
+
+A sus 125 años, Borin siente el peso de cada cicatriz, visible e invisible. Su motivación ya no es la emoción de la caza, sino el deber solemne de mantener el mundo a salvo para que otros puedan vivir sin miedo. Sabe que no es eterno y busca en silencio a un sucesor digno, alguien que entienda que el lema del gremio no es una promesa de victoria, sino un juramento de sacrificio.
+
+### Descripción Física y Equipamiento
+
+Borin es la encarnación de una montaña. De baja estatura pero con una anchura de hombros que parece desafiar la gravedad, cada músculo de su cuerpo es un nudo de poder forjado por décadas de combate. Su rostro, curtido por el viento y el sol, está dominado por la infame cicatriz: una línea irregular y blanquecina que serpentea desde su sien izquierda, cruzando el puente de su nariz y perdiéndose en la espesura de su barba. Su barba, de un color gris acero, está trenzada con intrincados nudos de guerra y asegurada con broches de hierro y bronce, símbolos de su gremio y de su linaje Bronzebrillo. Sus ojos, profundos y del color del granito, han visto horrores que harían palidecer a los cronistas.
+
+Viste una armadura de placas de acero oscuro, obra de los maestros herreros del Clan Agrietacero de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]]. No tiene florituras ni grabados ostentosos, solo las abolladuras y arañazos de mil batallas. Sobre el peto, cuelga el emblema del grifo de hierro, su ojo de rubí brillando con una luz tenue y funesta.
+
+Su equipo es puramente funcional:
+*   **Hacha de Guerra "Rompehuesos":** Un arma enana de manufactura impecable. Su filo ha sido tratado con aceites alquímicos que le permiten cortar escamas y quitina con mayor facilidad.
+*   **Ballesta Pesada de Repetición:** Un ingenio modificado por Finkle 'Dedos-de-Pólvora'. Capaz de disparar tres virotes de acero antes de necesitar una recarga completa, es su herramienta predilecta para derribar [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] aladas.
+*   **Equipo de Caza:** Una colección de ganchos de escalada, cuerdas de acero trenzado, trampas de mandíbula, y una serie de viales que contienen desde atrayentes de [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] hasta potentes venenos y antídotos.
+
+### Legado e Impacto en Lithernia
+
+Borin 'Cicatriz-de-Wyvern' nunca se sentará en un trono ni su nombre será cantado por los bardos de las grandes cortes élficas. Su legado es más terrenal y, para muchos, más importante. En las aldeas fronterizas y las caravanas de mercaderes, su nombre es un sinónimo de esperanza. Él y el Gremio del Grifo de Hierro son la delgada línea de acero que separa a la civilización del caos devorador que acecha en las sombras del mundo.
+
+Su impacto reside en su pragmatismo inquebrantable. En una Lithernia dividida por la Gran Guerra, la sangre y la fe, Borin representa una fuerza que opera más allá de la política y los dioses. No le importa si un contrato viene de un [[Lithernia/05_Trasfondos/Noble\|Noble]] de la Casa Hammerthon o de un concejal de una aldea de elfos del bosque; si una bestia amenaza a inocentes, el Gremio responderá. Ha demostrado que la cooperación entre razas (un enano, una elfa, un gnomo) no es un ideal poético, sino una necesidad para la supervivencia.
+
+Su leyenda perdurará en las historias de taberna y en las cicatrices de las [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] que lograron escapar de él. Para el resto de Lithernia, Borin es un recordatorio de que los verdaderos monstruos no siempre llevan corona, y los héroes más grandes, a menudo, son aquellos cuyo único monumento es un mundo que sigue respirando porque ellos lucharon.

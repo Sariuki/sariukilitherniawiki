@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/clan-vexdral/kaelen-umbra/","tags":["lithernia","personajes","Clan Vex'dral","Mor'dhul","Tiefling","Espía"]}
+---
+
+# Kaelen Umbra
+
+### Biografía
+
+Kaelen Umbra no es un producto de las grandes guerras de Lithernia, sino de sus cenizas y susurros. Nacido en los laberínticos y anegados confines de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Rynavel\|Rynavel]], no conoció la tiranía abierta de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] ni la asfixiante perfección de [[Lithernia/02_Reinos/Eldrador\|Eldrador]], sino la pragmática y letal simbiosis que sus fundadores crearon. Es hijo de Kaelen Vex, el estratega Tiefling que lideró a los exiliados de la Casa Sel'thirak hacia la libertad, y por tanto, heredero de la visión original del clan: la supervivencia a través del secreto, no de la fuerza bruta.
+
+Criado entre las ruinas élficas sumergidas y los vapores tóxicos del Pantano del Lamento Sombrío, Kaelen aprendió desde niño que la verdadera fuerza no reside en el acero que choca, sino en la daga que nunca se ve. Su infancia fue una tutela dual: de su padre y los [[Lithernia/03_Razas/Tieflings\|Tieflings]] aprendió la estrategia, la manipulación y el arte de convertir el miedo en un arma; de Lyra Dral y los Shadar-kai aprendió a moverse como una sombra, a tejer ilusiones sutiles y a abrazar el vacío como un manto.
+
+Su ascenso a Maestro de las Sombras no fue una herencia, sino una conquista silenciosa. Fue él quien, hace más de un siglo, formalizó la red de espionaje del clan, bautizándola como los "Susurrantes". Bajo su mando, los agentes de Vex'dral se han infiltrado en las cortes de [[Lithernia/02_Reinos/Eldrador\|Eldrador]], en las legiones de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] y en los consejos portuarios de [[Lithernia/02_Reinos/Galvorn\|Galvorn]]. Sus hazañas no se cantan en las tabernas; son secretos que mueren con sus víctimas: la misteriosa plaga que diezmó al Clan Agrietacero antes de que pudieran atacar una ruta de suministro de Vex'dral, el escándalo que derrocó a un [[Lithernia/05_Trasfondos/Noble\|Noble]] de la Casa Auris que investigaba demasiado cerca de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Rynavel\|Rynavel]], o el "accidente" que silenció a un vidente del Clan Nighthawk.
+
+La motivación principal de Kaelen es la pureza del propósito del clan. Considera que la neutralidad tóxica que Vex'dral proyecta es su mayor defensa. Por ello, choca constantemente con Zylana, la carismática Shadar-kai que actúa como rostro público del clan. Mientras ella teje alianzas y busca expandir la influencia de Vex'dral en el comercio de secretos, Kaelen ve cada pacto como una grieta en su fortaleza de aislamiento, una invitación a que el mundo exterior los descubra y destruya. Su desprecio por los [[Lithernia/03_Razas/Orcos\|Orcos]] es casi visceral, considerándolos herramientas toscas y predecibles. Sin embargo, tolera la presencia de Grolnok, el capitán de la guardia orco del clan, porque su fuerza bruta disuade a las amenazas más directas del pantano, permitiendo a Kaelen centrarse en las conspiraciones más sutiles. Es un guardián implacable, convencido de que un solo error, una sola palabra fuera de lugar, podría deshacer el santuario que sus antepasados construyeron con desesperación y veneno.
+
+### Descripción Física y Equipamiento
+
+Kaelen es un Tiefling de presencia contenida y mortal. A diferencia de muchos de su linaje de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], sus rasgos infernales son sutiles, adaptados para una vida en las sombras. Su piel tiene un tono gris ceniza, casi como la corteza de un árbol petrificado por el pantano. Dos cuernos delgados y de obsidiana pulida nacen de su frente y se curvan hacia atrás, siguiendo la línea de su cráneo, fácilmente ocultables bajo una capucha. Sus ojos, de un intenso color amatista, son lo único llamativo en su rostro; observan todo con una calma analítica y una inteligencia afilada que delata su verdadera naturaleza.
+
+Viste un atuendo funcional y silencioso. Su armadura es de cuero de basilisco endurecido, tratado con aceites que lo hacen impermeable y apagan cualquier reflejo de luz. No lleva emblemas ni adornos, salvo un pequeño broche de plata en forma de lágrima que sujeta su capa, el único guiño al escudo de su clan.
+
+Su equipamiento es el de un maestro asesino y espía:
+*   **Daga de Sauce Llorón:** Una estilete de hoja negra y delgada, forjada con acero de meteorito y templada en la savia de los sauces más venenosos de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Rynavel\|Rynavel]]. Su punta está siempre untada con una neurotoxina de acción rápida que causa parálisis y silencio.
+*   **Viales de [[Lithernia/11_Recetas/Alquimia\|Alquimia]]:** Un cinturón con una docena de viales de cerámica oscura, que contienen desde potentes venenos y ácidos hasta antídotos, pociones de invisibilidad y elixires que agudizan los sentidos.
+*   **Herramientas del Susurrante:** Un juego de ganzúas maestras de hueso, un fino alambre de garrote de seda de araña de las sombras y varios anillos con compartimentos secretos para ocultar mensajes o veneno en polvo.
+*   **La Máscara del Clan:** Para sus raras apariciones formales o rituales, se cubre el rostro con una réplica de la máscara del escudo del clan, tallada en obsidiana y sauce llorón. Se dice que a través de ella puede ver los miedos y secretos de quienes le miran.
+
+### Legado e Impacto en Lithernia
+
+El legado de Kaelen Umbra no se medirá en reinos conquistados o ejércitos derrotados, sino en las guerras que nunca estallaron, en los reyes que cayeron sin que nadie supiera por qué y en los secretos que moldearon el flujo del poder en Lithernia desde la penumbra. Él es la encarnación viviente del lema de su clan: una fuerza invisible que no juzga, pero que manipula el destino de naciones enteras desde su trono anegado en [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Rynavel\|Rynavel]].
+
+Mientras los grandes poderes de Lithernia se enfrentan en campos de batalla bañados por el sol, Kaelen libra una guerra mucho más antigua y sutil en los callejones, las alcobas y los pasillos del poder. Es el ancla que mantiene a Vex'dral fuera del conflicto directo, convirtiéndolo en un actor impredecible cuyo favor, comprado con oro y secretos, puede derribar imperios. Su nombre nunca aparecerá en las crónicas de los grandes historiadores, pero los Señores de las Sombras, los Archimestres de espías y los propios dioses de la mentira saben quién teje realmente las redes más peligrosas de Lithernia. Su impacto es una sombra persistente, un recordatorio de que el poder más grande es a menudo el que permanece oculto.

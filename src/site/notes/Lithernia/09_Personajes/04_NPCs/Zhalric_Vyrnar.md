@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/zhalric-vyrnar/","title":"Zhalric Vyrnar","tags":["lithernia","personaje","ilusionista","clan-whisper","mordhul"]}
+---
+
+Zhalric Vyrnar camina por las calles sombrías de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Eldurnis\|Eldurnis]] con una presencia que impone silencio y respeto inmediato. Sus ojos de oro líquido contrastan con la piel azul profundo, cuya textura escamosa parece absorber la luz, y los elegantes cuernos curvados que emergen de su frente captan discretamente la atención. Su capa negra se funde con la penumbra perpetua de la ciudad, y su voz, suave pero cortante, puede tejer comandos mentales con un simple susurro.
+
+Conocido como un maestro ilusionista y custodio de secretos, Zhalric no es un líder abierto sino un titiritero en las sombras. Su obsesión insondable por las historias prohibidas y los fragmentos del poder encerrado en las Lanzas Celestiales lo ha llevado a orientar al Clan Whisper hacia una nueva era de dominio arcano en Mor’dhul. Él cree que mediante el uso sutil y astuto del conocimiento se podrá redirigir la marcha inevitable del reino, rompiendo las cadenas que otros llaman destino.
+
+Los que lo conocen evocan a un hombre meticuloso, siempre rodeado de sus artefactos y grimorios ocultos, que no suelta una palabra sin medir su peso y que conserva en sus ojos una luz sugerente de poderes quizá más allá de la comprensión mortal. Pese a su naturaleza fría y manipuladora, también guarda una admiración oculta hacia antiguas tradiciones y se ve a menudo inmerso en el estudio de símbolos y [[Lithernia/06_Magia/Conjuros\|Conjuros]] celestiales, intentando hallar una brecha para la verdad del Primer Rey.
+
+Zhalric ofrece gran potencial narrativo, ya sea como un aliado lúgubre que guía a los héroes en caminos secretos o como un antagonista temible cuyos planes podrían alterar el equilibrio de todo el reino. Su red de aliados y enemigos dentro y fuera de la corte le convierte en la figura ideal para tramas de conspiraciones políticas, búsquedas mágicas o dilemas morales sobre el poder y la redención.

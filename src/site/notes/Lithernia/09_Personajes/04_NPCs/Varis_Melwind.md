@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/varis-melwind/","title":"Varis Melwind","tags":["lithernia","personaje"]}
+---
+
+Varis Melwind es una figura ágil y enigmática, siempre envuelto en la rumorosa brisa que acompaña a su paso. Su cabello plateado y ligeramente alborotado parece bailar sin viento, y sus ojos, penetrantes del color de un cielo tormentoso, buscan el horizonte en constante busca de nuevas rutas o aventuras. Siempre camina con ligeros saltos, como si pudiera despegar en vuelo en cualquier momento, y viste una capa azul iridiscente que ondea con el más mínimo soplo de aire.
+
+Como cartógrafo y Explorador, Varis posee la mezcla perfecta entre conocimiento de magia elemental y sabiduría marinera, lo que le ha granjeado puestos de confianza en el Consejo de Capitanes de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Naluneth\|Naluneth]] y alianzas secretas tanto con miembros del reino como con aventureros itinerantes del vecino [[Lithernia/02_Reinos/Eldrador\|Eldrador]]. Con un toque bromista y espíritu curioso, raramente se le ve sin un pergamino de [[Lithernia/12_Atlas/Mapas\|Mapas]] o un pequeño artefacto relacionado con la navegación aérea y marítima. 
+
+Además, su historia forjada sobre tormentas le da un trasfondo de resiliencia mística: ladear nariz contra el viento en busca de lo desconocido es su vocación y odre de libertad. Sin embargo, el recuerdo latente del terrible [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] y la degradación que trajo a Lithernia hacen que sea cauteloso frente a poderes desatados y conspiraciones que amenacen el delicado equilibrio del mundo.
+
+Varis es ideal para encuentros en tabernas marítimas de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Naluneth\|Naluneth]], misiones de reconocimiento sobre islas inexploradas, custodia de secretos sobre la segunda caída del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] o mediador entre distintos gremios presionados por la piratería y política interna. Un aliado franco, carismático y ágil, cuyas palabras pueden abrir puertas, pero cuya velocidad y magia en el aire también podrían salvar un día fatídico.

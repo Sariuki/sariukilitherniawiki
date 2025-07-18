@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/serila-tidewhisper/","title":"Serila Tidewhisper","tags":["lithernia","personaje","elemental","Ailuneth"]}
+---
+
+Serila Tidewhisper es una mujer marcada por la esencia marina, con cabellos largos y negros que parecen ondear como algas, iluminados por reflejos azules y verdes temblorosos como el vaivén de las olas. Su piel posee un tono perlado con destellos sutiles, mostrando su naturaleza elemental de agua. Sus ojos, grandes y de un profundo azul océano, encierran la calma infinita de la profundidad del mar y una inteligencia inquieta.
+
+Viste ropajes ligeros, en telas drenadas en tintes de turquesa, adornadas con símbolos aborígenes relacionados con el flujo del agua y los vientos marítimos, destacando colgantes con artesanales conchas y brazaletes nacarados. En su cinturón lleva un pequeño astrolabio que entrelaza magia de fuego y agua para guiarla en las noches sin luna y un grimorio pequeño, encuadernado en piel húmeda, donde anota [[Lithernia/12_Atlas/Mapas\|Mapas]] y [[Lithernia/06_Magia/Conjuros\|Conjuros]] de navegación arcana. 
+
+En [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Ailuneth\|Ailuneth]], Serila es un pilar de la comunidad, una voz sabia y respetada que equilibra la tradición y la magia práctica, convocando a veces mareas benignas o soplos de viento para salvar flotas. Sin embargo, su trayectoria está llena de secretos: ha trasegado con figuras del otro lado del mar y ha estudiado energías antiguas que muchos creían dormidas. Bajo sus cuidados, los navegantes acostumbran hacer ofrendas al mar, invocando [[Lithernia/06_Magia/Conjuros\|Conjuros]] protectores aprendidos con paciencia.
+
+Su papel a menudo se encuentra en la frontera entre diplomacia y vigilancia. Protege los escondites de los sabios y los pasos mágicos de las criaturas elementales marinas que amenazan curiosos o piratas. Algunos la llaman “La susurro de la marea”, pues muchas veces desaparece en la bruma para resignificar el equilibrio entre mundo material y místico. Serila ansía descubrir más sobre la relación oculta del mar con los otros reinos y el papel de su ciudad en los designios de la profecía que podría cambiar Lithernia.

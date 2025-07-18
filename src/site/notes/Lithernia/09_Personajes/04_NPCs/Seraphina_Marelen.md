@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/seraphina-marelen/","title":"Seraphina Marelen","tags":["lithernia","personaje","Galvorn","semielfo"]}
+---
+
+Seraphina Marelen se mueve con la serenidad de quien ha vivido abrazada por las olas y el viento desde la infancia. Sus miembros delgados se mueven con gracia, reflejando el linaje tanto humano como élfico que la define. Su rostro es de una belleza etérea y disimulada, alejada del ostentoso esplendor de la nobleza, aun así emana una presencia magnética capaz de captar la atención en una cámara abarrotada o en una taberna en los muelles. Lleva consigo un sextante antiguo, regalo de su madre, y un pergamino enrollado que contiene [[Lithernia/12_Atlas/Mapas\|Mapas]] inexplorados, muchos aún sin nombre.
+
+Su voz es clara y mesurada, portadora de las historias de la bruma y las [[Lithernia/09_Personajes/Leyendas\|Leyendas]] del mar abierto. Su mirada translúcida observa con atención, como siempre buscando señales en el cielo o en el vaivén de las olas. Aunque no busca el combate, sabe manejar una daga y emplear magia elemental para protegerse de amenazas inesperadas en sus travesías. En los círculos políticos, su mezcla de carisma y conocimiento la convierte en una interlocutora invaluable, abogando por la paz y expansión consciente de [[Lithernia/02_Reinos/Galvorn\|Galvorn]] sobre el mar en un mundo dividido por antiguos rencores.
+
+Seraphina es un faro para viajeros y narradores, cuyo legado podría ser la clave para descifrar antiguos enigmas enterrados bajo las nubes oceánicas del Kingdom of [[Lithernia/02_Reinos/Galvorn\|Galvorn]], o para evitar que la codicia de poder trastoque el frágil equilibrio de Lithernia.

@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/seressiel-lunevel/","title":"Seressiel Lunevel","tags":["lithernia","personaje","elfo","Mago"]}
+---
+
+En el corazón radiante de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Elinorae\|Elinorae]], entre las torres de marfil y sendas iluminadas por luz lunar mágica, Seressiel Lunevel camina con la gracia de milenios. Su alargada figura se envuelve en túnicas blancas que parecen ceñirse a un resplandor interno, mientras su cabello plateado cae en ondas suaves hasta media espalda, destacando sobre su piel tersa y clara, típica de los altos elfos. Los ojos, de un azul profundo y lumínico, guardan secretos tan antiguos como las constelaciones que han marcado su destino. Su presencia impone respeto silencioso, con una voz pausada que retumba en las mentes de aquellos dispuestos a escuchar.
+
+Esta archimaga no solo es una fuerza arcana formidable sino también una estratega política que maneja la delicada tela del Reyno de [[Lithernia/02_Reinos/Eldrador\|Eldrador]] con sabiduría y cautela. Respira y vive bajo el juramento de salvaguardar la estabilidad de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Elinorae\|Elinorae]], mientras pone a prueba el límite entre el deber a su gente y la curiosidad impetuosa por prodigios mágicos arcanos. Los susurros recorren la ciudad sobre sus encuentros clandestinos con aquellos que osan escudriñar profecías prohibidas, en rituales secretos donde la historia y el destino se entrelazan. Su bastón, adornado con gemas que simulan constelaciones vivas, nunca descansa a su lado, recordatorio perenne de que el velo entre la seguridad y el caos es delgado.
+
+Seressiel representa una mezcla fascinante de tradición y esperanza renovada, la última guardiana entre la sombra de legado antiguo y el brillo incierto de un futuro que puede todavía cambiar bajo las estrellas de [[Lithernia/02_Reinos/Eldrador\|Eldrador]].

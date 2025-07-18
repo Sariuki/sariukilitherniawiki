@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/erelith-valandor/","title":"Erelith Valandor","tags":["lithernia","personaje","elfo","tejedor-de-hechizos"]}
+---
+
+Erelith Valandor se presenta como una figura tranquila cuyo porte emana un dignificado aire de misterio. Sus ojos, de un violeta profundo similar a un cielo nocturno adulterado, recorren el ambiente con una mezcla de curiosidad y cautela. Portando una túnica larga y liviana que brilla tenuemente bajo la luna, parece mimetizarse con la luz estelar que tanto valora, sus dedos delicadamente adornados con anillos que dibujan constelaciones antiguas. Su melena blanca refleja destellos plateados y cae hasta la mitad de la espalda, a menudo sujeta en una trenza sencilla que sólo un aprendiz avanzado podría replicar.
+
+En la ciudad de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Silanel\|Silanel]], puede ser vista tanto en las torres astrales donde observa el firmamento, como entre las aulas secretas de la Academia Estelar donde entrena a seleccionados jóvenes con temperamentos excepcionales. Su voz es suave pero cargada de autoridad sutil, capaz de convencer a nobles y plebeyos por igual con sus discursos equilibrados y prospectos de esperanza.
+
+Pese a la atmósfera armoniosa que busca proyectar, Erelith vive marcada por la melancolía que la incertidumbre del Reino Élfico genera en ella. Ha sido testigo del creciente desapego y la tensión entre altas castas que tergiversan y suprimen las verdades más profundas de las antiguas profecías. Está convencida de que una interpretación verdadera podría unir no sólo los linajes, sino también mitigar la devastadora guerra que amenaza las bases mismas de su mundo.
+
+Su habilidad como Tejedora de Hechizos le permite alterar sutilmente [[Lithernia/06_Magia/Conjuros\|Conjuros]], un don que utiliza para velar no sólo por la defensa mágica sino para infundir sensibilidad y apertura de mente en su entorno. Este poder, sumado a su dominio en Adivinación, le convierten en una pieza clave, cuyos descubrimientos han comenzado a atraer la atención de muchas facciones, aliadas o adversas.
+
+Los lugareños describen a Erelith como un faro silencioso de sabiduría que a veces parece cargada de presagios inminentes, su mirada al horizonte parece siempre buscar las estrellas que guíen Lithernia hacia la paz que una vez fue prometida. Sin embargo, a medida que sus investigaciones avanzan, no pocos temen que desvelar demasiado pueda cambiar irremediablemente el curso de la historia.

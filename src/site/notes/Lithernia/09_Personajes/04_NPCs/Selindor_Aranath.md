@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/selindor-aranath/","title":"Selindor Aranath","tags":["lithernia","personaje"]}
+---
+
+Selindor Aranath se presenta en la corte de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Elmarion\|Elmarion]] con una notable serenidad, casi etérea, sus cabellos plateados parecen captar la luz lunar de forma casi sobrenatural, mientras que sus profundos ojos azul noche reflejan la inmensidad de los cielos estrellados que tanto ama interpretar. De presencia imponente aunque silenciosa, viste túnicas azul oscuro adornadas con bordados en plata que forman patrones celestiales, insinuando enigmáticos [[Lithernia/12_Atlas/Mapas\|Mapas]] zodiacales y fases lunares.
+
+Su rostro anguloso y [[Lithernia/05_Trasfondos/Noble\|Noble]], marcado por finas líneas de expresión que hablan de siglos de estudio y vigilancia constante, esconde una mente atormentada por la carga que representa la Profecía del Retorno del Primer Rey. Aunque sus palabras son medidas y a veces crípticas, Selindor despliega una autoridad indiscutible entre aquellos que veneran la sabiduría y el encanto de las artes arcanas élficas.
+
+Entre sus dedos largos y delicados siempre lleva el Cristal de la Ola Lunar — un cristal luminoso que palpita al ser tocado, aumentando sus habilidades en la adivinación estelar. Selindor ha sido varias veces el centro de las intrigas cortesanas, pues su cuidado conocimiento de la profecía lo convierte en un faro para quienes buscan salvar o subvertir la balanza del poder en [[Lithernia/02_Reinos/Eldrador\|Eldrador]].
+
+Con una actitud reservada, sin embargo, no es infrecuente verle observar silencioso los cielos desde lo alto de las torres de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Elmarion\|Elmarion]] por largas horas, ajeno al bullicio palaciego, susurrando a las estrellas en milenarios cantos que sólo algunos elfos mayores entienden. Sus enlaces con casas nobles y sociedades de sabios le permiten influir en decisiones públicas y secretas; empero, el precio de su custodia sobre tal importante legado es un desapego cauteloso y la sombra de un destino que podría desgarrar el mundo.

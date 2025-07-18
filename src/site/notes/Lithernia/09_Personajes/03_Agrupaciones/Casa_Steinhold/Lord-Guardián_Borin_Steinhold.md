@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-steinhold/lord-guardian-borin-steinhold/","tags":["[lithernia","personajes","Casa Noble","Casa Steinhold","Valtoria"]}
+---
+
+# Lord-Guardián Borin Steinhold
+
+### Biografía
+
+En los grandes salones de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], donde el eco de los martillos celebra la creación y la riqueza, resuena un silencio respetuoso cuando el nombre Steinhold es pronunciado. Lord-Guardián Borin Steinhold es la encarnación de ese silencio: un enano cuyo semblante parece tallado en el mismo granito que defiende, portador de un legado que es tanto un honor como una condena. A sus 382 años, Borin no es un señor de la guerra ni un rey de las minas; es el carcelero de los horrores arcanos de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], el patriarca de una casa cuyo deber es proteger al reino de las amenazas que ni el acero ni el oro pueden vencer.
+
+Descendiente directo del legendario Thorgar Steinhold, Borin fue criado no con canciones de gloria, sino con historias de sacrificio y vigilancia. Aprendió que la fuerza de su casa no reside en las vetas de mithril, sino en la entereza para mirar al abismo sin pestañear. Su juventud no fue de justas ni banquetes, sino de estudio en las bibliotecas de la Torre de las Estrellas y entrenamiento en las artes rúnicas de contención. Aprendió a leer las vibraciones del maná corrupto en la piedra y a forjar sellos capaces de aprisionar pesadillas.
+
+Su ascenso como Lord-Guardián se consolidó hace un siglo, durante la "Noche de los Ecos Rotos". Un grupo de *Cazadores de Sombras* logró debilitar uno de los sellos menores cerca de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Verue\|Verue]], liberando a una entidad de puro dolor, un remanente del odio del Clan [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]] capturado décadas atrás. Mientras los Escudos de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] luchaban por contener el caos en la superficie, Borin descendió a las profundidades con un pequeño séquito. Allí, en una batalla que fue tanto de voluntad como de fuerza, reforjó el sello, no con la fuerza vital de su ancestro, sino con una precisión rúnica y una frialdad que heló incluso a los espíritus del lugar. La hazaña le costó dos dedos de su mano izquierda y le dejó una cicatriz psíquica que a veces le asalta en sueños, pero consolidó su reputación como el Guardián más resuelto que la Casa Steinhold había visto en generaciones.
+
+La motivación de Borin es tan simple como inquebrantable: la preservación de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Ve el orden y la tradición enana como un bastión de luz en un mundo herido por el Cataclismo del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. Para él, sellar a un [[Lithernia/04_Clases/Mago\|Mago]] renegado o confinar a un *Hijo de la Luna* no es un acto de crueldad, sino una cirugía necesaria para extirpar un tumor que amenaza con devorar el cuerpo del reino. Este pragmatismo inflexible lo ha puesto en conflicto con su propia conciencia y, más notablemente, con su hija y aprendiz, **Rúna Steinhold**. Ella, con la empatía de una nueva generación, cuestiona la moralidad de encarcelar a seres por el poder incontrolado con el que nacieron. Borin ama a su hija por encima de todo, pero teme que su compasión sea la grieta por la que se filtre la ruina. Su mayor conflicto interno es prepararla para heredar un deber que podría quebrar su espíritu.
+
+Su relación con la **Reina Valeria Bronzebrillo** es de lealtad absoluta y respeto mutuo, aunque teñida de una formalidad distante. La Reina confía en Borin para manejar las amenazas internas que la corona prefiere no reconocer públicamente, y Borin cumple su deber sin buscar gloria. Es el ejecutor silencioso de las decisiones más difíciles del reino, un pilar necesario pero incómodo en la estructura de poder de [[Lithernia/02_Reinos/Valtoria\|Valtoria]].
+
+### Descripción Física y Equipamiento
+
+Borin es la personificación de la montaña misma: ancho de hombros, de constitución robusta y con una presencia que impone gravedad. Su rostro es un mapa de arrugas profundas y su mirada, de un gris pétreo, rara vez muestra emoción, pero tras ella arde una inteligencia vigilante. Su barba, de un color acero salpicado de vetas blancas, está recogida en una única y gruesa trenza sujeta con broches de mithril grabados con [[Lithernia/06_Magia/Runas\|Runas]] de contención, un símbolo de su linaje y oficio. Sus manos son grandes y callosas, no por el trabajo en la forja, sino por el arte de tallar la piedra y canalizar el maná a través de ella.
+
+Viste una armadura pesada de placas de acero gris granito, funcional y sin adornos ostentosos, pero cada pieza está meticulosamente grabada con pequeños sellos de protección que desvían la magia hostil. No es una armadura para la gloria, sino una fortaleza móvil.
+
+Su arma principal es **"Silencio"**, un martillo de guerra monumental forjado con un núcleo de piedra rúnica. No es un arma para romper cráneos, sino para quebrar defensas arcanas y grabar los Sellos de la casa en la roca viva. Se dice que un golpe de "Silencio" no produce el estruendo del metal, sino una quietud antinatural que ahoga los [[Lithernia/06_Magia/Conjuros\|Conjuros]] cercanos. Además, siempre porta un cinturón con cadenas de mithril puro, cristales de contención vacíos y un juego de cinceles rúnicos para reparaciones de emergencia en los sellos.
+
+### Legado e Impacto en Lithernia
+
+El legado de Lord-Guardián Borin Steinhold no será cantado en las tabernas ni inmortalizado en estatuas doradas. Su impacto es invisible, pero fundamental: es la paz de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Cada día que el reino prospera, que sus artesanos crean obras maestras y que sus ciudadanos viven sin temor a la locura arcana que duerme bajo sus pies, es un tributo a la vigilancia de Borin y su casa.
+
+Él es el recordatorio sombrío de que la estabilidad tiene un precio, a menudo pagado en la oscuridad por guardianes anónimos. Representa la tradición valtoriana de deber sobre el deseo, de comunidad sobre el individuo. Mientras otros clanes buscan gloria y riqueza, los Steinhold custodian los cimientos, asegurándose de que la montaña no se desmorone desde dentro.
+
+El futuro de su legado descansa ahora sobre los hombros de su hija, Rúna. ¿Continuará ella el camino de la contención implacable, o encontrará una nueva forma de equilibrar el deber y la compasión? La respuesta a esa pregunta podría definir no solo el destino de la Casa Steinhold, sino la seguridad misma de todo [[Lithernia/02_Reinos/Valtoria\|Valtoria]].

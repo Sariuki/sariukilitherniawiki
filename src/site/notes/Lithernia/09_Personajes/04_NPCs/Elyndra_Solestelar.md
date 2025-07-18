@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/elyndra-solestelar/","title":"Elyndra Solestelar","tags":["lithernia","personaje","elfo","oraculo"]}
+---
+
+Elyndra Solestelar es una figura delicada y a la vez imponente, cuya piel pálida adquiere un brillo sutil como si reflejara la luz creciente de la luna. Sus ojos cambian de tonalidad durante sus meditaciones, adoptando un profundo azul celeste al conectar con visiones del destino. Su cabello plateado fluye como escarcha viva, y viste túnicas bordadas con patrones de constelaciones que parecen brillar ligeramente en la penumbra. Siempre porta un báculo estelar, tallado en madera de árbol fractal y adornado con cristales captadores de luz astral, que utiliza para proyectar sus conjuraciones y movimientos mágicos.
+
+En el animado centro de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Vanyris\|Vanyris]], entre los elevados puentes naturales y templos entrelazados en los árboles gigantes, Elyndra se desplaza con una gracia que parece disolver el peso del tiempo, uniendo las esperanzas y temores del pueblo élfico mientras examina las señas en el firmamento. Su discurso es siempre armonioso y prudente, pero detrás de esa calma yace un intelecto afilado comprometido en interpretar todos los indicios de la antigua profecía del Primer Rey y mediar para que sirva como puente a la paz y no a la guerra.
+
+Más allá de la corte real, Elyndra guarda secretos tensos y realiza encuentros clandestinos con las misteriosas casas de elfos oscuros, en Moonshadow, con quienes negocia delicados pactos para mantener la estabilidad frente a los cambios que pudiera traer el destino. Su papel como oráculo trasciende la política: algunos la veneran casi como una encarnación del conocimiento de [[Lithernia/09_Personajes/01_Dioses/Arzia\|Arzia]], mientras otros la consideran demasiado audaz para sus tiempos.
+
+Los viajeros que la encuentran suelen recordar no solo sus palabras, sino la serenidad luminosa con que maneja tanto el misterio como la política, abriendo posibilidades narrativas de lealtades piezas clave para conflictos, profecías y exploraciones arcanas dentro del Kingdom of [[Lithernia/02_Reinos/Eldrador\|Eldrador]].

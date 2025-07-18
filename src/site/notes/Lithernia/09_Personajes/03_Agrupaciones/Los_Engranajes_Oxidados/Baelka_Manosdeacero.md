@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/los-engranajes-oxidados/baelka-manosdeacero/","tags":["lithernia","personajes","facción","enana","forjadora","Valarion","engranajes oxidados"]}
+---
+
+# Baelka Manosdeacero
+
+### Biografía
+
+En los salones inmaculados de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], donde la pureza del metal es un dogma y la tradición un yunque inquebrantable, nació Baelka. Perteneciente a una casa menor de artesanos, los Martillopuro, demostró desde joven un talento que era a la vez un don y una maldición: una visión que trascendía la mena virgen y encontraba potencial en lo que otros consideraban escoria. Mientras sus pares competían por forjar con el mithril más puro, Baelka recolectaba los fragmentos de escudos rotos y los engranajes de autómatas caídos, convencida de que la memoria del acero era su mayor fortaleza. Esta filosofía fue su herejía. Acusada de profanar el sagrado arte de la creación por los Gremios de Artífices, fue sometida a un juicio humillante. Con 80 años, una edad en la que muchos [[Lithernia/03_Razas/Enanos\|Enanos]] apenas comienzan su maestría, fue declarada *An-Forgal* —"la Indigna de la Forja"— y exiliada de las montañas que eran su único hogar.
+
+Despojada de su clan y su honor, vagó por las tierras baldías, un páramo de desolación sembrado de los restos de la Gran Guerra. Fue allí, en el corazón del Osario de Acero, donde la desesperación casi la consumió. Pero en lugar de la muerte, encontró un propósito. Se topó con una comunidad de parias como ella: [[Lithernia/03_Razas/Gnomos\|Gnomos]], [[Lithernia/03_Razas/Goblins\|Goblins]] y [[Lithernia/03_Razas/Humanos\|Humanos]] que no veían chatarra, sino un lienzo. Eran los Engranajes Oxidados, y su líder, el ingenioso goblin Grix 'El Remendador', no vio en ella a una exiliada, sino a una visionaria. Él le enseñó que la verdadera innovación no nace de la perfección, sino de la necesidad.
+
+Bajo la tutela de Grix, el talento innato de Baelka floreció en un entorno libre de dogmas. Su conocimiento enano de la metalurgia, fusionado con la audaz improvisación de los Engranajes, la convirtió en una leyenda. Forjó un brazo mecánico para un veterano orco a partir del pistón de un ariete de asedio; construyó un sistema de purificación de agua para la ciudad rebelde de Vallas usando los condensadores de un golem de hielo destrozado. Sus manos, antes consideradas impuras, se volvieron el motor creativo de la facción, ganándose el apellido "Manosdeacero" no por nacimiento, sino por mérito.
+
+Hoy, como Maestra Forjadora, Baelka es el alma ardiente de los Engranajes Oxidados. Es la guardiana de sus forjas y la defensora de su credo. Ve en Grix al padre que nunca tuvo, uno que valora el ingenio por encima del linaje. Canaliza su resentimiento hacia [[Lithernia/02_Reinos/Valtoria\|Valtoria]] en una feroz competencia amistosa con los herreros del Clan Ironclaw en [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], buscando demostrar con cada creación que el futuro de Lithernia no se forjará en las impolutas fraguas de las montañas, sino en el crisol de sus ruinas.
+
+### Descripción Física y Equipamiento
+
+Baelka es la encarnación de la resistencia enana. Es más ancha y musculosa que la mayoría de las mujeres de su raza, con brazos marcados por las cicatrices de la forja y quemaduras de soldadura. Su cabello, de un color cobre oscuro, está recogido en una única trenza gruesa y práctica, entrelazada con alambres y pequeños engranajes de latón. Sus ojos, de un intenso azul acero, arden con la luz perpetua de la fragua. Su rasgo más distintivo son los tres dedos de su mano izquierda, reemplazados por prótesis de acero y bronce finamente articuladas que ella misma diseñó y construyó tras un accidente con un motor rúnico. Lejos de ser una debilidad, los utiliza con una precisión que supera a la carne y el hueso.
+
+No viste las armaduras ceremoniales de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Su protección es un peto de placas superpuestas, ensamblado a partir de los blindajes de varias máquinas de guerra, cada abolladura una historia. Bajo él, lleva una túnica de cuero ignífugo y pantalones reforzados.
+
+Su arma principal es **"La Rompedora de Dogmas"**, un colosal martillo de guerra cuya cabeza fue forjada con el contrapeso de un trabuco de asedio y el núcleo de un autómata de la Casa Dravonis. Su mango está envuelto en el cuero de una bestia del páramo y su base está rematada con un pesado engranaje que le sirve de pomo. Más que un arma, es una declaración.
+
+### Legado e Impacto en Lithernia
+
+Baelka Manosdeacero, la paria de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], se ha convertido en una pieza clave en el equilibrio de poder de las facciones marginadas de Lithernia. Su trabajo no solo proporciona herramientas y defensas a los descastados, sino que representa una revolución ideológica: la idea de que el valor no reside en el origen, sino en el propósito.
+
+Es el puente viviente entre la disciplina y el conocimiento ancestral de los [[Lithernia/03_Razas/Enanos\|Enanos]] y la caótica pero brillante innovación de los demás parias, unificando a los Engranajes Oxidados con una visión compartida. Para los Gremios de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], es un recordatorio humillante de su propia rigidez, una hereje cuyo éxito amenaza con fracturar sus tradiciones milenarias. Para las ciudades rebeldes y los clanes olvidados, es un símbolo de esperanza: una prueba de que incluso lo que ha sido roto, desechado y exiliado puede ser reforjado para convertirse en algo más fuerte y resistente que nunca. Su legado no se medirá en oro ni en mithril, sino en las ciudades que sobreviven gracias a sus ingenios y en la mentalidad de una generación que aprende a ver el tesoro que otros llaman chatarra.

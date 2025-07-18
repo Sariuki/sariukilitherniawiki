@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/clan-moldearroca/urthok-mazo-de-magma/","tags":["lithernia","personajes","Clan Moldearroca","Mor'dhul","orco","Señor de la Guerra","Geomante"]}
+---
+
+# Ur'thok Mazo de Magma
+
+### Biografía
+
+Nacido en la sombra de los volcanes humeantes de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], Ur'thok no es un orco común. Su linaje no desciende de la furia ciega de [[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]], sino de la voluntad indomable del Clan Moldearroca. Desde joven, mientras otros [[Lithernia/03_Razas/Orcos\|Orcos]] afilaban sus hachas, Ur'thok aprendía a sentir el pulso de la tierra, a escuchar los susurros del magma y a imponer su voluntad sobre la piedra, siguiendo las enseñanzas del fundador Ghor'ash. Poseía la mente estratégica de un general y el alma de un chamán, una combinación que lo destinaba a la grandeza o a la aniquilación.
+
+Su ascenso fue meteórico, forjado en la defensa y la construcción. Ganó su epíteto, "Mazo de Magma", durante el Asedio de la Grieta del Acero. Cuando el Clan Agrietacero de los [[Lithernia/03_Razas/Enanos\|Enanos]] rivales intentó reclamar las minas de obsidiana de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], Ur'thok, entonces un joven comandante, se plantó ante las hordas enanas. En lugar de una carga suicida, alzó sus manos y, con un rugido que hizo temblar los cimientos del mundo, canalizó la furia de la montaña. Una muralla de magma líquido surgió de la tierra, sellando el paso y consumiendo a la vanguardia enemiga. No fue una victoria de acero, sino de pura voluntad, encarnando el lema de su clan y asegurando su leyenda.
+
+Como Señor de la Guerra y Archi-Geomante, Ur'thok es la personificación del poder moderno del Clan Moldearroca. Es el arquitecto de las fortalezas más temidas de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] y el estratega que ha convertido la geomancia en un arma de guerra devastadora. Su lealtad al Rey-Dios Sel'thirak es pragmática; entiende que la supervivencia de su clan depende de ser una herramienta indispensable para el trono. Bajo su mando, los Moldearroca no son meros albañiles, sino los artífices del poderío defensivo del reino, creando ciudadelas que se burlan de los ejércitos y tumbas dignas de dioses.
+
+Sin embargo, su visión progresista choca con las tradiciones del clan. Respeta a la anciana Matriarca Grizelda como un pilar del pasado, pero considera que su conservadurismo es un grillete en un mundo que exige adaptación. Mantiene a su lado a Vor'lag, un brutal [[Lithernia/04_Clases/Guerrero\|Guerrero]] con un talento innato para la violencia elemental, viéndolo como una espada que debe ser empuñada con cuidado antes de que se vuelva contra su dueño. Y en su búsqueda de conocimiento, no duda en explotar la mente de Fenris, un esclavo humano [[Lithernia/05_Trasfondos/Erudito\|Erudito]] en arquitecturas antiguas, aunque cada palabra del humano es sopesada con profunda desconfianza. La mente de Ur'thok es un campo de batalla donde la ambición por su clan, la lealtad a su rey y el peso de la tradición luchan por el dominio.
+
+### Descripción Física y Equipamiento
+
+Ur'thok es una montaña de músculo y roca. Su piel grisácea tiene la textura del basalto enfriado, con vetas de cicatrices que brillan débilmente como magma bajo la superficie. Sus ojos, profundos y calculadores, arden con el fulgor de las brasas, delatando la energía elemental que fluye por sus venas. A diferencia de los brutos del Clan [[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]], su postura es erguida y sólida, la de un rey en su fortaleza.
+
+*   **Armadura de la Voluntad de Piedra:** Su armadura no está forjada, sino *moldeada*. Son placas de obsidiana pulida, unidas sin remaches, fusionadas por el calor de la forja elemental del clan. [[Lithernia/06_Magia/Runas\|Runas]] de contención y poder, grabadas en su superficie, brillan con un pulso rojizo cuando canaliza su poder.
+*   **Volcán, el Mazo de Guerra:** Más que un arma, es una extensión de su poder. Su enorme cabeza de obsidiana pura parece absorber la luz, pero a una orden de Ur'thok, puede calentarse hasta volverse magma líquido, goteando fuego a cada impacto. El mango está hecho de hueso petrificado de una bestia de lava, atado con cuero de basilisco.
+*   **Focos Geománticos:** Lleva varios anillos de hierro meteórico y brazaletes de obsidiana tallada que le ayudan a canalizar y dar forma a su poder elemental con mayor precisión, permitiéndole erigir barreras de roca o lanzar proyectiles de magma en pleno combate.
+
+### Legado e Impacto en Lithernia
+
+Ur'thok Mazo de Magma representa una evolución crucial en la cultura orca de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Es la prueba viviente de que el poder no reside únicamente en la furia berserker, sino en el dominio disciplinado de las fuerzas [[Lithernia/09_Personajes/01_Dioses/Primordiales\|Primordiales]] del mundo. Su genio estratégico y su poder arcano lo han convertido en uno de los pilares del régimen de Sel'thirak, el arquitecto de su poder imperecedero.
+
+Su legado será el de las fortalezas que se alzan como dedos de obsidiana desafiando a los enemigos de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Sin embargo, su ambición de modernizar y fortalecer a su clan lo coloca en una posición peligrosa. Si tiene éxito, el Clan Moldearroca podría convertirse en una de las facciones más influyentes del reino, redefiniendo el equilibrio de poder. Si falla, su desafío a la tradición y su peligrosa gestión de rivales y subordinados podrían arrastrar a su gente a una guerra civil o a la ira de un Rey-Dios que no tolera la independencia excesiva. En el gran tapiz de Lithernia, Ur'thok es un pilar fundamental y, a la vez, un agente de cambio impredecible, cuya voluntad podría tanto solidificar el oscuro reino como hacerlo añicos desde dentro.

@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/serelyndra-moonveil/","title":"Serelyndra Moonveil","tags":["lithernia","personaje","Eladrin","Vaenilith"]}
+---
+
+Serelyndra Moonveil es una figura imponente aunque no por fuerza física, sino por su aura serena y misteriosa. Alta y de porte esbelto, su piel tiene un brillo suave que cambia con la estación, reflejando según sus emociones el color de las hojas otoñales o el fresco blanco invernal típico de los eladrines. Su cabello largo ondea como plata líquida, enmarcando ojos que parecen contener galaxias enteras, un mediodía estrellado atrapado en pupilas profundas y amplias. Viste túnicas etéreas que parecen tejerse con la luz de la luna, adornadas con delicados grabados de constelaciones y símbolos feéricos antiguos. Siempre lleva consigo un bastón de cristal lunar, talla maestra que parece captar el movimiento lento de los astros.
+
+En los corredores de poder de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Vaenilith\|Vaenilith]], Serelyndra afirma su influencia con palabra calma y pasos seguros; sus profecías, aunque a menudo enigmáticas, guían estrategias y decisiones que mantienen en equilibrio el delicado tejido social y mágico de [[Lithernia/02_Reinos/Eldrador\|Eldrador]]. Muy pocos conocen sus visiones sobre el Primer Rey, y aún menos osan discutirlas, pues ella combina sabiduría ancestral con una melancólica esperanza.
+
+Sus dones para la adivinación la han llevado a vagar por los bosques estrellados que patrón [[Lithernia/09_Personajes/01_Dioses/Arzia\|Arzia]] reserva, buscando pistas en el destino tejido por las estrellas para evitar el resurgimiento del caos y la destrucción. En su rostro se dibuja la carga de quien porta el peso del tiempo y la esperanza del pueblo élfico, y en sus silencios reina la disposición a un sacrificio que podría definir el futuro de Lithernia para eras.

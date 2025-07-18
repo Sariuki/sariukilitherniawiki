@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/veshra-mornbrand/","title":"Veshra Mornbrand","tags":["lithernia","personaje","vidente"]}
+---
+
+Veshra Mornbrand se presenta con una presencia inquietante que domina sin necesidad de alzar la voz. Su piel carmesí, salpicada de marcas rúnicas ardientes que parecen palpitar leves con el ritmo de su voz, combina con sus ojos tallados en oro líquido, maquillados bajo cejas afiladas que parecen delinear un permanente ceño de cálculo profundo. Sus cuernos, recubiertos con símbolos inscritos hacia la punta, reflejan el limitado poder divino que ejerce en el mundo mortal.
+
+Suele aparecer vestida con togas negras que fluyen bajo la luz mortecina de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Lywathil\|Lywathil]] como sombras. Camina con la calma y el silencio de quien conoce secretos demasiado peligrosos para compartir a voces. En las noches enfrentadas al [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], se la puede ver en las plazas envuelta en rituales solitarios, susurrando a un vacío poblado solo por presagios y voces ancestrales.
+
+Más que una simple vidente, Veshra encarna la angustia de tener que optar entre conservar el orden actual o precipitar, quizás voluntariamente, la caída definitiva y el renacer terriblemente necesario sobre las cenizas del viejo mundo. En las mieles del poder, su amistad con Xandria y la confianza que deposita en ella hacen resquebrajar a su menos fuerte barba, sentido especialmente cuando se interponen los límites entre fidelidad y ambición.
+
+Quienes han tratado de develar todos los misterios alojados en su fría figura han desaparecido, engullidos más por las paranoias de Mor’dhul y sus propios poderes ocultos que por cualquier enemigo común. Aquellos que se acercan a sus predicciones se enfrentan al dilema eterno: ¿es acaso ella la sombra que llama al [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] o la guardiana que lo contiene? Un encuentro con Veshra Mornbrand promete revelar más enigmas que certezas, hundiendo a aventureros y gobernantes en una espiral de secretos peligrosos.

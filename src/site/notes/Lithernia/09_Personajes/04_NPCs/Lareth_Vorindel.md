@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/lareth-vorindel/","title":"Lareth Vorindel","tags":["lithernia","personaje","elfo","Noble","Mago","lovathil"]}
+---
+
+Lareth Vorindel es un alto y esbelto alto elfo que camina con la gracia de alguien que lleva siglos estudiando no solo el conocimiento arcano sino la pulsación misma de las estrellas. Su piel, nívea y casi luminiscente bajo la luz plateada, confiere a su presencia un aura cálida y silenciosa. Su cabello largo y plateado se mueve como una brisa suspendida, y sus ojos azules resplandecen con un fulgor dorado que parece captar secretos tan antiguos como el tiempo.
+
+Herederode la Gran Casa Lovathil, Lareth viste túnicas elaboradamente bordadas con imágenes de constelaciones que se mueven lentamente cuando nadie observa. Siempre portando un bastón esculpido en roble blanco coronado por una gema transmisora de luz lunar, es conocido en [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Sylaenil\|Sylaenil]] como el guardián del tiempo y del espacio místico a través de la Torre de las Estrellas. Sus dedos eternamente tatuados con [[Lithernia/06_Magia/Runas\|Runas]] invisibles trazan con paciencia arcanos olvidados y fragmentos de profecías.
+
+El Sumorio Archivista es un analista imperturbable, reflexivo en exceso y ocasionalmente agudo con humor irónico, raro pero profundo. Al mismo tiempo silencioso y profundamente conectado con las intrigas políticas del reino, sabe más conversaciones que ningún otro [[Lithernia/05_Trasfondos/Noble\|Noble]] y es capaz de pasear con tranquilidad en los pasillos donde los secretos permanecen encerrados por generaciones.
+
+Aunque es un hombre austero, Lareth posee secretos peligrosos como fragmentos prohibidos de un grimorio antiguo que contiene visiones y alineamientos que podrían desatar fuerzas impredecibles. Teme una profecía malinterpretada que pueda reactivar el sello del Primer Rey y alterar para siempre el destino de Lithernia.
+
+Para los jugadores, Lareth ofrece una mezcla fascinante de mentor, guía y posible figura de poder oculta lentamente tejiendo eventos desde las sombras; alguien cuyas decisiones podrían inclinar la balanza entre la destrucción y la salvación del Reino de [[Lithernia/02_Reinos/Eldrador\|Eldrador]]. Su imagen con fronteras borrosas entre sabio, conspirador y protector lo convierte en un NPC complejo con un fuerte potencial narrativo, cargado de historia y magia ancestral.

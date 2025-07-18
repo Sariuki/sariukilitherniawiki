@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/karnis-vhalgor/","title":"Karnis Vhalgor","tags":["lithernia","personaje","Mor'dhul","clan-Lakros","semiogro"]}
+---
+
+Karnis Vhalgor despliega una imponente figura entre la multitud sombría de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Soriel\|Soriel]]. Suele vestir con una armadura combinada de hierro y placas rústicas hechas a mano, marcada por cicatrices de combate y soldaduras visibles con un tinte rojizo que recuerda la sangre seca. Sus ojos poseen un brillo fiero, teñidos por años de violencia y pasión corrosiva por el poder materializado en la [[Lithernia/11_Recetas/Herreria\|Herreria]]. El cabello, cortado en mechones desordenados y a medio rapar, arrastra sombras sobre su frente. El olor del metal caliente y humo de fragua parece emanar de él donde quiera que vaya.
+
+En la conversación, sus palabras son cortantes, moldeadas para intimidar pero revelando también cierta melancolía violenta por el destino de su pueblo. Karnis cree firmemente que las armas no solo son herramientas, sino obras sagradas que llevan la fuerza de sus ancestros a la guerra. Se mueve con una mezcla de torpeza cargada y poder concentrado, preparado para romper el cráneo de quien ose dudar de su habilidad.
+
+A pesar de su brutalidad, Karnis late con un código interno: no tolera la traición y honra a quienes luchan de forma directa, despreciando la astucia oculta o las artes esconderse entre las sombras. Tal faceta lo hace admirado por los guerreros semiogros que ven en él la esperanza para contrarrestar la influencia creciente de otros clanes y facciones rivales en [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]].
+
+Como "[[Lithernia/05_Trasfondos/Forjador\|Forjador]] de Almas", Karnis mantiene una secreta red de esclavos forjadores y hechiceros de guerra que canalizan fragmentos del maná y sus propias energías vitales en la creación de espadas, hachas y corazas oscuras, capaces de despertar ferocidades casi inhumanas en quien las porte. Esta conspiración, oculta en las profundidades tecnomágicas de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Soriel\|Soriel]], busca catapultar al Clan [[Lithernia/09_Personajes/01_Dioses/Lakros\|Lakros]] a una supremacía definitiva... a un alto costo que podría atraer la atención letal de Sel’thirak y sus implacables agentes.
+
+Los aventureros que se crucen con Karnis encontrarán difícil decidir si es un brutal oponente, un aliado peligroso o incluso un eje clave para desvelar los secretos oscuros, mágicos y políticos que corrompen el reino lleno de intrigas de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]].

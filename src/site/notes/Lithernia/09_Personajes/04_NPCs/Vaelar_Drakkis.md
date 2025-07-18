@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/vaelar-drakkis/","title":"Vaelar Drakkis","tags":["lithernia","personaje","Mago","morydhul"]}
+---
+
+Vaelar Drakkis es una presencia imponente en cualquier lugar, aunque por lo general prefiere las sombras profundas de su torre en [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Miryalis\|Miryalis]], donde domina la escena arcana con mano firme y mente ingeniosa. Su piel azul profundo casi absorbe la luz, mientras que sus ojos resplandecen, destilando un aura inquietante que enseña su peligrosa maestría en la magia oscura y las ciencias ocultas. Sus cuernos, marcados por desgastes y fracturas hechas en rituales sádicos, semejan brazos retorciéndose hacia la oscuridad misma.
+
+Siempre vestido con capas que parecen tejidos de la noche y bebido por llamas negadas, representa la fusión perfecta de rigor intelectual y crueldad magistral. Su voz, susurrante y dominadora, persuade a aliados y aterroriza a enemigos sin levantar más que una sombra en el ambiente. En su escritorio de piedra y acero negro, descansa el legendario Grimorio de Sombras Profundas; un tomo cuyo contenido peleó con la cordura de sus primeros lectores.
+
+Con un legado manchado de traiciones y rituales prohibidos, Vaelar no solo busca absorber cada fragmento de poder oscuro, sino que pretende forzar a Sel’thirak a ceder su trono expandiendo su dominio con sangre y magia ancestral. Su ambición es un torbellino que podría arrastrar toda Mory’dhul hacia un apocalipsis nuevo, lanzando procuras en portales infernales desconocidos e inexplorados, y canalizando fuerzas que desafían el equilibrio divino y mortal.
+
+Es cauteloso pero insaciable, dotado en mezclas arcanas que pocos osan replicar, y sabiéndose un titán de esta era de crepúsculo, dispuesto a todo por convertir las ruinas de las viejas glorias en un imperio oscuro de conocimiento y poder. Su historia se presenta como una eterna danza de luz y sombra, con un futuro tan incierto y peligroso como las llamas del eterno [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] mismo.

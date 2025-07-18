@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/elenar-brazo-de-mithril/","title":"Elenar Brazo de Mithril","tags":["lithernia","personaje","enano","Thiryllis"]}
+---
+
+Elenar Brazo de Mithril es un enano robusto y fornido, con una barba ceniza meticulosamente trenzada que cae sobre un pecho ancho cubierto por un antaño reluciente peto de cuero trabajado. Sus ojos, de un verde profundo, bril­lan con la pasión de un alma dedicada al arte fino, entretejida con discreetos destellos de arcano. En su frente, una cicatriz apenas visible recuerda un encuentro fortuito con armas inacaba­das pero fuertemente encantadas. Reside en una vivienda labrada íntegramente en piedra y madera [[Lithernia/05_Trasfondos/Noble\|Noble]], justo al lado de la venerable Torre de las Estrellas en [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Thiryllis\|Thiryllis]], donde su dedicado taller parece fundirse en el olor constante a hierro caliente, polvo de gemas y cocer de metales preciosos.
+
+A menudo, Elenar camina los salones de la Torre con su habitual paso firme pero pausado, acaparando la atención con relatos de épocas pasadas y seminarios sutiles impartidos a jóvenes aprendices que admiran su maestría. Su voz lleva el timbre profundo y resonante que impone respeto pero alterna con esa sorna inconfundible que sólo un artesano seguro de sí mismo arriesga a ofrecer.
+
+En campañas centradas en la protección de la cultura ontzettendleana, Elenar es vital para descubrir secretos perdidos o transcribir instrumentos primitivos cuyo poder podría cambiar el balance de la guerra entre los reinos. Los héroes bien puedan necesitar su paciencia y profundidad para desentrañar misterios de antigua hechicería aplicada a la [[Lithernia/11_Recetas/Herreria\|Herreria]], o requerir de ténsas negociaciones en el Consejo de la Montaña.
+
+Sin embargo, la paranoia que domina a su entorno y los años de amenaza persistente contra la tradición lo tornan reservadamente combativo contra aventureros poco interesantes o traicioneros. En cada palabra y gesto se esconde el peso del legado milenario que guía a Elenar: forjar el futuro con las manos en el presente, sin olvidar las raíces excelsas del pasado enano.

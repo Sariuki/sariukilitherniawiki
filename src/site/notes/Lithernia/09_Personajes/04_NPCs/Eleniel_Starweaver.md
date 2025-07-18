@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/eleniel-starweaver/","title":"Eleniel Starweaver","tags":["lithernia","personaje"]}
+---
+
+Eleniel Starweaver es una figura etérea encajada en el mismo misterio del cosmos. Su cabello fluye suave como la brisa lunar y cambia delicadamente de tonalidad con las estaciones, reflejando la esencia feérica que la liga a la naturaleza estacional de [[Lithernia/02_Reinos/Eldrador\|Eldrador]]. Sus ojos violeta no solo observan el mundo, parecen penetrar el velo del tiempo mismo, siempre atentos a las inquietantes señales del futuro.
+
+Viste túnicas que destellan con hilos plateados formando constelaciones que resplandecen tenuemente a la luz nocturna, y su bastón grabado con símbolos antiguos parece conectar con alguna fuerza arcana ancestral. En [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Mythalan\|Mythalan]], suele ser buscada por nobles que temen las intrigas palaciegas o por aventureros que anhelan respuestas sobre el destino. Su voz, dulce y pesarosa, puede infundir esperanza pero también advertir sobre los peligros que acechan en la sombra de la Gran Guerra.
+
+Detrás de su sabiduría se esconde un alma que carga con el peso de la profecía del Retorno del Primer Rey, un conocimiento que la hace guardian de secretos olvidados y temida por quienes desean usar esas revelaciones para fines oscuros. Leal a [[Lithernia/09_Personajes/01_Dioses/Arzia\|Arzia]] y la pureza de los astros, Eleniel trabaja para que la luz de las estrellas ilumine el camino del reino, defendiendo con sutil mano la estabilidad y el equilibrio entre poderes que podrían desatar un nuevo caos en Lithernia.

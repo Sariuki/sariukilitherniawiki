@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/velkra-shadris/","title":"Velkra Shadris","tags":["lithernia","personaje"]}
+---
+
+Velkra Shadris emerge desde las gélidas penumbras de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Eldurnis\|Eldurnis]] con una presencia poderosa, a la vez enigmática y autocrática. Su figura es delgada, de piel tenue en un matiz púrpura oscuro que brilla bajo el pálido resplandor de sus ojos ámbar, unos ojos que destellan con un conocimiento más allá de lo mortal. Dos cuernos retorcidos y polidos, rectos hacia atrás, enmarcan su rostro anguloso y casi escultórico, otorgándole un aspecto a la vez majestuoso y aterrador.
+
+Su vestido es de una seda negra salpicada con hilaturas de plata, representando antiguos símbolos de los secretos de la muerte y la existencia, sus bordes se mueven con una gracia sobrenatural, casi como si tocaran áreas invisibles en el tejido del aire. Portando siempre su bastón de hueso de dragón decorado con esqueletos minúsculos sujetos por cadenas fantasmas, el instrumento es un conducto para sus tenebrosas artes mágicas.
+
+Velkra es una mujer que habla poco pero con extrema inteligencia y sarcasmo contenido, midiendo con precisión cada una de sus palabras. Aunque todos la temen, muchos también la buscan en la clandestinidad, pues sus tres décadas controlando la magia prohibida la convierten en la única capaz de mantener bajo vigilancia los oscuros males que azotan [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Eldurnis\|Eldurnis]]. Sin embargo, detrás de su fachada impenetrable, yace la constante preocupación por lo que está por venir: la fragilidad del poder precario en la ciudad y la amenaza latente del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. Su historia y sus redes de poder la hacen un personaje crucial, cuyo destino puede elevar o destruir a [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], según la balanza que decida sostener con mano firme.

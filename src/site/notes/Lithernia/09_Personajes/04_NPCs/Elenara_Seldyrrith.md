@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/elenara-seldyrrith/","title":"Elenara Seldyrrith","tags":["lithernia","personaje"]}
+---
+
+Elenara Seldyrrith camina entre las altas plataformas arbóreas de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Varandil\|Varandil]] con una gracia serena digna de sus estirpes. Su figura alta y delgada está envuelta en suaves túnicas de rica seda azul, que reflejan una luz plateada sugerente, como el firmamento nocturno que tanto estudia. Los cabellos plateados, largos y siempre perfectamente peinados, caen como cascadas al viento, guardando una nobleza ancestral en sus facciones angelicales, aunque surcadas por la sabiduría de dos siglos y medio de vida.
+
+Su rostro, sereno y algo distantemente melancólico, transmite la quietud de quien contempla los secretos del tiempo mismo. La diadema que porta, por más sencilla que parezca, reluce con el brillo delicado de hojas elaboradas en finas filigranas que se entrelazan en un patrón eterno. Sus ojos violeta destellan con inteligencia y determinación cuando conjura sus poderes para leer el futuro o modificar el destino de eventos cruciales sin intervenir demasiado en el curso natural.
+
+Custodia del Observatorio Estelar y fiel sirviente del conocimiento, Elenara es esa voz confiable entre la nobleza élite de [[Lithernia/02_Reinos/Eldrador\|Eldrador]], una figura con potencial para convocar arenas de debate y cambiar el balance político invisible, siempre guiada por el espectro luminoso de [[Lithernia/09_Personajes/01_Dioses/Arzia\|Arzia]] y los misterios de [[Lithernia/09_Personajes/01_Dioses/Lerian\|Lerian]]. Su inspiración es silenciosa y potente, haciendo de ella una clave central para cualquier que aspire a explorar la creciente turbulencia de las profecías entre las hojas y estrellas de Lithernia.

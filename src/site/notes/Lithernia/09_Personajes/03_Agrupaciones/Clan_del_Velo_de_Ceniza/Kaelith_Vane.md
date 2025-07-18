@@ -1,0 +1,37 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/clan-del-velo-de-ceniza/kaelith-vane/","tags":["lithernia","personajes","clan","elfo oscuro","espionaje","Thalythil","matriarca"]}
+---
+
+# Kaelith Vane
+
+> *"En [[Lithernia/02_Reinos/Eldrador\|Eldrador]], la verdad es un diamante: duro, brillante e inmutable. Aquí, en la niebla, la verdad es humo: adopta la forma que necesitas y se desvanece cuando ya no te sirve."*
+
+## Biografía
+
+Nacida en el seno de una casa [[Lithernia/05_Trasfondos/Noble\|Noble]] menor de [[Lithernia/02_Reinos/Eldrador\|Eldrador]], cuyo nombre ha sido meticulosamente purgado de todo registro, [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] fue en su juventud una diplomática brillante y prometedora. Su linaje, conocido por su pragmatismo, creía que la paz era un fin que justificaba medios poco ortodoxos. Fue esta filosofía la que selló su destino. Acusada de "prácticas deshonrosas" —el uso de espionaje e ilusiones para desmantelar una conspiración que amenazaba con arrastrar a [[Lithernia/02_Reinos/Eldrador\|Eldrador]] a una guerra innecesaria—, su casa fue la vigésimo tercera en ser marcada por la ignominia. La rígida "Mano de Hierro" de la nobleza, liderada por la influyente Casa Auris, no toleró tal afrenta a su código de honor. Fueron declarados parias, exiliados y despojados de todo.
+
+La caída fue brutal, pero en [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] no sembró desesperación, sino una fría y afilada determinación. Guiando a los restos de su familia a través de tierras hostiles, encontró un santuario improbable en [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Thalythil\|Thalythil]], la ciudad portuaria de [[Lithernia/02_Reinos/Galvorn\|Galvorn]] perpetuamente envuelta en niebla. Allí, en un lugar donde los secretos eran la moneda local y las identidades podían reinventarse, [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] Vane no solo sobrevivió, sino que prosperó.
+
+Abandonó el nombre de su antigua casa, adoptando el apellido "Vane" como un velo sobre su pasado. Transformó la vergüenza de su clan en su mayor activo. Así nació el **Velo de Ceniza**, un gremio que abandonó la diplomacia por el espionaje, el chantaje y el comercio de información. [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] se convirtió en su Matriarca, tejiendo una red de agentes que se extendía desde los muelles de [[Lithernia/02_Reinos/Galvorn\|Galvorn]] hasta los salones sombríos de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Su clan no buscaba la conquista territorial ni la gloria marcial; su poder residía en saberlo todo, en poseer el secreto capaz de derribar a un [[Lithernia/05_Trasfondos/Noble\|Noble]], iniciar una guerra o forjar una tregua.
+
+Bajo su liderazgo, el clan adoptó el culto a **[[Lithernia/09_Personajes/01_Dioses/Morgal\|Morgal]]**, el dios élfico de las mentiras. Para ellos, no es una deidad de maldad caótica, sino el patrón de las verdades ocultas, el arte del engaño y la supervivencia a través de la astucia. [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] ve en él la justificación divina de sus métodos: en un mundo regido por dioses imperfectos y mortales ambiciosos, la verdad absoluta es un lujo que solo los poderosos pueden permitirse. Ella, en cambio, comercia con las verdades relativas que mueven el mundo.
+
+Con 472 años, [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] es una figura de poder en las sombras, temida y respetada a partes iguales. Su motivación principal es asegurar que su clan nunca más sea vulnerable. Su venganza contra la Casa Auris y el sistema que los condenó no es una campaña de guerra, sino un lento y metódico goteo de veneno en forma de información, minando su prestigio y poder desde lejos.
+
+## Descripción Física y Equipamiento
+
+[[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] Vane mantiene la gracia etérea de su herencia élfica, pero siglos de intriga y exilio han afilado sus rasgos, otorgándole una belleza severa y glacial. Su piel es pálida como la porcelana de las máscaras de su clan, y su largo cabello, de un blanco plateado, suele llevarlo recogido en un peinado intrincado y austero. Sus ojos son de un gris profundo, como la niebla de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Thalythil\|Thalythil]], y rara vez revelan emoción alguna, analizando constantemente su entorno con una inteligencia penetrante.
+
+Viste con una elegancia funcional. Sus túnicas son de seda gris oscuro o negro, cortadas para permitir el movimiento silencioso y sin los ostentosos adornos de la nobleza de [[Lithernia/02_Reinos/Eldrador\|Eldrador]]. Prefiere la discreción a la opulencia, aunque la calidad de sus vestiduras es innegable.
+
+Su único adorno visible suele ser un anillo de plata pulida con una obsidiana ahumada, que funciona como su foco arcano para la magia de ilusión. No porta armadura, pues su defensa es la información y el engaño. Sin embargo, oculta en la manga de su vestido siempre lleva una **Daga Estilete de Hueso de Wyvern**, cuya punta está impregnada con *Lágrima Silenciosa*, un veneno indetectable que provoca un fallo cardíaco que simula una muerte natural.
+
+En ocasiones ceremoniales o cuando se reúne con clientes particularmente peligrosos, [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] oculta su rostro tras una **máscara de porcelana idéntica a la de su escudo**, convirtiéndose en un símbolo anónimo e intimidante del poder de su clan.
+
+## Legado e impacto en Lithernia
+
+[[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] Vane es la arquitecta de un nuevo tipo de poder en Lithernia. En un continente definido por la fuerza militar, la herencia [[Lithernia/05_Trasfondos/Noble\|Noble]] y el favor divino, ella ha demostrado que el conocimiento es el arma más letal de todas. El Velo de Ceniza no es solo un gremio de espías; es una institución que ha mercantilizado el secreto, convirtiéndose en un jugador indispensable en la Gran Guerra silenciosa que se libra bajo la superficie de los conflictos abiertos.
+
+Su impacto es profundo: ha desestabilizado casas nobles, financiado rebeliones y evitado guerras, todo desde las sombras de [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Thalythil\|Thalythil]]. Representa la adaptación y la resiliencia, la prueba de que incluso el exilio y la desgracia pueden forjarse en un trono de poder si se posee la voluntad y la astucia necesarias.
+
+A largo plazo, el legado de [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] será el propio Velo de Ceniza y su protegida, Lyra Murmuro. Si tiene éxito, creará una dinastía basada no en la sangre, sino en la maestría del secreto, una fuerza que podría perdurar mientras existan mentiras que contar y verdades que ocultar. Para el resto de Lithernia, [[Lithernia/09_Personajes/03_Agrupaciones/Custodios_del_Primer_Eco/Kaelith\|Kaelith]] Vane es un recordatorio inquietante de que los enemigos más peligrosos no son siempre los que empuñan una espada, sino los que susurran en el oído correcto en el momento adecuado.

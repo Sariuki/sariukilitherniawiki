@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-pyreforged/kaelen-pyreforged/","tags":["lithernia","personaje","dracónido","Valarion","casa Noble","Guerrero","artesano"]}
+---
+
+# Kaelen Pyreforged
+
+## Biografía
+
+En los anales de las grandes casas de Lithernia, pocas han ascendido con la ferocidad y la velocidad de los Pyreforged, y ninguna encarna mejor su espíritu que su patriarca, Kaelen. Nacido entre las brasas de un linaje dracónido errante, despojado de tierras y títulos ancestrales, Kaelen no heredó un trono, sino una lucha. Su clan vagó por las tierras baldías como mercenarios, con el eco del aliento de sus antepasados como única herencia y la memoria del fuego primordial de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], el dios enano de la destrucción, como un eco en su sangre.
+
+Su destino cambió el día que sus exploradores divisaron las columnas de humo de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], la ciudad-volcán. Atraídos por el culto a la destrucción purificadora, los Pyreforged buscaron un hogar en el corazón de la montaña, pero solo encontraron la desconfianza del Clan Agrietacero, los señores [[Lithernia/03_Razas/Enanos\|Enanos]] de la ciudad. Para ellos, los dracónidos no eran más que lagartos con ínfulas, indignos de pisar las sagradas forjas. Kaelen y los suyos tuvieron que ganar su lugar con acero y sudor, primero como gladiadores en el Foso del Desafío y luego como guardianes de las galerías más peligrosas, donde las criaturas del subsuelo amenazaban constantemente.
+
+La leyenda de Kaelen se forjó durante la "Gran Grieta". Un temblor cataclísmico partió el corazón del volcán, y ríos de magma amenazaron con consumir [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]]. Mientras los maestros de [[Lithernia/06_Magia/Runas\|Runas]] [[Lithernia/03_Razas/Enanos\|Enanos]] del Clan Agrietacero luchaban en vano por contener la furia de la montaña con su magia tradicional, Kaelen vio la oportunidad en el caos. Organizó a sus guerreros dracónidos en un frente coordinado y, en un acto de audacia suicida, desataron su aliento de fuego combinado no para detener la lava, sino para darle una nueva salida. El torrente ígneo perforó la ladera de la montaña, creando un nuevo conducto que desvió la erupción y salvó a la ciudad de una aniquilación segura.
+
+Aquel día, la sangre dracónica demostró ser más poderosa que las [[Lithernia/06_Magia/Runas\|Runas]] ancestrales. El Crisol Volcánico, el consejo gobernante de la ciudad, no tuvo más remedio que reconocer su hazaña. A Kaelen y su clan se les otorgó el estatus de Casa [[Lithernia/05_Trasfondos/Noble\|Noble]], un honor sin precedentes para una estirpe no enana en [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]]. Nacía así la Casa Pyreforged.
+
+Como Patriarca, Kaelen ha demostrado ser un líder tan astuto como valiente. Perfeccionó y sistematizó la "forja de furia", una técnica secreta que infunde la esencia del aliento de dragón en el acero, creando armas legendarias que arden con una llama interior. Estas armas se convirtieron en la principal fuente de poder y riqueza de su casa, codiciadas en toda Lithernia. Ha navegado las turbulentas aguas políticas de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]] con mano firme, forjando una alianza pragmática con los [[Lithernia/03_Razas/Orcos\|Orcos]] del Clan Ironclaw para asegurar un suministro constante de menas raras y pactando con gremios de Genasi de Fuego para distribuir sus peligrosas mercancías. Su relación con el Forjamayor del Clan Agrietacero es un delicado baile de respeto y desafío, pues sabe que, aunque le deben la supervivencia de su ciudad, los [[Lithernia/03_Razas/Enanos\|Enanos]] nunca lo verán como un igual, sino como una fuerza de la naturaleza que, por ahora, han logrado contener.
+
+## Descripción y Equipamiento
+
+Kaelen es una figura imponente, un testamento viviente de la herencia dracónica. Sus escamas, del color del cobre bruñido con vetas de obsidiana, están cubiertas de cicatrices que cuentan historias de innumerables batallas y del calor de la forja. A sus 120 años, se mueve con la autoridad de un patriarca y la potencia contenida de un depredador. Uno de sus cuernos está astillado, recuerdo de un duelo en su juventud, y sus ojos dorados brillan con una inteligencia antigua y un fuego que nunca se extingue.
+
+Viste la **Coraza de Corazón de Ceniza**, una obra maestra de la forja de furia creada por él mismo. La armadura de placas de acero volcánico parece absorber la luz y emana un calor palpable, con finas [[Lithernia/06_Magia/Runas\|Runas]] dracónicas que brillan con un leve fulgor púrpura cuando su ira se enciende. Sobre sus hombros lleva un manto tejido con la piel de un basilisco de las profundidades, resistente al fuego y a los ácidos de la montaña.
+
+Su arma es tan legendaria como él: **Rompe-crisoles**, un martillo de guerra colosal cuya cabeza es un bloque de obsidiana pura, imbuido con la esencia de su propio aliento. Se dice que el martillo no solo aplasta la roca y el acero, sino que también puede resquebrajar la voluntad de sus enemigos. No es solo un arma, es su herramienta, su cetro y el símbolo de su poder.
+
+## Legado e Impacto en Lithernia
+
+El legado de Kaelen Pyreforged es el de la ruptura y la creación. En [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], es una leyenda viva: el forastero que salvó la ciudad y forzó a la tradición enana, inmutable durante milenios, a doblegarse ante un poder nuevo y elemental. Su ascenso ha creado una profunda fractura en la sociedad de la ciudad, inspirando a otras razas marginadas y enfureciendo a los clanes puristas, sembrando las semillas de un conflicto futuro que podría redefinir el reino de la montaña.
+
+Más allá de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], Kaelen ha introducido un nuevo y terrible factor en la Gran Guerra. Las armas de la Casa Pyreforged son una fuerza desestabilizadora; su poder es tal que pueden cambiar el curso de una batalla, y ya son codiciadas por reyes, señores de la guerra y cultos oscuros por igual. Ha puesto un poder casi divino en manos mortales, y las consecuencias de este acto aún resuenan en todo el continente.
+
+Kaelen no aspira a unificar Lithernia ni a cumplir antiguas profecías. Su objetivo es más pragmático y, quizás, más duradero: cimentar el legado de su casa, asegurar que el nombre Pyreforged sea sinónimo de poder y respeto, y demostrar que el verdadero dominio no se hereda de dioses distantes, sino que se forja en el corazón del fuego, a golpe de martillo y voluntad indomable.

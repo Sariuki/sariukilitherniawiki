@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/clan-umbracarn-los-cazadores-de-sombras/grolnok-el-inquebrantable/","tags":["[lithernia","personajes","clan","goliath","Valarion"]}
+---
+
+# Grolnok el Inquebrantable
+
+### Biografía
+
+Nacido en las cumbres heladas que coronan [[Lithernia/02_Reinos/Valtoria\|Valtoria]], Grolnok pertenece a una estirpe de [[Lithernia/03_Razas/Goliaths\|Goliaths]] que veían a los [[Lithernia/03_Razas/Enanos\|Enanos]] de las profundidades como vecinos ruidosos y obsesionados con el metal. Para su tribu, el verdadero poder residía en la roca desnuda, el viento cortante y la fuerza indómita de la montaña. Sin embargo, el destino de Grolnok no estaba escrito en los picos, sino en las tinieblas bajo ellos. Durante una disputa territorial, su clan fue emboscado y derrotado por el belicoso Clan Bronzenhammer. Grolnok, el último [[Lithernia/04_Clases/Guerrero\|Guerrero]] en pie, fue capturado y condenado a una vida de servidumbre en sus minas, un destino peor que la muerte para un Goliath, donde su fuerza descomunal fue explotada para arrancar la piedra en lugar de para ganarla en combate honorable.
+
+Las cadenas de Grolnok fueron rotas no por la fuerza, sino por la astucia. Helga, una enana de la Casa Dravonis, vio en el [[Lithernia/09_Personajes/Heroes\|Heroes]] caído una oportunidad. Liberándolo en una audaz incursión nocturna, ganó su juramento de vida, un vínculo de honor que trasciende alianzas y enemistades. Libre pero sin tribu, Grolnok era un paria. Fue entonces cuando los exiliados del Clan Umbracarn lo encontraron. No vieron en él a un esclavo roto, sino a la encarnación de su credo: la fuerza pura que emana de las profundidades, lejos de la luz engañosa y la política superficial de [[Lithernia/02_Reinos/Valtoria\|Valtoria]].
+
+Grolnok aceptó su oferta. En la filosofía de los Umbracarn, reconoció el eco de sus propias creencias: la verdad se encuentra en la presión aplastante de la oscuridad, y la piedra no miente. Se convirtió en su [[Lithernia/09_Personajes/Heroes\|Heroes]] de las Profundidades, un ariete viviente que encarna la fuerza bruta que complementa su magia sombría. Lucha por ellos, honra su propósito y cree en su causa de devolver a los [[Lithernia/03_Razas/Enanos\|Enanos]] a la "verdadera" oscuridad que abandonaron. Sin embargo, su alma está dividida. Desconfía de los rituales susurrantes y la magia de sombras de los Umbracarn, viéndola como un atajo sin honor. Y en su corazón, la deuda con Helka Dravonis —miembro de una casa rival— arde como una brasa, una lealtad conflictiva que un día podría obligarle a quebrar la roca o a ser quebrado por ella.
+
+### Descripción Física y Equipamiento
+
+Grolnok es una montaña de músculo y piedra. Con casi dos metros y medio de altura, su piel gris está marcada por vetas oscuras que parecen granito pulido, un lienzo donde las cicatrices de las minas Bronzenhammer se mezclan con los tatuajes rituales del Clan Umbracarn. Su cabeza calva y sus ojos, pequeños y penetrantes como fragmentos de obsidiana, rara vez parpadean. Cada movimiento que hace es deliberado, cargado con el peso de la gravedad y una fuerza contenida que parece hacer vibrar el aire a su alrededor.
+
+Viste una armadura de placas de acero ennegrecido, forjada por los maestros del Clan Agrietacero y adornada con geodas de cristal de sombra en las hombreras y el peto. El escudo de los Umbracarn —el pico y la daga— está grabado en su guantelete izquierdo. No porta el reluciente acero de los [[Lithernia/09_Personajes/Heroes\|Heroes]] de la superficie, sino un metal opaco que devora la luz.
+
+Su arma principal es **"Rompejuramentos"**, un colosal martillo de guerra cuya cabeza está hecha de una única pieza de basalto extraída de una Veta de Sombra, haciéndolo anormalmente pesado y resistente. El mango de hierro oscuro está envuelto en cuero de bestia de las profundidades. Se dice que cada golpe de Grolnok con este martillo no solo rompe huesos, sino también la voluntad de sus enemigos, dejando un eco de pavor en el silencio posterior.
+
+### Legado e Impacto en Lithernia
+
+Grolnok el Inquebrantable es más que un simple [[Lithernia/04_Clases/Guerrero\|Guerrero]]; es un símbolo viviente del cisma que se está gestando en el corazón de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Para el Clan Umbracarn, su presencia legitima su causa, demostrando que su filosofía de la oscuridad es lo suficientemente poderosa como para atraer a un [[Lithernia/09_Personajes/Heroes\|Heroes]] de una raza tan orgullosa y físicamente imponente como los Goliath. Su existencia es una afrenta directa a las casas tradicionales como Dravonis y Bronzenhammer, un recordatorio constante de que los "exiliados" ahora tienen un poder que no puede ser ignorado.
+
+Políticamente, Grolnok es una pieza impredecible en el gran juego de Lithernia. Su juramento de lealtad a Helka Dravonis es una bomba de tiempo diplomática. Podría ser la clave para una alianza impensable que reconfigure el poder en las montañas, o el detonante de una guerra civil si sus lealtades se ven forzadas a un enfrentamiento directo. Los sabios del Concilio de la Montaña lo vigilan con recelo, pues temen que su fuerza, guiada por la herejía de los Umbracarn, pueda ser el catalizador que despierte los verdaderos horrores que duermen en las profundidades más oscuras de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], ecos olvidados del propio [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]].

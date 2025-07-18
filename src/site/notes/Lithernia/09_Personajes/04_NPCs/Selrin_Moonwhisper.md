@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/selrin-moonwhisper/","title":"Selrin Moonwhisper","tags":["lithernia","personaje","Eladrin","oraculo"]}
+---
+
+Selrin Moonwhisper es un [[Lithernia/03_Razas/Eladrin\|Eladrin]] de estatura delicada pero presencia magnética, con cabello que cambia según su estado de ánimo reflejando las estaciones y ojos que resplandecen con un tenue azul celeste, como si portaran en su interior un pedazo del firmamento nocturno. Viste túnicas finas bordadas con símbolos estelares y una capa que brilla tenuemente bajo la luna. Se le suele encontrar en la cima del árbol del Arconte Plateado, en una torre arcana envuelta en una masa orgánica viviente, donde estudia la danza de las estrellas para interpretar profecías y advertir peligros.
+
+Tiene una aura de calma profunda, pero su mirada puede volverse tan intensa que desarma a quienes intentan ocultarle la verdad. Selrin es un enigma para muchos; habla en metáforas y ve más allá del tiempo lineal, experimentando visiones del pasado y futuros posibles. Su voz etérea resuena en los pasillos de la torre, guiando a jóvenes aprendices y ofreciendo sabiduría velada.
+
+A pesar de su aislamiento, mantiene vínculos estrechos con la nobleza de [[Lithernia/02_Reinos/Eldrador\|Eldrador]], y ocasionalmente interviene a petición de la corona para desentrañar tramas ocultas o proteger secretos ancestrales. Sin embargo, el Oráculo también enfrenta presiones internas: la magia negra que emana de la corrupción del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] amenaza con infiltrarse en [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Erwynn\|Erwynn]], y grupos clandestinos conspiran para silenciarlo o atraer su poder para sus cometidos oscuros.
+
+Selrin representa la conexión viva entre las estrellas y el destino de Lithernia, personificando la esperanza y el enigma de una era que permanece en tensión entre la luz y las sombras, entre la memoria y la profecía. Los aventureros que busquen su guía deben enfrentar sus propias dudas, pues acceder a sus visiones implica comprender que el futuro es un tapiz cambiante y que cada uno es arquitecto de su propio destino.

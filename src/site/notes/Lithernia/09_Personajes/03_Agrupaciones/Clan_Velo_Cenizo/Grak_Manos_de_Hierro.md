@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/clan-velo-cenizo/grak-manos-de-hierro/","tags":["[lithernia","personajes","Clan Velo Cenizo","orco","Mor'dhul"]}
+---
+
+# Grak Manos de Hierro
+
+### Biografía
+
+En los campos de batalla empapados de sangre de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], donde los clanes se destrozan en nombre de dioses sedientos como [[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]] y [[Lithernia/09_Personajes/01_Dioses/Lakros\|Lakros]], la gloria es un instante y la muerte una certeza. Grak conoce esta verdad mejor que nadie. No nació en la nobleza de un gran clan, sino en el fango de una tribu menor que fue poco más que carne de cañón para las ambiciones de sus señores. Su juventud se consumió en el fragor de la lucha, un peón anónimo en la interminable Gran Guerra, con la promesa vacía del honor marcial como única paga.
+
+Todo cambió en la Batalla de las Lágrimas Negras. Allí, en la frontera maldita con [[Lithernia/02_Reinos/Eldrador\|Eldrador]], vio a su clan entero ser aniquilado, sus cuerpos pisoteados y olvidados bajo una lluvia de ceniza negra. Mientras los supervivientes de clanes más grandes cantaban victorias huecas, Grak, herido y desilusionado, observó a los verdaderos vencedores: los cuervos y los carroñeros. Fue entonces cuando su mirada se cruzó con la de Grolnok 'Dedo-Rápido', un goblin que no veía tragedia, sino oportunidad. Grak presenció el nacimiento del Clan Velo Cenizo, no con un grito de guerra, sino con el tintineo del metal recuperado.
+
+Abandonando los ideales rotos de su pasado, Grak se unió a ellos. Su fuerza bruta y su experiencia en el campo de batalla, antes usadas para matar, se redirigieron hacia una tarea más pragmática: el desmantelamiento. Aprendió a ver un campo de batalla no como un cementerio, sino como una mina a cielo abierto. Su habilidad para organizar equipos de salvamento entre las ruinas aún humeantes, para intimidar a carroñeros rivales y para evaluar el valor de una armadura abollada con una sola mirada, le granjeó el respeto del clan.
+
+Sus "hazañas" no se cantan en las tabernas, pero son legendarias en los mercados negros de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Se cuenta que aseguró los derechos de salvamento del asedio de Fuendavendi antes de que el último proyectil impactara, o que desvió un río de lodo para desenterrar un batallón entero de soldados acorazados sepultados. No rinde pleitesía a los dioses de la guerra; su devoción a Gyth'kai es práctica. Para Grak, cada [[Lithernia/04_Clases/Guerrero\|Guerrero]] caído es un sacrificio que la diosa ha aceptado, dejando atrás un "regalo" que el clan se encarga de recoger. Ahora, como Jefe de Operaciones de Salvamento y mano derecha de la matriarca [[Lithernia/09_Personajes/03_Agrupaciones/El_Sindicato_del_Eco/Vexia\|Vexia]], Grak es el motor de la economía del Velo Cenizo. No busca poder ni gloria, solo la fría y dura lógica de la supervivencia, convencido de que en [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], los únicos que realmente ganan la guerra son aquellos que recogen las piezas al final.
+
+### Descripción Física y Equipamiento
+
+Grak es la personificación de su oficio. Es un orco macizo y entrado en años, cuya piel verde oscura está surcada por una red de cicatrices que cuentan dos historias paralelas: las líneas finas y limpias de espadas y lanzas de su vida pasada, y las quemaduras dentadas y desgarros irregulares de accidentes con metal afilado y maquinaria de desguace. Su rostro, enmarcado por colmillos recortados para mayor comodidad, es una máscara de pragmatismo endurecido.
+
+Su apodo, "Manos de Hierro", es casi literal. Sus manos son enormes y están cubiertas de callos tan gruesos como el cuero. Los nudillos de su mano izquierda están reforzados con toscas placas de hierro atornilladas directamente a los huesos, recuerdo de un accidente al intentar desmontar un golem de asedio que no estaba del todo "muerto".
+
+No viste la armadura ostentosa de un [[Lithernia/09_Personajes/Heroes\|Heroes]]. Su protección es un conjunto funcional y heterogéneo: un peto del Clan [[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]] remendado, hombreras de un [[Lithernia/04_Clases/Caballero\|Caballero]] de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] caido, y grebas de un diseño hobgoblin. Sobre todo ello, lleva un pesado delantal de cuero ennegrecido, resistente al fuego y a los cortes. Su arma es un imponente martillo de guerra, cuya cabeza plana sirve tanto para aplastar cráneos como para enderezar placas de metal, y cuya púa trasera es perfecta para hacer palanca en armaduras selladas. A su cinturón cuelgan cadenas pesadas, un garfio de escalada y varias herramientas de herrero, siempre listo para la "cosecha".
+
+### Legado e Impacto en Lithernia
+
+Grak Manos de Hierro nunca será recordado en las grandes crónicas de Lithernia. Su nombre no adornará estatuas ni será invocado por bardos. Sin embargo, su impacto es fundamental para entender la cruda realidad de la guerra perpetua. Grak representa una evolución en la psique orca de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]: el abandono del camino del [[Lithernia/04_Clases/Guerrero\|Guerrero]] glorioso por el del superviviente pragmático.
+
+Es una pieza clave en la maquinaria que alimenta la Gran Guerra. Sin el flujo constante de equipo reciclado que sus operaciones garantizan, ejércitos como los del Clan [[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]] se verían mermados, incapaces de sostener campañas prolongadas. Grak y el Velo Cenizo son la prueba viviente de que la guerra no solo se compone de táctica y furia, sino también de logística y [[Lithernia/15_Referencias/Recursos\|Recursos]].
+
+Su legado no será un linaje de héroes, sino una operación perfectamente engrasada que perdurará mucho después de que su cuerpo sea, irónicamente, procesado por sus propios sucesores. Es el rostro silencioso y eficiente de la industria de la muerte, un recordatorio sombrío de que en Lithernia, el fin de un [[Lithernia/04_Clases/Guerrero\|Guerrero]] es, casi siempre, el comienzo de un negocio.

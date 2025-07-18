@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/el-pacto-cinereo/griselda-manodeacero/","tags":["lithernia","personajes","Culto","Valtoria","Enano"]}
+---
+
+# Griselda Manodeacero
+
+### Biografía
+
+Nacida en el corazón de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], en la ciudad-fortaleza de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], Griselda proviene del Clan Agrietacero, un linaje enano conocido por su devoción al dios [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], el Destructor. Desde joven, no encontró consuelo en la forja creativa de [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]], sino una fascinación sombría en el ciclo de la destrucción. Para ella, el eco de un martillo que quiebra la roca era más puro que el que la moldea. Sin embargo, la teología oficial de su clan le parecía tibia, una excusa para justificar la violencia necesaria en la minería y la guerra. [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] destruía para que algo nuevo pudiera nacer, pero Griselda sentía en sus huesos que la propia creación estaba corrupta.
+
+Su revelación llegó durante una peregrinación prohibida a las Cicatrices del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], las tierras baldías aún humeantes por el fuego divino que castigó al Primer Rey. Allí, mientras el aire abrasaba sus pulmones, no vio la ira de los dioses, sino la verdad desnuda: una fuerza purificadora, desapasionada y absoluta. Fue entonces cuando los susurros de Kaelen Vex, el profeta del Pacto Cinéreo, encontraron tierra fértil en su alma. Vex, un paria de su propio clan, le habló de un "Segundo Amanecer", una purga controlada que limpiaría Lithernia de las creaciones fallidas de dioses imperfectos.
+
+Griselda se unió al Pacto con el fervor de una conversa. Su dureza enana y su innata afinidad con la destrucción la convirtieron en una acólita ejemplar. Ascendió con rapidez, no a través de la intriga, sino de la brutalidad inflexible. Se ganó su nombre, "Manodeacero", no por su linaje, sino por el guantelete de hierro negro que se convirtió en el instrumento de su fe. Como **Guardiana del Rito**, es la responsable de probar la valía de los nuevos iniciados, sometiéndolos a pruebas de fuego y dolor que pocos superan. Desprecia la debilidad con la pasión de una fanática, viendo a neófitos como [[Lithernia/09_Personajes/03_Agrupaciones/El_Pacto_Cinéreo/Finn\|Finn]] no como hermanos, sino como herramientas que deben ser templadas o desechadas.
+
+Su relación con Kaelen Vex es una hoguera de lealtad y ambición. Lo venera como el profeta que le abrió los ojos, pero en secreto codicia su autoridad. Teme su juicio, pero a la vez cree que Vex podría dudar en el momento final. Griselda, en cambio, no lo haría. Anhela ser ella quien encienda la pira final, la partera de un mundo renacido de las cenizas, sin importar el coste.
+
+### Descripción Física y Equipamiento
+
+Griselda es la personificación de la tenacidad enana llevada al extremo. Es más ancha y musculosa que la mayoría de las mujeres de su clan, con una postura plantada que desafía al mundo a moverla. Su cabello, de un negro azabache, está recogido en una única trenza gruesa, adornada con anillos de obsidiana y hierro. Su rostro, enmarcado por una mandíbula cuadrada, está surcado por finas cicatrices de quemaduras rituales, recuerdos de su devoción al fuego purificador. Sus ojos, de un gris acerado, arden con una intensidad fanática que incomoda incluso a sus aliados del Clan [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]].
+
+Viste una armadura de placas pesada, pero no es la obra de arte pulida de los herreros de Ironforge. La suya está ennegrecida por el hollín y el fuego, con los bordes de cada placa afilados y dentados. Sobre el peto luce el escudo del Pacto: la llama púrpura surgiendo del mundo roto, grabada y rellenada con polvo de amatista.
+
+Su arma principal es un martillo de guerra de cabeza maciza, tan funcional y brutal como ella. Sin embargo, su verdadera seña de identidad es su guantelete izquierdo, la **Mano de Acero**. Es una pieza de ingeniería tosca y letal, forjada por ella misma, capaz de desviar golpes y aplastar cráneos con igual facilidad. Siempre lleva consigo los componentes de sus ritos: un frasco con cenizas de herejes, pedernal y aceite, y un fragmento de roca vítrea recogido de las Cicatrices del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], que pulsa con un calor antinatural al tacto.
+
+### Legado e Impacto en Lithernia
+
+Griselda Manodeacero no es una líder de naciones ni una estratega de grandes ejércitos, pero su impacto potencial es igual de devastador. Ella es el rostro de la radicalización que bulle en las profundidades de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], una amenaza interna que el reino enano prefiere ignorar. Como Guardiana del Rito del Pacto Cinéreo, es la forjadora de los futuros agentes del caos, y su influencia en las facciones más oscuras de Lithernia, como los Cazadores de Sombras y el Clan [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]], solidifica alianzas que podrían desestabilizar el continente.
+
+Si Griselda lograra sus objetivos, podría ser la catalizadora de un nuevo cataclismo, intentando recrear el poder del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. Su legado sería el de una destructora que, en su búsqueda de la purificación, se convirtió en una plaga. Pero incluso si fracasa, su historia servirá como una sombría advertencia: que la fe, cuando se retuerce, puede convertir a los hijos más leales de la montaña en los arquitectos de su propia ruina. Ella es la prueba viviente de que el mayor peligro no siempre viene de reinos enemigos, sino del fuego que arde, descontrolado, en el corazón de los propios creyentes.

@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/thalorina-brillentormenta/","title":"Thalorina Brillentormenta","tags":["lithernia","personaje"]}
+---
+
+Thalorina Brillentormenta se presenta ante ti como una presencia casi mítica entre las rocas escarpadas de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Araliath\|Araliath]]. Su piel grisácea, marcada por vetas oscuras, parece cincelada en piedra viva, mientras que sus ojos azul celeste emanan una inteligencia confortante. Su altura imponente no intimida, sino que destaca su porte [[Lithernia/05_Trasfondos/Noble\|Noble]] y la calma serena con la que evalúa cada amenaza. Lleva una gran maza adornada con símbolos antiguos, sus [[Lithernia/06_Magia/Runas\|Runas]] incluso brillan ante la proximidad del peligro, y viste una armadura pesadamente ornamentada, pesada como las montañas que defiende.
+
+Con una voz profunda y pausada, Thalorina exuda la experiencia de siglos defendiendo las zonas fronterizas del Reino de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] contra diversas amenazas, y es conocida por su equilibrio entre fuerza bruta y compasión hacia todas las criaturas que habitan las montañas. Estrechamente aliada a los sabios y druidas circundantes, combina su vigoroso cuerpo de goliatth con un aguerrido dominio de la magia transmutadora, moldeando la roca para crear barreras impenetrables y fortificaciones naturales.
+
+Más allá de luchar incansablemente contra los Cazadores de Sombras y las máquinas mineras que amenazan desgarrar el suelo ancestral, trabaja activamente para que la diversidad de clanes [[Lithernia/03_Razas/Enanos\|Enanos]] y goliatths encuentre paz y colaboración, abogando siempre por un respeto profundo hacia la tierra. Su rol como guarnición viviente de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Araliath\|Araliath]] y protectora de antiguos rituales la convierte en un faro de esperanza y justicia en un reino donde la tradición y la armonía con la naturaleza luchan constantemente contra la codicia y la destrucción.
+
+Durante las noches claras, muchos pueden encontrar a Thalorina observando las estrellas desde lo alto de la fortaleza, susurrando letanías a los dioses [[Lithernia/03_Razas/Enanos\|Enanos]] y esperando el día en que la paz verdadera pueda coronar las alturas de [[Lithernia/02_Reinos/Valtoria\|Valtoria]].

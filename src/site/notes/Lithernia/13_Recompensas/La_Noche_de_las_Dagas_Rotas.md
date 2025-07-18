@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/13-recompensas/la-noche-de-las-dagas-rotas/","title":"La Noche de las Dagas Rotas","tags":["lithernia","evento","historia","mordhul"]}
+---
+
+# La Noche de las Dagas Rotas
+
+En los anales sangrientos de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], pocos eventos resuenan con un eco tan sombrío de traición y poder quebrado como **La Noche de las Dagas Rotas**. Este infame episodio, ocurrido hace aproximadamente un siglo, no fue una batalla contra un enemigo externo, sino un bautismo de sangre y acero puertas adentro, una purga intestina que redefinió para siempre las lealtades entre los grandes clanes y dejó una cicatriz imborrable en la psique del Reino de la Muerte.
+
+### Trasfondo: La Tensa Calma del Poder
+
+Bajo el reinado del Rey-Dios Sel'thirak, el poder en [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] siempre ha sido un equilibrio precario, sostenido por la fuerza y el miedo. Aunque todos los clanes juran lealtad al trono de obsidiana, las ambiciones de los dioses menores y sus descendientes hierven bajo la superficie. El Clan [[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]] ([[Lithernia/03_Razas/Orcos\|Orcos]]), favorecido por su poderío militar, gozaba de un estatus preeminente en el ejército, liderado por generales fieros y leales como Volrath. Por otro lado, el Clan [[Lithernia/09_Personajes/01_Dioses/Lakros\|Lakros]] (semiogros) y el Clan [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]] ([[Lithernia/03_Razas/Hobgoblins\|Hobgoblins]]), devotos de dioses de la sangre y el dolor respectivamente, resentían la primacía de los [[Lithernia/03_Razas/Orcos\|Orcos]] y la mano controladora de Sel'thirak, a quien consideraban demasiado enfocado en el orden y no lo suficiente en el caos glorioso que sus patronos anhelaban.
+
+El catalizador fue el fracaso de una campaña militar en las fronteras de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. La ofensiva, destinada a saquear las ricas minas enanas, fue repelida con grandes pérdidas. En la corte, los dedos acusadores apuntaron en todas direcciones. Los semiogros de [[Lithernia/09_Personajes/01_Dioses/Lakros\|Lakros]] culparon a la estrategia "demasiado cautelosa" de los [[Lithernia/03_Razas/Orcos\|Orcos]], mientras que los [[Lithernia/03_Razas/Hobgoblins\|Hobgoblins]] de [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]] susurraron que la debilidad se había infiltrado en las filas de [[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]]. En secreto, los líderes de estos clanes vieron una oportunidad única: humillar a sus rivales y demostrar a Sel'thirak que el verdadero poder de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] residía en la furia y la crueldad, no en la disciplina orca.
+
+### La Conspiración y la Traición
+
+La conspiración fue tejida en las sombras por los líderes del Clan [[Lithernia/09_Personajes/01_Dioses/Lakros\|Lakros]] y el Clan [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]], quienes a su vez contrataron al Clan Gyth'kai ([[Lithernia/03_Razas/Goblins\|Goblins]]) para llevar a cabo la parte más sucia del plan. La ocasión perfecta se presentó durante el "Festival de la Cosecha de Ceniza", una celebración sombría en la capital donde Sel'thirak reunía a sus señores vasallos para reafirmar juramentos.
+
+Bajo el pretexto de una reconciliación, los líderes conspiradores invitaron a los generales y nobles del Clan [[Lithernia/09_Personajes/01_Dioses/Thyrgram\|Thyrgram]] a un banquete privado. En el momento culminante de la noche, cuando los brindis resonaban en el salón, los asesinos goblin emergieron de las sombras. El ataque fue una masacre coordinada y brutal. Las dagas, forjadas con un metal impuro y encantadas con magia de fragmentación, se rompían al impactar contra las armaduras o la carne, dejando esquirlas malditas en las heridas. De ahí el nombre del evento: no solo se rompieron las armas, sino los juramentos, las alianzas y la confianza que mantenía unido al reino.
+
+Decenas de oficiales [[Lithernia/03_Razas/Orcos\|Orcos]] y algunos nobles tiefling leales a Sel'thirak cayeron esa noche. El objetivo no era derrocar al rey, sino decapitar el liderazgo de sus facciones más leales, sembrar el caos y forzar un cambio en la jerarquía de poder.
+
+### Consecuencias y Legado
+
+La respuesta de Sel'thirak fue tan veloz como implacable. Aunque debilitado por la pérdida de vasallos clave, el Dios de la Muerte demostró por qué gobernaba.
+
+*   **Purga y Castigo:** Sel'thirak desató toda su furia sobre los conspiradores. Los líderes del Clan [[Lithernia/09_Personajes/01_Dioses/Lakros\|Lakros]] y [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]] fueron ejecutados públicamente en la Ciudadela de Hueso, sus almas consumidas por el propio rey. El Clan Gyth'kai, usado y descartado, fue diezmado, y sus supervivientes quedaron reducidos a la servidumbre, un recordatorio perpetuo del precio de la traición.
+*   **Reafirmación del Poder:** Paradójicamente, el atentado solidificó el poder de Sel'thirak. Demostró que ninguna conspiración podía escapar a su juicio y que la lealtad absoluta era la única vía para sobrevivir. Los clanes menores, aterrorizados, renovaron sus votos con un fervor renovado.
+*   **Ascenso de Nuevas Figuras:** La purga dejó vacíos de poder. Un joven y leal Volrath, que sobrevivió a la masacre, fue ascendido a General en Jefe, su lealtad forjada en el fuego de la venganza. La consejera Lady Xandria, con su red de espías, fue fundamental para identificar a los traidores, aumentando su influencia en la corte. Se rumorea que un ambicioso [[Lithernia/05_Trasfondos/Noble\|Noble]] llamado Lord Aethel observó todo desde la distancia, aprendiendo una valiosa lección sobre cómo y cuándo golpear.
+*   **Un Dicho Popular:** La Noche de las Dagas Rotas se convirtió en una leyenda negra. En [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], la frase *"Que tus dagas no se rompan"* se convirtió en una advertencia velada contra la traición, un recordatorio de que en el Reino de la Muerte, la lealtad es tan frágil como el acero mal forjado.
+
+El evento debilitó militarmente a [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] durante casi una década, concediendo un respiro inesperado a [[Lithernia/02_Reinos/Galvorn\|Galvorn]] y [[Lithernia/02_Reinos/Eldrador\|Eldrador]] en la Gran Guerra. Más importante aún, sembró una desconfianza perenne entre las razas del reino, una herida que, aunque cicatrizada, sigue doliendo en los pasillos del poder y en los campos de batalla.

@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-umbracrest/vorian-umbracrest/","tags":["[lithernia","personajes","Casa Umbracrest","elfo","exiliado","cronista","profecia]"]}
+---
+
+# Vorian Umbracrest
+
+### Biografía
+
+Nacido en la penumbra de los archivos secretos de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Dorathil\|Dorathil]], Vorian Umbracrest fue criado para ser el guardián perfecto del olvido. Como vástago de la Casa Umbracrest, su destino no era blandir una espada ni gobernar tierras, sino custodiar las verdades más peligrosas de Lithernia: las crónicas de los dioses caídos, las genealogías de linajes malditos y, sobre todo, las profecías que, de revelarse, podrían sumir al mundo en un fuego peor que el del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. Desde joven, demostró un talento prodigioso para la crónica y el análisis, ganándose el favor de Lord Kaelen Umbracrest, el austero patriarca de la casa, quien vio en él a su más digno sucesor.
+
+Durante casi tres siglos, Vorian cumplió su deber con una devoción fría y metódica. Su pluma registró y selló conocimientos que habrían hecho temblar los cimientos de los reinos. Pero su intelecto insaciable no podía conformarse con ser un mero carcelero de la historia. En secreto, comenzó a conectar los fragmentos que su casa se esforzaba por mantener separados. Descubrió que la "Profecía del Retorno del Primer Rey", catalogada como un mito fallido, no era una historia muerta, sino un destino latente, una herida en el tejido del tiempo que aún supuraba poder.
+
+Convencido de que la paz estancada de Lithernia era una mentira y que solo el cumplimiento de la profecía podría purgar la corrupción sembrada por los dioses, Vorian confrontó a su mentor. Le presentó evidencia de que el sello de las Lanzas Celestiales se debilitaba y que un "[[Lithernia/09_Personajes/Heroes\|Heroes]]" podría ser elegido. Lord Kaelen, encarnación del pragmatismo de su casa, lo vio no como una esperanza, sino como la mecha de un cataclismo inminente. La discusión fue un choque de filosofías: la seguridad a través del control contra la salvación a través de la verdad, por caótica que fuera.
+
+Viendo la convicción inquebrantable en los ojos de Vorian, Lord Kaelen tomó la decisión más dolorosa de su larga vida. No podía ejecutar a su pupilo más brillante, pero tampoco podía permitir que desatara el caos. Lo exilió. Despojado de su título, con el acceso a los archivos prohibido y marcado como un traidor a su juramento, Vorian se convirtió en un paria.
+
+Ahora, Vorian vaga por Lithernia, un fantasma perseguido por su propio linaje. Su misión ha mutado: ya no es un guardián de secretos, sino un [[Lithernia/05_Trasfondos/Cazador\|Cazador]] de ellos. Busca obsesivamente cualquier pista sobre las Lanzas Celestiales y el paradero del posible Elegido, creyendo que es el único camino para redimir un mundo construido sobre mentiras divinas. Su vida es una carrera contra el tiempo, pues sabe que los agentes de la Casa Umbracrest, tan silenciosos y letales como las sombras que dominan, no descansarán hasta asegurarse de que su verdad muera con él.
+
+### Descripción Física y Equipamiento
+
+Vorian posee la gracia etérea de su herencia [[Lithernia/03_Razas/Eladrin\|Eladrin]], pero atemperada por la melancolía perpetua de los Shadar-Kai. Es alto y esbelto, con una piel pálida que parece absorber la luz. Su cabello, de un negro profundo como la tinta, cae lacio sobre sus hombros, a menudo recogido en una simple coleta de cuero. Sus ojos son su rasgo más notable: de un color violeta intenso, arden con una inteligencia febril y la determinación de quien ha visto el abismo y ha decidido saltar.
+
+Ha abandonado las sedas nobles de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Dorathil\|Dorathil]] por ropajes de viajero, prácticos y oscuros. Viste una túnica de lana teñida de índigo sobre pantalones de cuero reforzado y botas altas y silenciosas. Su única concesión a su pasado es una capa de viaje de excelente factura, forrada de terciopelo, que lleva el emblema de su casa sutilmente bordado en el interior, aunque él mismo ha descosido la llave de obsidiana, dejando solo el ojo de luna.
+
+No es un [[Lithernia/04_Clases/Guerrero\|Guerrero]], pero el exilio le ha enseñado a defenderse. Porta una espada corta de elegante diseño élfico en su cadera, un arma más para disuadir que para buscar combate. Su verdadero arsenal reside en una bandolera de cuero desgastado, repleta de pergaminos vírgenes, frascos de tinta, carboncillos para calcar [[Lithernia/06_Magia/Runas\|Runas]] y un diario cifrado donde anota sus descubrimientos. Al cuello lleva un amuleto de obsidiana pulida, la mitad rota de una llave que una vez compartió con Lord Kaelen, un recordatorio constante de su propósito y de todo lo que ha perdido.
+
+### Legado e Impacto en Lithernia
+
+Vorian Umbracrest es una anomalía viviente, una paradoja que amenaza con desgarrar el velo de secretismo que mantiene unido el precario orden de Lithernia. Es el hijo de los guardianes del olvido que ha elegido convertirse en el heraldo de la memoria. Su búsqueda personal lo coloca en un curso de colisión directo no solo con su antigua casa, sino con todas las potencias que se benefician del status quo, desde el Rey-Dios Sel’thirak en Mor’dhul hasta los nobles elfos de [[Lithernia/02_Reinos/Eldrador\|Eldrador]] que temen la unificación.
+
+Si fracasa, será recordado como un simple herético, una nota a pie de página en las crónicas secretas de su familia. Pero si tiene éxito, su impacto será cataclísmico. Podría ser el catalizador que despierte al [[Lithernia/09_Personajes/Heroes\|Heroes]] de la profecía, forzando a todos los reinos a tomar partido y reavivando la guerra contra los dioses. Vorian no busca poder para sí mismo; se ve a sí mismo como un instrumento del destino, un cronista obligado a escribir el último y más veraz capítulo de la historia de Lithernia, sin importar si el mundo arde en el proceso. Su legado, por tanto, pende de un hilo: ¿será el sabio que devolvió la esperanza al mundo o el necio que le prendió fuego en nombre de la verdad?

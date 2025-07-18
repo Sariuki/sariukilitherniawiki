@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-vaelor/finnian-ruedaquieta/","tags":["lithernia","personaje","Valtoria","casa vaelor","mediano","comerciante"]}
+---
+
+# Finnian Ruedaquieta
+
+### Biografía
+
+En los salones de piedra y los túneles resonantes de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], donde la grandeza se mide en la profundidad de las minas y la solidez de la barba, la figura de Finnian Ruedaquieta es una anomalía y una leyenda. No nació del linaje de la montaña, sino de los caminos abiertos, un mediano cuya caravana familiar tuvo la fortuna —o el destino— de comerciar en las faldas de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Villeshervil\|Villeshervil]]. Su vida cambió para siempre el día en que un temblor, producto de una excavación imprudente de un clan rival, provocó un derrumbe en una de las galerías experimentales de la Casa Vaelor. Mientras los robustos [[Lithernia/03_Razas/Enanos\|Enanos]] se veían obstaculizados por los estrechos pasadizos, fue la agilidad y el coraje de un joven Finnian los que le permitieron escurrirse entre las rocas para guiar hacia la salida a un aterrorizado heredero Vaelor.
+
+Este acto no fue recompensado con oro, sino con algo infinitamente más valioso en la cultura enana: el honor y la pertenencia. Adoptado por el patriarca de la Casa Vaelor, Finnian creció entre [[Lithernia/03_Razas/Enanos\|Enanos]], aprendiendo no solo su idioma y sus costumbres, sino también sus secretos más profundos. Aunque su físico nunca podría igualar la fuerza de sus hermanos adoptivos, su mente afilada y su carisma natural de mediano resultaron ser un activo de un poder incalculable. Pronto demostró un talento excepcional para el comercio, entendiendo que cada negociación era un delicado pulido, similar a cómo las aguas de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Villeshervil\|Villeshervil]] pulen las gemas rúnicas que son el orgullo de su casa.
+
+Con el tiempo, Finnian se convirtió en el Embajador y Maestro Comerciante de Vaelor, una posición de confianza sin precedentes para un no-enano. Es él quien viaja a las bulliciosas ciudades de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], quien se sienta en mesas de negociación frente a astutos gremialistas y nobles altivos, y quien maneja las delicadas alianzas y las feroces rivalidades de su casa. Se enfrenta con calma y una sonrisa desarmante a la hostilidad del Clan Agrietacero, cuyos miembros le apodan con desdén "el guijarro parlante", solo para ver cómo Finnian cierra tratos que los dejan fuera del mercado. Es él quien cultiva la relación simbiótica con los joyeros de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Nolindor\|Nolindor]] y los sabios de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Elionor\|Elionor]], asegurando que el flujo de gemas puras y conocimiento celestial nunca cese.
+
+Su motivación no es la riqueza, aunque la ha amasado para su casa, sino una profunda lealtad forjada en la gratitud. Cada contrato firmado, cada rivalidad neutralizada, es un pago a la familia que lo acogió. Finnian Ruedaquieta, el mediano de la montaña, es la prueba viviente de que la voluntad, como una runa perfectamente inscrita, puede otorgar fuerza a la piedra más inesperada. Es el único no-enano con un asiento en las cámaras del consejo de la Casa Vaelor, un honor que porta con humildad y una responsabilidad de hierro.
+
+### Descripción Física y Equipamiento
+
+Finnian posee la complexión compacta y los pies ágiles de su raza, pero décadas de vida en la montaña le han otorgado una solidez inusual. A sus 72 años, su rostro está surcado de arrugas amables alrededor de sus ojos avellana, que brillan con una inteligencia vivaz y una paciencia casi geológica. En un gesto de respeto a su cultura adoptiva, luce unas patillas largas y meticulosamente trenzadas, sujetas con broches de zafiro que él mismo negoció.
+
+Viste con la elegancia de un mercader próspero, pero con la funcionalidad de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Suele portar un chaleco de cuero de cabra montesa sobre una camisa de lino fino, y sus pantalones de lana están rematados con botas robustas, aptas para caminar tanto por los salones de un gremio como por los senderos de montaña. Su prenda más distintiva es un abrigo de viaje forrado, cuyos botones son pequeñas gemas pulidas por la Casa Vaelor, cada una con una runa protectora menor.
+
+Su equipamiento no es el de un [[Lithernia/04_Clases/Guerrero\|Guerrero]], sino el de un maestro de su oficio:
+*   **El Gran Libro de Cuentas de Vaelor:** Un pesado libro encuadernado en cuero, con cierres de mithril. Contiene no solo los registros comerciales, sino también notas cifradas sobre las personalidades, debilidades y fortalezas de cada socio y rival.
+*   **La Noria de la Diplomacia:** Un ábaco personal y portátil hecho de plata y nogal petrificado. Las cuentas son pequeñas perlas y gemas pulidas, una herramienta de cálculo y un símbolo de su estatus.
+*   **Lupa de Claridad Rúnica:** Un regalo del Círculo de Sabios, esta lente de cristal encantado por Vaelor le permite examinar la pureza de las gemas y la autenticidad de los sellos con una precisión infalible.
+*   **Daga de la Corriente Silenciosa:** Oculta en su bota, esta daga de hoja corta y delgada, forjada con acero infundido en zafiro líquido, es su último recurso. Es un arma ligera y silenciosa, tan letal como subestimada, al igual que su portador.
+
+### Legado e Impacto en Lithernia
+
+Finnian Ruedaquieta no será recordado en las grandes sagas de guerreros que parten montañas, sino en las crónicas de los gremios y en los susurros de los salones de poder. Su legado es el de ser un puente entre culturas, la personificación de que el honor y la lealtad no entienden de razas. En un reino tan tradicionalista como [[Lithernia/02_Reinos/Valtoria\|Valtoria]], su ascenso ha abierto, aunque sea mínimamente, las puertas a una mayor aceptación de los forasteros, demostrando que el valor puede encontrarse en los lugares más insospechados.
+
+Es el arquitecto silencioso del poder económico de la Casa Vaelor, transformando su artesanía única en una influencia que rivaliza con la de los clanes guerreros más poderosos. Su historia se cuenta en las tabernas de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Villeshervil\|Villeshervil]] a los niños, tanto [[Lithernia/03_Razas/Enanos\|Enanos]] como [[Lithernia/03_Razas/Gnomos\|Gnomos]]: la leyenda del "Mediano que movió la Montaña", no con fuerza bruta, sino con ingenio, lealtad y una palabra bien empleada. Finnian Ruedaquieta ha probado que el lema de su casa es cierto: la corriente moldea la piedra, y él es la corriente que ha dado una nueva forma al destino de la Casa Vaelor.

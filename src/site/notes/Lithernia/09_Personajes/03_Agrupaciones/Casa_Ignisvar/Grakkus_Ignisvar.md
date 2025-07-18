@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-ignisvar/grakkus-ignisvar/","tags":["[lithernia","personajes","casa ignisvar","general","dracónico","Valarion"]}
+---
+
+# Grakkus Ignisvar, la Llama Indómita de Valarion
+
+### Biografía
+
+Nacido en el crisol de la ambición y la ceniza, Grakkus Ignisvar es la encarnación viviente de la furia y el orgullo de su linaje. Como descendiente directo de [[Lithernia/09_Personajes/02_Figuras_Historicas/Ignis\|Ignis]], el gran dragón carmesí, Grakkus fue criado no con cuentos de cuna, sino con las épicas de un imperio perdido y la humillación del Cataclismo del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. Su infancia no transcurrió en palacios dorados, sino en los campamentos errantes de un pueblo exiliado, endurecido por el recuerdo de una gloria que se negaban a olvidar.
+
+Fue en la ciudad volcánica de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]] donde la Casa Ignisvar encontró un nuevo hogar, y donde Grakkus forjó su destino. Mientras su hermano mayor, Valerius, aprendía las artes de la diplomacia y el gobierno, Grakkus se sumergió en las forjas del Clan Agrietacero. Allí, entre el estruendo de los martillos y el aliento de la lava, no solo aprendió a blandir el acero, sino a sentir el fuego dracónico que corría por sus venas. Su habilidad marcial, combinada con una piromancia innata y brutal, rápidamente lo distinguió. No era un [[Lithernia/04_Clases/Mago\|Mago]] de textos y cánticos; su fuego era una extensión de su voluntad, una herencia violenta que imponía respeto.
+
+Su ascenso a [[Lithernia/09_Personajes/Heroes\|Heroes]] de la Casa se cimentó al liderar la defensa de una de las minas exteriores de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]] contra una bestia de magma descontrolada, una criatura que ni los robustos [[Lithernia/03_Razas/Enanos\|Enanos]] del Clan Agrietacero habían podido someter. Grakkus, empuñando su gran hacha y envuelto en llamas, se enfrentó a la criatura en un combate singular que se ha convertido en leyenda en los salones de la ciudad. Este acto le ganó el mando de las "Alas de Ceniza", la fuerza de élite de la Casa Ignisvar.
+
+Como General, Grakkus es la mano ejecutora de la voluntad de su casa. Desprecia la debilidad y la sutileza, lo que le pone en constante conflicto con consejeros como Lyra, cuyas redes de espionaje y manipulación considera deshonrosas. Para Grakkus, el poder se demuestra en el campo de batalla, no en susurros en los pasillos. Su lealtad a su hermano Valerius es férrea, pero su verdadera devoción es hacia el futuro del linaje, encarnado en su sobrina Seraphina. En ella ve no solo una alumna, sino la llama que podría restaurar por completo el honor de los Ignisvar, y la entrena con una dureza que raya en la crueldad, convencido de que solo el más fuerte sobrevive.
+
+La Profecía del Retorno del Rey no le inspira una lealtad piadosa. Para Grakkus, el Primer Rey es una figura del pasado cuyo fracaso trajo la ruina. Sin embargo, ve la profecía como la tormenta perfecta, el caos necesario para que el orden actual se quiebre. En un mundo en guerra, una casa de sangre de dragón con ejércitos de acero y fuego no solo puede sobrevivir, sino reclamar el dominio que le fue arrebatado. Su alianza secreta con los Cultos del Retorno es puramente pragmática: ellos preparan el camino, y la Casa Ignisvar caminará sobre él hacia el poder.
+
+### Descripción Física y Equipamiento
+
+Grakkus es una figura imponente, un coloso que parece tallado en la misma roca volcánica de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]]. Con más de dos metros de altura y una musculatura forjada en el combate y la herrería, su presencia es abrumadora. Su piel pálida está surcada de finas cicatrices de quemaduras, recuerdo permanente de su afinidad con el fuego. Sus rasgos son afilados y severos, con pómulos altos y una mandíbula firme que evocan un eco de escamas ancestrales. Sus ojos, de un intenso color ámbar, parecen contener brasas latentes que arden con más fuerza cuando su ira se enciende. Lleva el cabello negro y largo, recogido en una tosca trenza que cae sobre su hombro.
+
+Viste la **Égida de Ceniza**, una armadura de placas de acero ennegrecido, grabada con [[Lithernia/06_Magia/Runas\|Runas]] dracónicas que parecen absorber la luz. Las hombreras están esculpidas con la forma de cabezas de dragón estilizadas y una capa de un rojo carmesí profundo, el color de su casa, cuelga de su espalda, raída y manchada por incontables batallas.
+
+Su arma es **Furia del Volcán**, un hacha de guerra monumental de doble filo, forjada por él mismo con acero de meteorito y un núcleo de obsidiana. Se dice que el arma canaliza su piromancia innata, y su filo puede arder con un calor blanco al contacto. Como amuleto, lleva un colmillo de dragón, una reliquia de sus ancestros, que cuelga de su cuello con una cadena de hierro negro.
+
+### Legado e Impacto en Lithernia
+
+Grakkus Ignisvar no es un [[Lithernia/09_Personajes/Heroes\|Heroes]] ni un villano; es una fuerza de la naturaleza, un eco del poder elemental que una vez gobernó el mundo. Para sus aliados en [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], es un baluarte, el martillo que protege la ciudad de sus enemigos. Para sus rivales, como la Casa Bronzebrillo y los nobles elfos de [[Lithernia/02_Reinos/Eldrador\|Eldrador]], es un presagio de guerra, la prueba viviente de que la ambición de los [[Lithernia/07_Bestias_Monstruos/Dragones\|Dragones]] nunca se extinguió del todo.
+
+Su impacto en Lithernia será, sin duda, escrito en fuego y acero. Como General de las Alas de Ceniza y creyente pragmático en la Profecía del Retorno, Grakkus está posicionado para ser una pieza clave en los conflictos venideros. Su desdén por la diplomacia y su fe en la fuerza bruta podrían sumir a su casa y a sus aliados en una guerra total, o podría ser precisamente esa determinación implacable la que eleve a la Casa Ignisvar de las cenizas de la historia para reclamar un trono entre los grandes poderes de Lithernia. Su legado será el de un hombre que se negó a dejar que su linaje se convirtiera en un mito, y que estaba dispuesto a quemar el mundo para verlo renacer a su imagen.

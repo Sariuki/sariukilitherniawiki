@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-rioveta/kaelan-rioveta/","tags":["lithernia","personajes","Casa Noble","Valtoria","Enano"]}
+---
+
+# Kaelan Rioveta
+
+Kaelan Rioveta no es un señor de la guerra, ni un rey sentado en un trono de piedra tallada. Su poder no emana del filo de un hacha, sino del fluir controlado del agua y del corazón brillante de la montaña. Como Patriarca de la Casa Rioveta y Maestro de la Presa de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Villeshervil\|Villeshervil]], Kaelan es un arquitecto de poder, un estratega cuyo campo de batalla es el Consejo de Gremios y cuyas armas son los contratos, la innovación y el monopolio de los [[Lithernia/15_Referencias/Recursos\|Recursos]] más finos de [[Lithernia/02_Reinos/Valtoria\|Valtoria]].
+
+### Biografía
+
+Nacido del singular pacto que dio origen a su casa —la unión de la maestría gemológica del clan enano Cincelpulcro y el ingenio mecánico de la familia gnoma Ruedadentada—, Kaelan encarna la dualidad de su linaje. Fue criado no entre el estruendo de las forjas, sino con el murmullo constante de los acueductos y el delicado zumbido de las sierras hidráulicas. Aprendió a leer la roca no para encontrar vetas de hierro, sino para trazar el curso perfecto de un canal; y a valorar un zafiro no solo por su belleza, sino por su potencial industrial como foco arcano o componente de precisión.
+
+Su ascenso a la cabeza de la casa no fue por herencia directa, sino a través de una demostración de audacia y visión que dejó obsoletos a sus tíos y primos más conservadores. Su obra magna, el "Gran Acueducto de la Gema Llorona", fue un proyecto de ingeniería que tardó décadas en completarse. Esta colosal red de presas, canales y norias de precisión no solo consolidó el dominio de los Rioveta sobre la energía hidráulica de la región, sino que permitió la creación de talleres de 'hidro-artesanía' capaces de pulir gemas con una perfección que los gremios de otras ciudades consideraban un mito.
+
+La principal motivación de Kaelan es asegurar la supremacía de la Casa Rioveta a través del progreso y el control económico. Considera que la fuerza bruta de casas como los Ferromartillo es una reliquia de un pasado ineficiente. ¿Para qué blandir un martillo mil veces, se pregunta, cuando la fuerza constante de un río puede hacer el trabajo de diez mil martillos sin descanso? Esta filosofía pragmática, que ve la naturaleza como un sistema optimizable, lo ha enriquecido inmensamente, pero también le ha granjeado enemigos. Los druidas de los valles cercanos lo acusan de "desangrar a la montaña", y los extremistas Cazadores de Sombras lo ven como la encarnación del intelectualismo que corrompe el espíritu puro de [[Lithernia/02_Reinos/Valtoria\|Valtoria]].
+
+En el tablero personal, Kaelan se encuentra en una encrucijada. Su hija y heredera, Gylia, es el producto perfecto de la herencia gnoma de la casa: una inventora brillante y audaz. Kaelan valora su genio, pero teme su impulsividad. Gylia ve el poder de la casa como una herramienta para una revolución tecnológica, mientras que Kaelan lo ve como un delicado equilibrio que debe mantenerse con paciencia y secretismo. Por otro lado, su hermano menor, Borin, es un purista de la roca, un tradicionalista que desprecia la influencia gnoma y considera que los métodos de Kaelan son una afrenta a los ancestros. Borin lidera una facción interna que aboga por volver al martillo y al cincel, un anacronismo que Kaelan considera tan peligroso como la imprudencia de su hija.
+
+### Descripción Física y Equipamiento
+
+Kaelan Rioveta es un enano de constitución robusta, pero cuyo porte es más el de un [[Lithernia/05_Trasfondos/Erudito\|Erudito]] que el de un [[Lithernia/04_Clases/Guerrero\|Guerrero]]. A sus 250 años, su barba, de un color gris acero, no está trenzada con [[Lithernia/06_Magia/Runas\|Runas]] de batalla, sino recortada de forma práctica y funcional, a menudo con restos de polvo de gema atrapados en ella. Sus ojos, de un azul profundo como los zafiros que tanto valora, son agudos y analíticos, acostumbrados a examinar planos y facetas de cristales. Sus manos son anchas y fuertes, con los callos de un artesano que ha pasado su vida manejando herramientas de precisión y no armas.
+
+Viste túnicas de lana de alta calidad en tonos azules y grises, los colores de su casa, adornadas con broches de plata pulida que representan engranajes y corrientes de agua. En su dedo anular porta el **Anillo del Patriarca**, una simple banda de platino con un zafiro sin tallar, símbolo de que el verdadero valor reside en el potencial, no en la apariencia. Su única herramienta constante es su **Lente de Precisión Rioveta**, un monóculo con cristales intercambiables encantados que le permite ver las más ínfimas fisuras en la roca, el flujo de maná en un cristal o las mentiras en el rostro de un rival del consejo.
+
+### Legado e Impacto en Lithernia
+
+Kaelan Rioveta representa una fuerza transformadora en el corazón de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Es la prueba de que el poder puede construirse con intelecto, comercio e industria, desafiando la primacía tradicional del honor marcial y la fuerza física. Su legado es el de un modernizador que ha elevado a su casa y a su ciudad a la vanguardia de la artesanía de precisión en todo el continente, haciendo de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Villeshervil\|Villeshervil]] un nodo económico indispensable.
+
+Sin embargo, su impacto es una espada de doble filo. Al ver la naturaleza como un recurso, ha avivado la llama del descontento entre las facciones más tradicionalistas y ecologistas de su reino. Su éxito lo ha convertido en un objetivo principal para los Cazadores de Sombras, quienes ven su imperio de engranajes y canales como una profanación.
+
+El futuro de la Casa Rioveta, y por extensión el equilibrio de poder en [[Lithernia/02_Reinos/Valtoria\|Valtoria]], pende de un hilo. El destino de su legado no se decidirá en un campo de batalla, sino en los pasillos del poder de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Villeshervil\|Villeshervil]], donde la audaz visión de su hija y la anquilosada nostalgia de su hermano luchan por el alma de la casa que él construyó. Kaelan, el Maestro de la Presa, debe ahora controlar la corriente más tumultuosa de todas: el futuro de su propia sangre.

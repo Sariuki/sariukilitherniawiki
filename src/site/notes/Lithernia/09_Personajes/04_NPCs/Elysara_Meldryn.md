@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/elysara-meldryn/","title":"Elysara Meldryn","tags":["lithernia","personaje"]}
+---
+
+Elysara Meldryn es una medioelfa de porte [[Lithernia/05_Trasfondos/Noble\|Noble]] y presencia serena, con una mirada que refleja la inmensidad del océano y la infinitud estelar que tanto estudia. Su cabello azabache con destellos plateados la delata como alguien ligada a la magia y el conocimiento arcano, mientras sus tatuajes de constelaciones parecen cobrar vida bajo la luz de la luna. Siempre viste ropas cómodas adaptadas al mar, pero decoradas con símbolos de las diosas que adora y objetos que hablan de sus viajes y batallas logradas.  
+
+En [[Lithernia/02_Reinos/Kingdom_of_Galvorn/Venalith\|Venalith]], es conocida no solo por su talento para trazar rutas que parecen imposibles, sino por su habilidad para inspirar confianza y esperanza en tiempos turbulentos. Carismática y paciente, escucha atentamente las [[Lithernia/09_Personajes/Leyendas\|Leyendas]] de los marineros y estudia antiguos [[Lithernia/12_Atlas/Mapas\|Mapas]] en busca de pistas, convencida de que las Islas Errantes guardan respuestas a los enigmas del pasado.  
+
+Elysara maneja la magia de evocación con maestría, capaz de invocar brisas generosas o calmar tormentas cuando la situación lo requiere, haciendo que las tripulaciones la consideren una protectora bajo la voluntad de [[Lithernia/09_Personajes/01_Dioses/Yfrit\|Yfrit]]. Sus decisiones influyen directamente en la seguridad económica y militar de [[Lithernia/02_Reinos/Galvorn\|Galvorn]], y sus expediciones secretas de exploración están plagadas de peligros y misterios que podrían trastocar el equilibrio de poder en Lithernia.  
+
+Sus enemigos la ven como una amenaza creciente y algunos en el Consejo la miran con envidia, mientras que sus aliados le recuerdan la importancia de mantener viva la unión que su reino necesita para afrontar el oscuro horizonte que rodea a Lithernia. Pese a su fortaleza, Elysara lleva consigo dudas y contradicciones propias, entre su fe y el incesante llamado del mar y las estrellas — un eterno destino que la arrastra hacia lo desconocido.

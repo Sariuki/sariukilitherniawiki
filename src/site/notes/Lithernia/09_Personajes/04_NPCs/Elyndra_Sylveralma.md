@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/elyndra-sylveralma/","title":"Elyndra Sylveralma","tags":["lithernia","personaje","Eladrin","guardiana"]}
+---
+
+Elyndra Sylveralma es una eladrina de porte elegante y aura casi etérea, su piel reluce con un brillo sutil reminiscentede la luz de las estrellas y su cabello parece fluir como una cascada plateada estrellada a la luz lunar. Sus ojos oriundos, que van de un azul profundo a un violeta cambiante según su estado de ánimo estacional, son capaces de penetrar veinticuatro dimensiones del Tejido del Maná, lo que le otorga visiones del destino y del movimiento de las esferas celestiales.
+
+Suele vestir túnicas moduladas con bordados que reflejan cielos estrellados cambiantes; sus ropajes emiten un perfume de noche fresca y madera musgosa quequedas antiguas iglesias en sus [[Lithernia/06_Magia/Conjuros\|Conjuros]]. Porta al cuello un cristal fragmentado que, según sus relatos, contiene fragmentos de [[Lithernia/09_Personajes/01_Dioses/Arzia\|Arzia]], diosa de las estrellas, y le permite transformar el ambiente según sus ruegos mágicos.
+
+Como Guardiana de la Torre de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Nythalas\|Nythalas]], Elyndra no solo descifra los mensajes ocultos en la danza de los astros, sino que guía a los visitantes y dignatarios en su paso, aconsejando y escuchando relatos de courage y dolor. Aunque el Consejo Nobiliario la respeta profundamente, existen sospechas y recelos silenciosos entre ciertos miembros de Casa Noctha, que no confían en la influencia equilibrada de una figura tan poderosa pero sugestiva.
+
+Sus recientes visiones le han impartido secretos inquietantes sobre las Lanzas Celestiales, y ha comenzado a preparar a un pequeño grupo de elegidos para interpretar signos futuros. Quizá en breve, sus ojos serenos se abran a un dolor mayor, y sus pasos silenciosos lleven a los héroes a través de senderos ocultos, entre las copas sagradas de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Nythalas\|Nythalas]], mientras la trama del Primer Rey empieza a desenredarse.
+
+Elyndra es, a la vez, amiga y enigma; su palabra calma a quien busca guía, y su presencia hechiza a quien la mira por tiempo suficiente. Caminar a su lado o conocerla es una experiencia llena de silencio estrellado y promesas veladas; pocos han logrado sonreír junto a ella sin sentir que un misterio justo comienza a mostrar sus ojos en la penumbra.

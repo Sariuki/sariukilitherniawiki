@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-temporis/lyra-temporis/","tags":["lithernia","personajes","Casa Noble","gnomo","artífice"]}
+---
+
+# Lyra Temporis
+
+### Biografía
+
+En los salones de la Casa Temporis, en la innovadora ciudad de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Cyndril\|Cyndril]], no son las estrellas ni los susurros de los dioses los que dictan el porvenir, sino el tictac incesante y medido de miles de engranajes. En el corazón de este universo mecánico se encuentra Lyra Temporis, heredera del linaje y Maestra de Engranajes, una mente tan precisa y compleja como los autómatas que diseña.
+
+Nacida en el seno de una casa fundada por el legendario gnomo Kaelen 'Tic-Tac' Temporis, Lyra heredó mucho más que un título; heredó una obsesión que roza la blasfemia. Mientras los videntes de [[Lithernia/02_Reinos/Eldrador\|Eldrador]] escrutan los cielos en busca de augurios y los sacerdotes de [[Lithernia/02_Reinos/Galvorn\|Galvorn]] interpretan las mareas, la Casa Temporis persigue una verdad matemática: la creencia de que el destino es un gran mecanismo cósmico, una secuencia de causa y efecto que, con suficiente poder de cálculo, puede ser predicha. Este ideal se materializa en su obra magna: el **Oráculo Mecánico**, un colosal autómata de relojería cuyo propósito es descifrar el futuro.
+
+Lyra demostró desde joven una afinidad prodigiosa para la mecánica y la lógica arcana. Donde otros niños [[Lithernia/03_Razas/Gnomos\|Gnomos]] construían juguetes, ella ensamblaba cronómetros que medían el flujo de maná ambiental. Es más pragmática y terrenal que su tío, Lord Alaric Temporis, el actual líder de la casa, un visionario más absorto en la filosofía del Oráculo que en sus necesidades prácticas. Lyra, en cambio, comprende que un proyecto de tal magnitud es un faro que atrae tanto a admiradores como a depredadores. Con una diplomacia afilada como sus propias herramientas, ha tejido una red de alianzas cruciales. Ha asegurado pactos con el Gremio de Artífices de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Vatilleurs\|Vatilleurs]] para obtener esquemas exclusivos y ha forjado una sorprendente amistad con la Casa Mirastral de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Rynhalis\|Rynhalis]], una facción de elfos astrónomos que ven en el Oráculo una vía alternativa para comprender el cosmos, lejos de la mística tradicional.
+
+Su liderazgo, sin embargo, no está exento de conflictos. Dentro de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Cyndril\|Cyndril]], los **Canteros Silenciosos**, una facción tradicionalista, ven el Oráculo como una monstruosidad de metal y una afrenta a la "innovación paciente" de la ciudad, saboteando sutilmente sus cadenas de suministro. Una amenaza mucho más oscura proviene de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]: el **Clan Nighthawk**, maestros [[Lithernia/03_Razas/Hobgoblins\|Hobgoblins]] de los secretos y la magia sombría, entienden que un dispositivo que predice el futuro es la herramienta de poder definitiva. Sus agentes acechan en las sombras, buscando la oportunidad de robar los secretos del Oráculo o destruirlo para que nadie más los posea.
+
+En el centro de su círculo de confianza se encuentra **Borin 'Manorrotas'**, un anciano maestro artesano enano, posiblemente de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], cuyas manos agrietadas y expertas son las únicas capaces de dar vida a los diseños imposibles de Lyra. Su relación es de una profunda simbiosis: ella es la arquitecta de la teoría, él es el maestro de la materia. Juntos, y con el peso de generaciones sobre sus hombros, trabajan sin descanso para completar la máquina que podría desvelar el destino de Lithernia o provocar su propia ruina.
+
+### Descripción Física y Equipamiento
+
+Lyra es la personificación de la precisión gnoma. De estatura menuda, incluso para su raza, posee una energía concentrada que desmiente su tamaño. Sus ojos, de un intenso color zafiro a juego con la gema de su escudo, rara vez parpadean, siempre analizando, midiendo y calculando. Unas gafas de magnificación con múltiples lentes suelen estar posadas sobre su frente o cubriendo sus ojos, dejando leves marcas en el puente de su nariz. Su cabello, de un color castaño cobrizo, está recogido en una trenza funcional y compleja, a menudo sujeta con pequeños engranajes de bronce.
+
+Sus manos, rara vez impecables, suelen estar manchadas de aceite de máquina y marcadas por diminutas cicatrices de cortes y quemaduras, el testimonio de una vida dedicada a la forja y el ensamblaje. Viste un atuendo práctico de cuero reforzado y lino resistente, adornado con los emblemas de su casa: patrones de relojería bordados en hilo de mithril.
+
+Su equipamiento es una extensión de su mente. Porta siempre consigo un juego de herramientas de precisión hecho a medida, con piezas de acero valtoriano y mangos de madera de roble élfico. En su hombro a menudo se posa "Cuerda", un pequeño autómata con forma de pájaro que actúa como su asistente, capaz de alcanzar espacios reducidos, registrar notas y emitir chirridos de alerta. Para su defensa personal, confía en una ballesta de repetición de diseño propio y en un guantelete mecánico capaz de liberar una descarga de energía conmocionadora.
+
+### Legado e Impacto en Lithernia
+
+El trabajo de Lyra Temporis y la existencia misma del Oráculo Mecánico representan uno de los mayores desafíos filosóficos y estratégicos de la era actual. Si tiene éxito, la Casa Temporis no solo habrá creado la mayor maravilla tecnológica del mundo, sino que habrá arrebatado a los dioses uno de sus dominios más sagrados: el conocimiento del futuro.
+
+Este acto de audacia promete redefinir el poder en Lithernia. Podría anular la necesidad de profecías divinas, convirtiendo el destino en una ciencia exacta. Para facciones como los seguidores del Primer Rey, que buscan liberarse del yugo divino, Lyra podría convertirse en una heroína inesperada. Para los reinos teocráticos como [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], bajo el control de deidades como Sel'thirak, ella y su obra son una herejía que debe ser purgada.
+
+El legado de Lyra pende de un hilo tan fino como el resorte de un reloj. Puede ser recordada como la visionaria que otorgó a los mortales el control sobre su propio destino, inaugurando una era de lógica y razón. O podría pasar a la historia como la artífice de su propia tragedia, una Ícaro de metal y engranajes cuya ambición atrajo la ira de los cielos y la codicia de las sombras, llevando a su casa y a su ciudad a la destrucción. El tictac del Oráculo Mecánico no es solo el sonido del progreso; es la cuenta atrás para el destino de Lyra y, quizás, para el de toda Lithernia.

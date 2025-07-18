@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/el-circulo-del-eco-purpura/grokk-stonehide/","tags":["lithernia","personajes","circulo_del_eco_purpura","guardian","goliath"]}
+---
+
+# Grokk Stonehide
+
+### Biografía
+
+Grokk no nació en el seno de una gran casa [[Lithernia/05_Trasfondos/Noble\|Noble]] ni fue ungido por profecía alguna. Su linaje es el de la roca y el silencio de las cumbres más altas de las montañas que bordean [[Lithernia/02_Reinos/Valtoria\|Valtoria]], un hijo del clan Stonehide, una tribu Goliath que durante generaciones vivió en comunión con la piedra, ajena a las guerras de los reinos de abajo. Su juventud fue la de un [[Lithernia/05_Trasfondos/Cazador\|Cazador]], aprendiendo a leer el viento en los picos y a rastrear [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] entre los riscos. Para él, el mundo era simple: proteger al clan, honrar a los ancestros y respetar la montaña.
+
+Esta paz se hizo añicos cuando Grokk contaba con dieciocho inviernos. Una antigua cicatriz del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], latente bajo su montaña sagrada, despertó. No fue un ejército, ni un dragón; fue algo peor. De las fisuras de la tierra supuró una manifestación del dolor eterno del mundo: una abominación de carne torcida y luz corrupta que aullaba con las voces de los muertos en el Cataclismo. El clan Stonehide, guerreros formidables contra cualquier enemigo mortal, no estaba preparado para combatir una pesadilla. Lucharon con la furia de la montaña, pero sus hachas se quebraban contra la irrealidad y su valor se desvanecía ante el horror psíquico.
+
+Grokk fue el único superviviente. No por ser el más fuerte, sino porque su voluntad, dura como el granito de su hogar, se negó a romperse. Fue encontrado por Kaelen, el Primer [[Lithernia/05_Trasfondos/Cazador\|Cazador]] del Círculo del Eco Púrpura, junto a los cuerpos petrificados de su gente. Estaba roto, cubierto de heridas que supuraban una corrupción violácea, pero vivo. Kaelen no le ofreció consuelo ni venganza. Le ofreció un propósito: tomar el dolor que había destrozado su vida y convertirlo en un escudo para que nadie más tuviera que sufrir lo mismo.
+
+Desde ese día, Grokk se convirtió en el Círculo. Su entrenamiento fue brutal, no solo físico, sino mental. Aprendió a soportar la corrupción, a reconocer las aberraciones del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] y, lo más importante, a interponerse entre ellas y el mundo. Ascendió rápidamente, no como estratega ni como líder, sino como lo que siempre fue: una roca. Se ganó el título de "Guardián de la Cicatriz", el miembro del Círculo que se planta en la primera línea, el que aguanta el golpe que quebraría a cualquier otro.
+
+Su lealtad a Kaelen es absoluta, una deuda de vida forjada en la tragedia. Sin embargo, su papel lo ha puesto en constante proximidad con Elara, la Tejedora de Ecos, una arcanista del Círculo que no solo combate la corrupción, sino que la estudia y manipula. Grokk la protege porque es su deber, pero en sus ojos ve el mismo abismo que devoró a su clan. Cada vez que Elara teje los hilos del poder del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], Grokk siente el eco de los gritos de su familia. Vive en una tensión perpetua, siendo el guardián de una mujer cuyo poder respeta y teme a partes iguales, siempre preparado para el día en que su deber ya no sea protegerla, sino detenerla.
+
+### Descripción Física y Equipamiento
+
+Grokk es un testamento viviente de su nombre y su raza. Un Goliath imponente que roza los dos metros y medio de altura, con una musculatura densa como la roca de la que proviene su clan. Su piel es de un gris pétreo, marcada no solo por los patrones tribales de su juventud, sino por una red de finas cicatrices violáceas que brillan débilmente en la penumbra, recuerdo permanente de su encuentro con el horror del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. Su cabeza está rapada, y su rostro, normalmente una máscara de estoica calma, está dominado por unos ojos oscuros y vigilantes que han visto demasiado.
+
+No lleva las galas de un [[Lithernia/04_Clases/Guerrero\|Guerrero]] de renombre, sino el equipo práctico y desgastado de un [[Lithernia/05_Trasfondos/Cazador\|Cazador]] de pesadillas.
+
+*   **Armadura del Guardián:** Un conjunto de placas de acero oscurecido, abolladas y arañadas, superpuestas sobre cuero endurecido de bestia corrupta. La armadura está reforzada con vetas de plata y hierro frío, metales que, según los sabios del Círculo, perturban las energías del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. No busca la belleza, sino la máxima funcionalidad y resistencia.
+*   **"Rompecicatrices":** Su arma es un gigantesco martillo de guerra de dos manos, con una cabeza de hierro macizo grabada con [[Lithernia/06_Magia/Runas\|Runas]] de contención. No es un arma elegante, sino una herramienta brutal diseñada para un solo fin: aplastar y destruir las manifestaciones físicas de la corrupción. El mango de fresno está envuelto en cuero gastado, perfectamente amoldado a sus manos.
+*   **Equipo del Círculo:** Colgando de su cinturón lleva varias bolsas de cuero que contienen bálsamos alquímicos para tratar heridas corruptas, cadenas de hierro frío, y viales con polvo de cristal purificado. En su cuello, bajo la armadura, lleva el símbolo del Círculo: un fragmento de amatista oscura en una cadena de acero, un recordatorio constante de su juramento.
+
+### Legado e Impacto en Lithernia
+
+Grokk Stonehide nunca será cantado por los bardos en las grandes cortes de [[Lithernia/02_Reinos/Galvorn\|Galvorn]] o [[Lithernia/02_Reinos/Eldrador\|Eldrador]]. Su nombre no figurará en las crónicas de los reyes de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Su legado es silencioso, invisible para la mayoría de Lithernia, pero no por ello menos crucial. Él es el muro de carne y hueso que se interpone entre los reinos de la luz y las pesadillas que supuran de las heridas del mundo.
+
+Su impacto se mide en las aldeas que no fueron aniquiladas, en los bosques que no se pudrieron desde la raíz y en los viajeros que cruzaron un paso de montaña sin saber que una abominación acechaba en él hasta que Grokk la eliminó. Es el eco silencioso de un deber cumplido en la oscuridad, un símbolo del pragmatismo extremo del Círculo del Eco Púrpura.
+
+Para aquellos que lo conocen, Grokk es la encarnación de la voluntad inquebrantable. Para sus enemigos, como los nigromantes del Clan Whisper que buscan explotar las cicatrices del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], es un obstáculo implacable. Su verdadero legado, sin embargo, aún está por escribirse. Dependerá de su capacidad para mantener la línea, no solo contra los monstruos de fuera, sino también contra la oscuridad que amenaza con florecer desde dentro de su propio Círculo a través de las manos de Elara. Grokk Stonehide es la prueba viviente de que los mayores héroes de Lithernia no son siempre los que portan una corona, sino los que cargan con el peso de las cicatrices del mundo.

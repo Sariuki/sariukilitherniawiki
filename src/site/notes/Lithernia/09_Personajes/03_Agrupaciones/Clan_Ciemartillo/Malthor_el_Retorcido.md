@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/clan-ciemartillo/malthor-el-retorcido/","tags":["lithernia","personajes","clan","enano","chamán","Mor'dhul","Valtoria","exiliado"]}
+---
+
+# Malthor el Retorcido
+
+### Biografía
+
+En los anales de la traición enana, pocos nombres resuenan con la ponzoña silenciosa de Malthor, el susurrante arquitecto del Clan Ciemartillo. No es un [[Lithernia/04_Clases/Guerrero\|Guerrero]] de renombre ni un señor de la guerra, sino una plaga ideológica; un chamán que retorció el alma de su pueblo hasta hacerla irreconocible.
+
+Nacido como Malthor de la Casa Dravonis en la orgullosa [[Lithernia/02_Reinos/Valtoria\|Valtoria]], su juventud estuvo marcada por una profunda frustración. Mientras sus hermanos aprendían los cantos de la forja en honor a [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]] y la solidez de la piedra de [[Lithernia/09_Personajes/01_Dioses/Cirkon\|Cirkon]], Malthor veía estancamiento. Observaba con desprecio cómo la sabiduría de la Torre de las Estrellas se abría a otras razas, cómo los [[Lithernia/03_Razas/Gnomos\|Gnomos]] con sus artilugios ganaban favor y cómo la diplomacia con los elfos de [[Lithernia/02_Reinos/Eldrador\|Eldrador]] "debilitaba" la pureza enana. Para él, la tradición era una cadena y la quietud de la montaña, una tumba.
+
+Su herejía comenzó en los archivos prohibidos de la Torre, donde estudiaba las dualidades del panteón enano. Se obsesionó con [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], el dios de la destrucción. Mientras los clérigos tradicionales lo veían como una parte necesaria del ciclo de creación, Malthor vio la verdad última: el poder no reside en lo que se construye, sino en lo que se puede deshacer. Empezó a predicar esta nueva fe en las sombras, atrayendo a otros [[Lithernia/03_Razas/Enanos\|Enanos]] descontentos y resentidos, los que más tarde serían conocidos como los 'Cazadores de Sombras'.
+
+Su verdadero punto de inflexión, sin embargo, ocurrió en secreto. En sus rituales para contactar con [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], sus plegarias de destrucción y poder fueron respondidas, pero no por el dios enano. Una conciencia distinta, antigua y sádica, se filtró a través de las grietas de su fe. Era [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]], el Dios del Dolor de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], quien vio en la amargura de Malthor un recipiente perfecto. [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]] le enseñó que la destrucción era solo un medio; el verdadero poder emanaba del sufrimiento infligido. La piedra no debía ser solo rota, debía *sentir* el golpe.
+
+Cuando la purga de los Cazadores de Sombras se desató en [[Lithernia/02_Reinos/Valtoria\|Valtoria]], Malthor ya era un devoto converso de [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]]. Utilizó el caos para cimentar su posición, guiando al brutal Grakull y a los demás exiliados hacia las Cumbres Resquebrajadas. Fue Malthor quien propuso el nombre "Ciemartillo", un insulto directo a los clanes forjadores. Fue él quien diseñó el blasfemo escudo del clan y quien eligió a [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] como la cara pública de su culto, ocultando la verdadera y macabra naturaleza de sus rituales de dolor.
+
+Hoy, Malthor es el poder en la sombra detrás del trono de Grakull. Como Consejero Jefe, alimenta la paranoia de su líder con visiones de traición y susurros de debilidad, asegurando que Grakull nunca confíe en nadie más que en él. Desde la fortaleza de 'Las Minas Cicatriz', Malthor dirige los rituales secretos que corrompen las vetas de mineral, no para forjar armas, sino para imbuirlas con la esencia del tormento. Su alianza con los seguidores de [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]] en [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] es el secreto mejor guardado del clan, un pacto que les proporciona magia prohibida y conocimiento oscuro a cambio de sacrificios y tributos de agonía. Su ambición no es meramente gobernar un clan de exiliados, sino transformar la esencia misma de la raza enana, forjando un nuevo orden basado en el miedo y el dolor, una [[Lithernia/02_Reinos/Valtoria\|Valtoria]] oscura a imagen y semejanza de su retorcido corazón.
+
+### Descripción Física y Equipamiento
+
+Malthor es la encarnación física de su fe corrupta. A sus 280 años, la magia de las sombras lo ha encorvado y desgastado, dándole una silueta asimétrica y frágil que oculta una terrible resiliencia. Su piel tiene la palidez cerúlea de una roca magullada, surcada por venas oscuras que parecen palpitar con una luz enfermiza. Sus ojos, hundidos y pequeños, no reflejan la luz, sino que parecen absorberla, dejando solo dos puntos de malicia inteligente. Su barba, otrora un orgullo enano, es ahora un nido enmarañado de trenzas desiguales, entre las que ha tejido pequeños fetiches de hueso y fragmentos de obsidiana pulidos por el sufrimiento.
+
+Viste túnicas raídas de un color negro hollín, remendadas con cuero de [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] cazadas en las Cumbres Resquebrajadas. No lleva la armadura pesada de sus compatriotas, prefiriendo la movilidad y el sigilo. Su equipamiento es más el de un [[Lithernia/04_Clases/Sacerdote\|Sacerdote]] oscuro que el de un chamán de la montaña:
+
+*   **Báculo de la Agonía Pétrea:** Una vara de madera de espino petrificada, retorcida como si hubiera muerto en un tormento silencioso. Está coronada por un cristal de cuarzo oscuro que pulsa con un tenue brillo rojo cuando canaliza el poder de [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]].
+*   **Daga Ritual de Sacrificios:** Una hoja corta y cruel de hierro frío, sin adornos, utilizada exclusivamente para los rituales de sangre que exige su dios secreto.
+*   **Tomo de los Lamentos:** Un grimorio encuadernado en piel de origen incierto, donde Malthor anota sus interpretaciones heréticas de las [[Lithernia/06_Magia/Runas\|Runas]] y los efectos de sus experimentos con la magia del dolor.
+*   **Bolsa de Componentes:** En lugar de hierbas y musgos, la bolsa de Malthor contiene polvo de hueso, fragmentos de metal extraídos de armas rotas en batalla y "piedras de dolor", geodas que, según él, almacenan los ecos del sufrimiento de la tierra.
+
+### Legado e Impacto en Lithernia
+
+Malthor el Retorcido representa una de las mayores amenazas internas para el orden de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] y un peligroso catalizador en la política de los reinos independientes. No es un simple líder rebelde; es el profeta de una nueva y terrible fe enana. Su verdadero impacto no se mide en batallas ganadas, sino en la corrupción que siembra.
+
+Su legado será la creación del Clan Ciemartillo como una entidad política y religiosa coherente, una "anti-[[Lithernia/02_Reinos/Valtoria\|Valtoria]]" que podría atraer a más descontentos de otros reinos. Al fusionar la herética adoración de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] con el culto al dolor de [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]], está creando un sincretismo oscuro que tiene el potencial de extenderse más allá de los [[Lithernia/03_Razas/Enanos\|Enanos]], ofreciendo poder a todos aquellos consumidos por el resentimiento y la ambición.
+
+Si Malthor tiene éxito, no solo fundará un reino de terror en las montañas, sino que demostrará que ni la tradición más sólida ni el honor más profundo son inmunes a ser retorcidos y convertidos en armas. Sería la prueba viviente de que la sombra de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] puede extenderse no solo por conquista, sino también pudriendo desde dentro el corazón de sus enemigos.

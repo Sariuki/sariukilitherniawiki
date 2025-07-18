@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-kaeldros/gromnir-kaeldros/","tags":["lithernia","personajes","Casa Kaeldros","Valtoria","Enano"]}
+---
+
+# Gromnir Kaeldros
+
+## Biografía
+
+En los salones de piedra de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], donde el martillo de [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]] resuena como el latido del mundo, la Casa Kaeldros es una disonancia, un himno al poder del fin. Gromnir Kaeldros es el compositor de esa sinfonía de fuego y sombra. Nacido como el segundo hijo de la casa, Gromnir fue criado no a la luz de la forja tradicional, sino al calor abrasador de los ríos de magma que su familia había aprendido a dominar. Mientras su hermano mayor, Borin, era instruido en los laberintos de la política y la diplomacia para defender su anómala fe en el Concilio de la Montaña, Gromnir encontraba su devoción en el corazón del volcán.
+
+Desde joven, vio lo que otros [[Lithernia/03_Razas/Enanos\|Enanos]] temían: la belleza en la furia controlada, el orden en el caos primordial. Para él, [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] el Destructor no era un dios de finales arbitrarios, sino el gran purificador, cuya fuerza era esencial para barrer lo viejo y corrupto, dejando un lienzo de piedra virgen sobre el cual se podría forjar algo más fuerte. Esta convicción lo convirtió en el discípulo más ferviente de la 'obsidianurgia', el arte prohibido y legendario de forjar armas directamente del magma canalizado.
+
+Su obra maestra temprana, el hacha de guerra *Corazón de Ceniza*, regalada a su hermano Borin, no solo era un arma de poder inmenso, sino una declaración política. Sus filos de obsidiana, capaces de cortar acero como si fuera tela, demostraron al Concilio que el poder de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]], bien encauzado, era un activo incalculable para [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Gromnir ha sido el artífice de las demoliciones controladas más audaces, abriendo vetas de mithril y adamantita que habían permanecido inaccesibles durante siglos, silenciando a sus críticos con resultados innegables.
+
+Pero la ambición de Gromnir trasciende la forja. Cree con fervor que la división entre los seguidores de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] —su casa, que opera dentro del sistema, y el exiliado Clan Agrietacero, que abraza el fanatismo— es una herida autoinfligida en el alma del pueblo enano. Mantiene una correspondencia secreta y peligrosa con los líderes del clan exiliado, buscando un terreno común, un entendimiento que pueda reunificar su fe y fortalecer a su raza contra las amenazas externas. Aún más peligrosa es su alianza pragmática con el Clan Ironclaw de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. A través de túneles ocultos, intercambia sus incomparables armas de obsidiana por minerales volcánicos exóticos e información vital sobre los movimientos de los reinos oscuros, una traición que, de ser descubierta, podría sumir a [[Lithernia/02_Reinos/Valtoria\|Valtoria]] en una guerra civil. Gromnir camina sobre un filo de navaja, equilibrando la lealtad a su casa, su fe herética y los pactos oscuros que cree necesarios para asegurar la permanencia que su lema promete.
+
+## Descripción Física y Equipamiento
+
+Gromnir es la personificación de su oficio. Es un enano de complexión poderosa, con hombros anchos como un dintel de granito y brazos cubiertos de intrincados tatuajes rúnicos que parecen moverse bajo la piel a la luz del fuego. Su barba, de un negro profundo como la obsidiana, está trenzada con hilos de oro y finas cadenas de basalto, y las puntas están perpetuamente chamuscadas por el calor de la forja. Sus manos son un mapa de cicatrices y callos, pero se mueven con la precisión de un maestro artesano. Sus ojos, de un gris acerado, arden con una inteligencia feroz y una luz interior que evoca las brasas de un volcán a punto de despertar.
+
+En su taller, viste un mandil de cuero de draco, curtido para resistir el calor extremo, y guanteletes de hierro negro que llegan hasta sus codos. Cuando debe presentarse ante el Concilio o marchar a la batalla, viste una armadura de placas de obsidiana negra pulida, con [[Lithernia/06_Magia/Runas\|Runas]] de contención que brillan con un tenue resplandor carmesí, canalizando el calor de su cuerpo.
+
+Su arma personal es **Rompedora de Mundos**, un colosal martillo de guerra cuya cabeza es un único bloque de obsidiana perfectamente facetado, montado sobre un mango de fresno petrificado. Se dice que el martillo aún contiene el calor latente del volcán donde fue forjado y que, al golpear, no solo aplasta, sino que libera una onda de choque de energía telúrica.
+
+## Legado e Impacto en Lithernia
+
+Gromnir Kaeldros no es solo un maestro herrero; es una fuerza de cambio latente en el corazón de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Su legado será el de un reformador o el de un traidor. Si logra unificar a los devotos de [[Lithernia/09_Personajes/01_Dioses/Valarios\|Valarios]] y demostrar el valor de la destrucción controlada, podría transformar para siempre la teología y la sociedad enana, creando una nueva era de pragmatismo y poder. Sus armas de obsidiana ya son [[Lithernia/09_Personajes/Leyendas\|Leyendas]] susurradas en los ejércitos de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] y en las salas de armas de [[Lithernia/02_Reinos/Galvorn\|Galvorn]], extendiendo la oscura fama de su casa más allá de las montañas.
+
+Sin embargo, si sus pactos secretos son revelados, podría ser la chispa que encienda una guerra devastadora, arrastrando a su casa a la ruina y fracturando el reino enano desde dentro. En el gran tapiz de Lithernia, Gromnir representa la peligrosa pero necesaria dualidad de la creación y la destrucción, un enano que busca forjar un futuro duradero utilizando el fuego que amenaza con consumirlo todo.

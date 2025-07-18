@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/eldrin-martelar/","title":"Eldrin Martelar","tags":["lithernia","personaje","enano","Artifice","Valtoria"]}
+---
+
+Eldrin Martelar es un enano de complexión robusta y presencia imponente, típico de su raza pero fácilmente reconocible por la ornamentación integral de su brazo prostético de hierro dorado, obra de su propia invención. Su barba densa y cuidadosamente trenzada, adornada con filigranas de plata, le da un aire de sabiduría y dignidad cortesana. Sus ojos de un cálido color ámbar, a menudo rebosantes de un brillo similar al de un faro, parecen reflejar el fuego de la fragua que nunca dejó atrás, así como sus eternos sueños por forjar el futuro.
+
+Vestido con las ropas tradicionales de los gremios artesanales de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Lenyra\|Lenyra]], lleva siempre consigo un martillo de [[Lithernia/11_Recetas/Herreria\|Herreria]] ceremonial, que ha sido su [[Lithernia/05_Trasfondos/Noble\|Noble]] símbolo desde que tomó las riendas del Gremio de Forjadores. Quienes lo conocen lo definen como un hombre riguroso pero justo, devoto de la tradición enana pero con el corazón abierto a innovaciones mágicas y tecnológicas que puedan proteger su reino contra las fuerzas adversas. Sonriente en ocasiones, pero siempre serio en sus responsabilidades, Eldrin representa el vigor y la esperanza del "Kingdom of [[Lithernia/02_Reinos/Valtoria\|Valtoria]]" ante la amenaza de la gran guerra persistente.
+
+El maestro artífice es asimismo una figura diplomática relevante, mediando entre distintos gremios, nobles y autoridades. Consumado maestro del diseño y fabricación de artefactos mágicos y de ingeniería arcana, es considerado un aliado indispensable tanto por la reina Valeria Bronzebrillo como por el archimago Thalios Estrella Antigua. A menudo se le invita a las reuniones del Concilio de la Montaña para aportar consejo técnico con la sabiduría de un artesano que conoce el cincel, el hechizo y la política.
+
+Eldrin alberga un razonable temor al caos social y a la posible pérdida de saberes artísticos ancestrales que han protegido a los [[Lithernia/03_Razas/Enanos\|Enanos]] durante siglos. Está vigilante ante los Cazadores de Sombras que buscan subvertir las tradiciones del reino, y no duda en enviar expediciones para defender las rutas mineras de bandas de saqueadores y cultistas secretos.
+
+Esta combinación de artesano, líder y protector le da una presencia rica en potencial narrativo para campañas. Podría aliarse con aventureros buscando proteger [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Lenyra\|Lenyra]] de amenazas ocultas o conspiraciones, enseñarles técnicas de creación a magos o guerreros interesados en armas

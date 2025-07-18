@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-vulkoris/grom-vulkoris/","tags":["lithernia","personajes","casa vulk'oris","enano","Valarion","Guerrero","comandante"]}
+---
+
+# Grom Vulk'oris
+
+### Biografía
+
+Grom Vulk'oris no es un enano común, pues nació del exilio y la contradicción. Es el Comandante de la Guardia del Yunque de la Casa Vulk'oris, un pilar de la fuerza marcial en una casa que fundamenta su poder en artes que él mismo desprecia. Nacido en la ciudad-fortaleza de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]], en las inhóspitas Cumbres Resquebrajadas, Grom creció escuchando dos relatos opuestos: la gloria de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], el reino ancestral que expulsó a sus antepasados, y la leyenda de su fundador, Kael 'El [[Lithernia/05_Trasfondos/Forjador\|Forjador]] de Sombras', el hereje que transformó la desesperación en poder.
+
+Desde joven, Grom mostró una afinidad innata no por los susurros de las sombras que su casa había aprendido a infundir en el acero, sino por la pureza del metal mismo. Mientras su prima Lyra se sumergía en los rituales oscuros para crear armas que herían el alma, Grom pasaba horas en las forjas inferiores, aprendiendo el lenguaje del martillo y el yunque, dominando las técnicas tradicionales que hicieron legendarios a los herreros de [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Para él, la fuerza de un enano reside en la solidez de su brazo, la integridad de su juramento y la perfección de su artesanía, no en atajos arcanos ni en pactos con las energías corruptas de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]].
+
+Su ascenso a Comandante no fue por linaje, sino por hazañas forjadas en el campo de batalla. Lideró la defensa de las murallas de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]] contra una bestia desgarradora surgida de los páramos, abatiéndola no con acero imbuido de sombras, sino con un martillo de guerra de factura impecable y una estrategia implacable. Repelió incursiones del Clan Nighthawk, cuyos ilusionistas [[Lithernia/03_Razas/Hobgoblins\|Hobgoblins]] encontraron sus trucos inútiles contra la disciplina férrea de la falange de Grom. Cada victoria era una declaración silenciosa: la Casa Vulk'oris no necesitaba la magia oscura para ser fuerte.
+
+Esta filosofía lo pone en un rumbo de colisión constante dentro de su propia casa. Es ferozmente leal a su tío, Lord Malakor, el pragmático líder que equilibra las dos almas de la casa. Cumple sus órdenes sin dudar, pues el deber del clan es sagrado. Sin embargo, sus enfrentamientos con su prima Lyra son legendarios en los salones de [[Lithernia/02_Reinos/Ciudad-estado_independiente/Valarion\|Valarion]]. Ve en su ambición y su fascinación por el poder de las sombras una traición a la verdadera esencia enana, una debilidad disfrazada de poder que, tarde o temprano, consumirá a la casa desde dentro. Grom lucha por un futuro en el que el nombre Vulk'oris sea sinónimo de la mejor herrería de Lithernia, libre de la mancha de la hechicería que los condenó al exilio.
+
+### Descripción Física y Equipamiento
+
+Grom es la encarnación de una montaña. De complexión ancha y poderosa, incluso para un enano, su cuerpo es un testimonio de décadas de entrenamiento y combate. Su piel tiene el tono pálido de quienes viven bajo tierra, pero está cubierta de un mapa de cicatrices y quemaduras de forja. Su barba, de un negro profundo, cae en dos trenzas gruesas hasta su cintura, sujetas con sencillos anillos de hierro sin pulir, un desafío a la opulencia de otras casas. Sus ojos, del color del granito, brillan con una mezcla de orgullo indomable y un resentimiento apenas contenido.
+
+**Equipamiento Relevante:**
+
+*   **La Égida del Yunque:** Su armadura de placas completa. Forjada por él mismo con el acero volcánico único de la casa, es una obra maestra de artesanía defensiva. A diferencia de las creaciones de su prima, la Égida está desprovista de cualquier encantamiento sombrío. Su poder reside en su diseño perfecto y en la pureza del metal, capaz de desviar golpes que quebrarían armaduras menores. Las placas están grabadas con [[Lithernia/06_Magia/Runas\|Runas]] enanas tradicionales de protección y resistencia, un homenaje a la herencia que se niega a olvidar.
+*   **Rompejuramentos:** Un colosal martillo de guerra a dos manos, su compañero inseparable. Su cabeza, de acero oscuro y denso, fue forjada en el corazón del Volcán del Yunque Roto, pero templada únicamente con agua de manantiales subterráneos, rechazando los rituales de sombras. El mango de fresno petrificado está envuelto en cuero de basilisco. El nombre del arma es un recordatorio personal de lo que él considera el juramento roto por su fundador: el de la pureza de la forja.
+*   **Sello del Comandante:** Un broche de obsidiana que sujeta su capa, tallado con el emblema de la casa. Es el único símbolo de su rango que porta, pues desprecia la ornamentación innecesaria.
+
+### Legado e Impacto en Lithernia
+
+Grom Vulk'oris representa una fractura ideológica en el corazón de una de las casas más pragmáticas y peligrosas de las tierras fronterizas. Para la Casa Vulk'oris, es el ancla que les impide ser completamente consumidos por las influencias de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Lidera una facción no declarada de tradicionalistas que, aunque minoritaria, conforma el núcleo de la fuerza militar de la casa. Su destino decidirá si los Vulk'oris se redimen a ojos de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] o se hunden por completo en la oscuridad que les dio poder.
+
+Para el resto de Lithernia, Grom es una anomalía. Los Dravonis de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] lo ven con una mezcla de desprecio por su linaje y un respeto a regañadientes por su habilidad y sus valores. El Clan Ironclaw, su aliado orco, valora su fuerza directa pero no comprende su aversión a usar todas las armas a su disposición. Es un [[Lithernia/04_Clases/Guerrero\|Guerrero]] honorable de una casa deshonrada, un conservador en una familia de herejes. Si alguna vez se rompiera el precario equilibrio de poder en las Cumbres Resquebrajadas, Grom Vulk'oris podría ser la chispa que inicie una guerra civil o, quizás, el puente inesperado que reconcilie a los exiliados con su pasado perdido.

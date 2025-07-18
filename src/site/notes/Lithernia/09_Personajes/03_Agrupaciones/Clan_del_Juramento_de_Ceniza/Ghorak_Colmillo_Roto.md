@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/clan-del-juramento-de-ceniza/ghorak-colmillo-roto/","tags":["[lithernia","personajes","Clan","Mor'dhul","orco","Guerrero"]}
+---
+
+# Ghorak Colmillo Roto
+
+### Biografía
+
+En los páramos desolados de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]], donde la lealtad es un bien más escaso que el agua limpia, la figura de Ghorak Colmillo Roto se alza como un monolito de fuerza bruta y devoción inquebrantable. Es el Puño de Ceniza, el jefe de guerra del Clan del Juramento de Ceniza, el brazo ejecutor de una voluntad forjada en la ruina y el pragmatismo. Su historia no es la de un linaje [[Lithernia/05_Trasfondos/Noble\|Noble]], sino la de un superviviente que encontró un propósito entre los escombros de un mundo roto.
+
+Ghorak es un eco del Cataclismo del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]]. Su clan original, los Roca-Afilada, fue una de las innumerables facciones orcas borradas del mapa durante las guerras que siguieron a la caída del Primer Rey. Siendo apenas un joven, fue encontrado por Vex el Silente, el fundador del Juramento de Ceniza, vagando entre los cadáveres calcinados de su gente. Vex no le ofreció consuelo ni piedad, sino una verdad tan dura como la obsidiana de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]: los dioses son caprichosos y los reyes, tiranos. El único refugio es el clan, y la única ley, la supervivencia.
+
+En sus primeros años, Ghorak era la encarnación del arquetipo orco: impaciente, orgulloso y convencido de que cualquier problema podía resolverse con la fuerza suficiente. Su apodo, "Colmillo Roto", lo ganó en un duelo imprudente contra un hobgoblin veterano del clan, una derrota humillante que le enseñó que la astucia puede quebrar el acero más resistente. Esta lección, sin embargo, tardó en arraigar.
+
+El punto de inflexión en su vida fue su motín fallido. Creyendo que el liderazgo de Vrak, el sucesor de Vex, era demasiado cauteloso y dependiente de espías y susurros, Ghorak lo desafió abiertamente. Reunió a los guerreros más belicosos y exigió una campaña de conquista directa, un camino de sangre y gloria. La rebelión fue aplastada no por la fuerza, sino por la estrategia. Vrak anticipó cada uno de sus movimientos, aislando a sus seguidores y dejándolo solo y derrotado. En lugar de ejecutarlo, Vrak le perdonó la vida, viendo en su pasión una lealtad mal encauzada. "Tu fuerza es el martillo del clan, Ghorak", le dijo. "Pero un martillo sin un herrero que lo guíe solo destruye sin propósito".
+
+Desde ese día, Ghorak se convirtió en el servidor más leal de Vrak. Aceptó su rol como el Puño de Ceniza: el músculo que ejecuta las órdenes de la mente del clan. Aunque sigue despreciando las intrigas de las estrategas como Lyra y Zaelis, a quienes considera "víboras", obedece sus planes con una disciplina férrea, pues su fe no está en sus métodos, sino en el juicio de Vrak. Ahora, lidera las incursiones del clan en ruinas pre-[[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], supervisa a sus vasallos goblin con un puño de hierro y es la cara aterradora que el clan presenta a sus rivales, un recordatorio viviente de que, tras los espías y los secretos, hay una fuerza implacable lista para aplastar a quienes se interpongan en su camino.
+
+### Descripción Física y Equipamiento
+
+Ghorak es un orco imponente, cuya masa de músculos y cicatrices cuenta la historia de una vida de violencia. Mide más de dos metros y su piel, de un tono verde grisáceo, está curtida por el sol inclemente de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] y el hollín de [[Lithernia/02_Reinos/Kingdom_of_Mordhul/Thirawen\|Thirawen]]. Su rostro está dominado por una mandíbula poderosa, de la que sobresale un único colmillo intacto; el otro, que le da su nombre, es un muñón dentado, recuerdo perpetuo de su antigua arrogancia. Sus ojos, pequeños y oscuros, arden con una inteligencia brutal y una lealtad fanática.
+
+No viste las ostentosas armaduras de los clanes nobles. Su protección es un conjunto de placas de acero oscuro, heterogéneo y funcional, rescatado de antiguos campos de batalla y reforzado en las forjas del clan. Sobre el peto, grabado a mano, luce el símbolo del Juramento: un fénix de obsidiana, tan roto y renacido como él.
+
+Su arma es tan directa como su filosofía. Blande a **"Rompehuesos"**, un descomunal martillo de guerra de dos manos, cuya cabeza de metal ennegrecido fue forjada a partir de un meteorito encontrado en las profundidades de una ruina de la Era del Primer Rey. El arma no tiene adornos ni [[Lithernia/06_Magia/Runas\|Runas]] elegantes; su única función es aplastar, y Ghorak es un maestro en su uso.
+
+### Legado e Impacto en Lithernia
+
+Ghorak Colmillo Roto nunca se sentará en el trono de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]] ni será recordado en las grandes crónicas de los eruditos de [[Lithernia/02_Reinos/Eldrador\|Eldrador]]. Su legado es más crudo y terrenal. Para el mundo exterior, es la personificación de la amenaza que representa el Juramento de Ceniza: la prueba de que los parias de Lithernia, unidos por un propósito, pueden ser tan peligrosos como cualquier casa [[Lithernia/05_Trasfondos/Noble\|Noble]]. Es el terror que mantiene a raya al sádico Clan [[Lithernia/09_Personajes/01_Dioses/Kromagul\|Kromagul]] y el músculo que da credibilidad a los contratos del clan en el despiadado mercado de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]].
+
+Dentro del clan, Ghorak es un pilar de estabilidad. Representa la lealtad forjada en el perdón y la fuerza atemperada por la disciplina. Es el puente entre la naturaleza guerrera de muchos de sus miembros y las estrategias sutiles de su liderazgo. Mientras Vrak sea la mente del clan, Ghorak será su puño, y su historia servirá como una advertencia y una inspiración para todos los que juran por la ceniza: que incluso un colmillo roto puede ser el arma más afilada si sirve a una causa mayor que uno mismo. Su destino está inexorablemente ligado al del clan: si el fénix de obsidiana se eleva, Ghorak será el ala de la tormenta que lo impulse; si cae, será el último en estrellarse contra el suelo, llevándose consigo a tantos enemigos como sea posible.

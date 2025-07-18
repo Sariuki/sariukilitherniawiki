@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/casa-temporis/borin-manorrotas/","tags":["[lithernia","personaje","Casa Temporis","enano","Forjador"]}
+---
+
+# Borin 'Manorrotas'
+
+### Biografía
+
+En los anales de la artesanía de Lithernia, pocos nombres resuenan con la mezcla de asombro y controversia que evoca Borin 'Manorrotas'. No es un señor de la guerra ni un rey, sino un maestro [[Lithernia/05_Trasfondos/Forjador\|Forjador]] enano cuya vida es un testimonio de lealtad, innovación y el doloroso peso del exilio cultural. Nacido en una pequeña avanzada minera de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], su linaje se perdió en el polvo y el estruendo de un derrumbe provocado por las incursiones de [[Lithernia/07_Bestias_Monstruos/Bestias\|Lithernia/07_Bestias_Monstruos/Bestias]] de [[Lithernia/02_Reinos/Mor'dhul\|Mor'dhul]]. Huérfano y solo, el joven Borin fue encontrado por una caravana gnomo liderada por el mismísimo Kaelen 'Tic-Tac' Temporis, el fundador de la casa homónima.
+
+Criado en la ciudad de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Cyndril\|Cyndril]], un bastión de innovación paciente, Borin creció entre el tictac de engranajes y el aroma de aceites alquímicos, un entorno ajeno a la piedra y la tradición de sus ancestros. Su gratitud hacia Kaelen, que se convirtió en su mentor y figura paterna, era tan sólida como el granito de las montañas que apenas recordaba. En los talleres de la Casa Temporis, el talento innato de Borin para la metalurgia floreció de forma espectacular. Mientras los [[Lithernia/03_Razas/Gnomos\|Gnomos]] diseñaban con una genialidad caótica, Borin aportaba la paciencia y la perfección metódica de su sangre enana. Su apodo, 'Manorrotas', no nació de la torpeza, sino de su obsesión: se decía que rompía una docena de martillos y tenazas por cada pieza que consideraba "casi perfecta", pues su estándar era la impecabilidad absoluta.
+
+Su hazaña más legendaria es la forja de los "Filamentos del Destino", una serie de cables de mithril y alma de diamante, más finos que un cabello pero capaces de soportar tensiones arcanas que habían fundido cualquier otro material. Esta creación fue el avance crucial que permitió a la Casa Temporis reanudar el trabajo en su obra magna: el **Oráculo Mecánico**. Para Borin, este autómata no es solo un proyecto; es el monumento a la familia que lo salvó, una catedral de metal y lógica dedicada a la visión de su padre adoptivo.
+
+Sin embargo, su éxito ha tenido un alto precio. Los 'Canteros Silenciosos', una facción de [[Lithernia/03_Razas/Enanos\|Enanos]] tradicionalistas asentados en [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Cyndril\|Cyndril]] y con fuertes lazos con [[Lithernia/02_Reinos/Valtoria\|Valtoria]], ven a Borin como un traidor. Consideran que su trabajo para los Temporis es una blasfemia, un intento de arrancar los secretos del tiempo y el destino, dominios que pertenecen a los dioses como [[Lithernia/09_Personajes/01_Dioses/Rokael\|Rokael]] y a los ciclos de la tierra, no a un mecanismo de relojería. La presión es constante y sutil: miradas de desaprobación en el mercado, el silencio pétreo cuando entra en una taberna enana, y ofertas veladas para que "vuelva a casa" y ponga su talento al servicio de clanes como los Bronzebrillo o los Dravonis. Borin vive en una encrucijada emocional: su corazón late con la lealtad de un hijo agradecido, pero su alma siente el anhelo de la aceptación de su propio pueblo.
+
+### Descripción Física y Equipamiento
+
+Borin es la encarnación de la fortaleza enana: ancho de hombros, de constitución robusta y con una barba castaña oscura, meticulosamente trenzada y sujeta con abrazaderas de cobre que él mismo forjó. Sin embargo, a diferencia de los guerreros de su raza, sus manos, aunque cubiertas de cicatrices de quemaduras y cortes, son sorprendentemente ágiles y precisas. Sus ojos, de un profundo color topacio, tienen la intensidad de quien ha pasado décadas observando detalles microscópicos a través de lentes de aumento.
+
+Viste un delantal de cuero de draco, resistente al fuego y a los ácidos, sobre ropas de trabajo sencillas pero de una calidad excepcional. De su cinturón cuelgan herramientas únicas, una amalgama de diseño gnomo y artesanía enana: calibradores con [[Lithernia/06_Magia/Runas\|Runas]] de precisión, lupas con cristales encantados y pequeños martillos de pesos y aleaciones diversas.
+
+Su única arma es también su herramienta más preciada: **"Precisión"**, un martillo de forja con una cabeza de acero valtoriano y un mango de roble petrificado, inscrito con los símbolos de la Casa Temporis en un lado y una olvidada runa enana de "recuerdo" en el otro. No es un arma de guerra, pero en sus manos, podría derribar un muro de piedra o a un hombre con igual facilidad.
+
+### Legado e Impacto en Lithernia
+
+El destino de Borin 'Manorrotas' está inextricablemente ligado al del Oráculo Mecánico. Si la colosal máquina de la Casa Temporis tiene éxito y logra predecir el futuro con exactitud matemática, Borin será aclamado como un visionario, el enano que trascendió las tradiciones de la piedra para ayudar a los mortales a dominar el tiempo mismo. Su historia se convertiría en un símbolo de la unidad entre razas y la fusión de la magia y la ciencia.
+
+Sin embargo, si el Oráculo falla o, peor aún, desata una catástrofe al interferir con las hebras del destino, Borin será recordado como una figura trágica. Sería el paria que le dio la espalda a su herencia por un sueño arrogante, un enano cuyas manos legendarias forjaron la ruina. Su vida plantea una pregunta fundamental para la era actual de Lithernia: ¿debe el futuro descubrirse a través de la fe y la profecía, o puede ser construido, medido y descifrado como un gran mecanismo? La respuesta, quizás, se está forjando en el yunque de Borin.

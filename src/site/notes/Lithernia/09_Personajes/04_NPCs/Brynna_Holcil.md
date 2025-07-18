@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/brynna-holcil/","title":"Brynna Holcil","tags":["lithernia","personaje","enano","Ocrignongen"]}
+---
+
+Brynna Holcil es una enana de estatura media pero de una presencia imponente en el subsuelo de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Ocrignongen\|Ocrignongen]]. Su melena gris platinado está trenzada minuciosamente y adornada con pequeños fragmentos de rocas preciosas que reflejan los tenues destellos de las profundidades. Sus ojos, color esmeralda oscuro, parecen escudriñar en las sombras más densas, capaces de detectar la más mínima vibración en el aire.
+
+Suele vestir con ropajes de cuero reforzados, especialmente hechos para resistir las rígidas condiciones del trabajo bajo tierra, con un cinturón repleto de herramientas únicas diseñadas por ella misma. Siempre lleva colgado un pequeño medallón en forma de gema tallada, testimonio de un nudo de líneas de maná antiguo que ella descubrió y que sirve para proteger un sector minero fundamental de pagarse en la ciudad.
+
+Como ingeniera y geóloga, Brynna es responsable de diseñar nuevos métodos para que las minas de [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Ocrignongen\|Ocrignongen]] se mantengan seguras y se preserven en el equilibrio con la naturaleza agradecida bajo [[Lithernia/02_Reinos/Valtoria\|Valtoria]]. Aunque suele mantenerse seria y reservada, en sus ratos libres es conocida por compartir historias encantadoras en las tabernas subterráneas, entre sorbos de cerveza negra enriquecida con especias de las montañas.
+
+Alguien una vez dijo que era imposible sacarla de un problema bajo tierra: si una explosión había bloqueado un pasaje, Brynna encontrará un nuevo camino; si un cristal ancestral mostraba signos de debilidad, ella interpretaría sus rayos para quintuplicar su resistencia. Pero también es consciente de que su mundo puede destruirse con un simple error, y la amenaza constante de la influencia de los "Cazadores de Sombras" la mantiene siempre alerta, trabajando en secreto para frustrar sus planes de embrutecimiento y daño en el rico patrimonio minero.
+
+Brynna puede ser el punto de contacto para cualquier grupo que busque recorrido en las minas, información sobre reliquias valtorianas ocultas o incluso encargos únicos de excavar para descubrir secretos ancestrales ocultos bajo la imponente montaña. Su corazón late con el orgullo enano y determinación férrea, haciendo que nunca se rinda, y siempre esté dispuesta a defender [[Lithernia/02_Reinos/Kingdom_of_Valtoria/Ocrignongen\|Ocrignongen]] con cada pincelada de luz que surja de la roca.

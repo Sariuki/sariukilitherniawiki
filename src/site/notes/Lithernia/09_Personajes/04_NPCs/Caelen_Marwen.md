@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/04-np-cs/caelen-marwen/","title":"Caelen Marwen","tags":["lithernia","personaje"]}
+---
+
+Una figura alta y esbelta se desliza con elegancia entre los corredores de [[Lithernia/02_Reinos/Kingdom_of_Eldrador/Yndoriel\|Yndoriel]]. La piel de Caelen Marwen varía con la estación: en primavera, su tez tiene el brillo dulce del amanecer, y en invierno se torna pálida como la luz de la luna. Sus ojos, de un violeta profundo, parecen contener miríadas de estrellas brillando en un cosmos secreto. Su cabello cambia desde un verde musgo luminoso en días de aspecto jovial hasta un blanco azulado en los momentos de mayor reflexión, reflejando su íntima conexión con los ciclos estacionales.
+
+Vistiendo una toquilla blanca que brilla tenuemente con hilos de plata en forma de constelaciones, y portando un báculo coronado con un cristal lunar opalino, Caelen camina siempre acompañado por una sensación de remanso espiritual. Su voz es suave, musical, resonando a modo de eco lejanamente arcaico, y sus palabras tienen la cualidad de envolver las mentes y corazones, haciendo que incluso los más escépticos busquen consuelo en su presencia.
+
+Como consejero de la corte real, Caelen mantiene un paso constante en las sombras del poder, ofreciendo apenas las pistas mínimas y sabias para que se tomen decisiones contenidas. Conoce bien los peligros de la profecía que lo ha marcado silenciosamente; sabe del poder inquietante encerrado en las antiguas [[Lithernia/09_Personajes/Leyendas\|Leyendas]] del Primer Rey y busca disipar la oscuridad, gestando alianzas cautas con otros nobles de la ciudad, a la vez que demanda discreción ante los lobos susurrantes de la traición, tanto entre la alta nobleza como en el mundo oculto de los elfos oscuros.  
+
+Caelen Marwen es el faro de una prudencia mística en [[Lithernia/02_Reinos/Eldrador\|Eldrador]], cuyo destino podría definirse con la marea de estrellas que marca su sabiduría y sensibilidad.

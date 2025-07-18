@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/lithernia/09-personajes/03-agrupaciones/el-conclave-del-velo-argenteo/borin-runescribe/","tags":["lithernia","personajes","Cónclave del Velo Argénteo","enano","valtoriano"]}
+---
+
+# Borin Runescribe
+
+### Biografía
+
+Borin Runescribe no es simplemente un historiador; es la memoria pétrea del Cónclave del Velo Argénteo, un enano de [[Lithernia/02_Reinos/Valtoria\|Valtoria]] cuya vida ha estado dedicada a descifrar los ecos de la verdad en un mundo construido sobre mentiras. Nacido en el seno del clan Runescribe, una línea menor y casi extinta de maestros canteros y cronistas de la montaña, Borin creció con la creencia de que la historia más pura no se escribe en pergaminos, sino que se talla en la roca viva de Lithernia. Su clan fue el guardián de las Crónicas Profundas, genealogías y profecías grabadas en las raíces mismas de las montañas de [[Lithernia/02_Reinos/Valtoria\|Valtoria]], un saber que se creía inmune al fuego y al tiempo.
+
+El Cataclismo del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]] demostró cuán equivocados estaban. Aunque no destruyó las montañas por completo, las sacudió hasta sus cimientos, derrumbando criptas ancestrales y fragmentando las grandes estelas rúnicas en un rompecabezas de millones de piezas. Para el clan Runescribe, fue una herida más profunda que cualquier guerra. Su propósito, su legado, yacía en ruinas. Borin, entonces un joven aprendiz, dedicó los siguientes dos siglos de su vida a una tarea titánica: recuperar los fragmentos, compararlos con copias deterioradas y tratar de reconstruir el conocimiento perdido.
+
+Fue durante esta búsqueda solitaria que encontró a otros como él: un archivero elfo cuyos textos se habían convertido en cenizas, una cartógrafa humana cuyos [[Lithernia/12_Atlas/Mapas\|Mapas]] ya no correspondían a la realidad. Juntos, fundaron el Cónclave del Velo Argénteo, jurando descubrir la verdad que los dioses y los nuevos reyes habían intentado borrar. Borin se convirtió en la "Voz del Pasado", el experto supremo en lenguajes muertos, simbología pre-cataclísmica y criptografía rúnica. Su motivación no es la sed de poder ni el deseo de restaurar al Primer Rey; es una obsesión enraizada en el deber de un enano: reparar lo que se ha roto y honrar la palabra de los ancestros, incluso si esa palabra está grabada en piedra.
+
+Dentro del Cónclave, Borin representa el ala conservadora y metódica. Su relación con los otros líderes es compleja. Desconfía de la audacia de Lyra, una joven agente de campo cuyas incursiones en fortalezas enemigas considera una apuesta innecesaria que podría exponerlos a todos. Para Borin, el conocimiento debe ser desenterrado con paciencia, no robado a punta de daga. Su desacuerdo más profundo, sin embargo, es con el elfo Kaelenor. Mientras Kaelenor confía en la memoria élfica, en la interpretación de los vientos y las estrellas, Borin lo considera una fuente de datos poética pero inherentemente falible. "¿De qué sirve una canción", suele murmurar, "cuando el peso de una montaña puede aplastarla? La verdad es pesada, Kaelenor. Debe tener cimientos". Esta tensión filosófica define al Cónclave: una lucha constante entre la evidencia tangible que Borin busca y los susurros efímeros que otros persiguen.
+
+Entre sus hazañas para el Cónclave se cuenta la traducción de las Tablillas de Basalto de la Caída Dragónica, que revelaron la participación de un dios menor en la traición a Tal'vorak, y su identificación de la firma arcana del Primer Rey en un fragmento de la Lanza Chronos recuperado por Lyra, una prueba que ha mantenido en absoluto secreto, esperando el momento adecuado para revelarla.
+
+### Descripción Física y Equipamiento
+
+Borin es la encarnación de la resistencia enana. Aunque su edad ha plateado los bordes de su larga barba negra, trenzada con cuentas de obsidiana y plata que registran linajes olvidados, no hay fragilidad en su postura. Es ancho de hombros y compacto, con la fuerza de un cantero que ha pasado siglos trabajando la piedra. Su rostro es un mapa de concentración, con profundas arrugas alrededor de unos ojos grises que parecen analizar el mundo en busca de patrones y fallas. Sus manos son callosas y fuertes, permanentemente manchadas de polvo de piedra y tinta de archivo.
+
+Viste túnicas de [[Lithernia/05_Trasfondos/Erudito\|Erudito]] de lana oscura y resistente, de corte práctico y sin adornos, pero reforzadas con cuero en codos y hombros. Sobre ellas lleva un tabardo de cuero grueso que alberga docenas de bolsillos y presillas para sus herramientas. No porta armadura, pues considera que la mejor defensa es no ser encontrado, pero nunca se separa de su martillo de geólogo. Este instrumento, con una cabeza de acero rúnico y un mango de roble petrificado, es una reliquia de su clan y le sirve tanto para tomar muestras de roca como para defenderse con una eficacia contundente si la situación lo exige.
+
+Su equipo más preciado es su bolsa de escriba: un conjunto de cinceles de mithril de distintos grosores, lentes de aumento engastadas en bronce, pergaminos de piel tratada, carbones para calcos y una colección de pigmentos minerales para fabricar sus propias tintas, capaces de perdurar milenios.
+
+### Legado e Impacto en Lithernia
+
+Borin Runescribe es el ancla que impide que el Cónclave del Velo Argénteo se pierda en el mar de las conjeturas. Mientras otros persiguen profecías y visiones, él exige pruebas, artefactos, inscripciones. Es el pilar sobre el que se construye el archivo secreto de la organización, un compendio de verdades prohibidas que tiene el poder de deslegitimar dinastías y reescribir la fe de continentes enteros.
+
+Su impacto no se medirá en batallas ganadas, sino en la revelación final que su trabajo meticuloso pueda desatar. Si Borin logra reconstruir el verdadero relato de la Era del Primer Rey y la naturaleza del [[Lithernia/09_Personajes/01_Dioses/Lilium\|Lilium]], podría entregar a Lithernia el arma más poderosa de todas: la verdad. Una verdad que podría unir a los reinos contra los dioses manipuladores o, con la misma facilidad, sumirlos en una guerra civil para la que nadie está preparado. Su legado será el de un enano que, con martillo y cincel, no buscaba construir un muro o una fortaleza, sino demoler la prisión de ignorancia que encierra a todo el mundo.
